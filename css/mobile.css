@@ -1,0 +1,13 @@
+@media(max-width:575px){
+  body{overflow-x:hidden}
+  .display-6{font-size:2rem}
+  .talk-card{max-width:100%}
+  .talk-card .card-body{padding:.9rem}
+  .talk-card .d-flex.gap-2{min-width:0}
+  .talk-card .flex-grow-1{min-width:0;overflow-wrap:anywhere}
+  .talk-time{min-width:48px;font-size:.8rem}
+  .talk-title,.talk-description{overflow-wrap:anywhere;word-break:break-word}
+  .speaker-chip{font-size:.7rem;white-space:normal;overflow-wrap:anywhere}
+  .talk-card .d-flex.align-items-center.gap-2{flex-wrap:wrap}
+  .talk-card .d-flex.align-items-center.gap-2 .ms-auto{margin-left:0!important}
+}
