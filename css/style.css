@@ -113,3 +113,17 @@ body {
     font-size: .8rem;
     color: var(--muted);
 }
+
+.btn-primary {
+    background-color: var(--brand-dark);
+    border-color: var(--brand-dark);
+    color: #ffffff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #162044;
+    border-color: #162044;
+    color: #ffffff;
+}
