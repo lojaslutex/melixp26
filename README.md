@@ -1,26 +1,55 @@
-# Fórum ECBR 2026
+# Extrator Mercado Livre Experience
 
-Aplicação PWA em HTML, CSS e JavaScript puro para consultar a programação oficial do Fórum E-Commerce Brasil 2026.
+Este projeto atualiza automaticamente `data/programacao.json` a partir da programação publicada no site do Mercado Livre Experience.
 
-## Executar
+## Estrutura
 
-Abra esta pasta com um servidor HTTP local e acesse `index.html`. O uso de servidor é necessário para que o navegador carregue o JSON e instale o PWA.
+```text
+.
+├── data/
+│   └── programacao.json
+├── scripts/
+│   └── extrator_programacao.py
+└── .github/
+    └── workflows/
+        └── atualizar-programacao.yml
+```
 
-## Atualizar a programação
+## Execução manual no GitHub
 
-O arquivo `data/programacao.json` foi extraído do HTML oficial fornecido. Para repetir a extração, execute na raiz do workspace:
+No repositório:
 
-`node extractor.js "C:\\Users\\Guilherme\\Downloads\\Programação _ Fórum E-Commerce Brasil 2026.html" "outputs\\forum-ecbr\\data\\programacao.json"`
+1. Acesse **Actions**.
+2. Selecione **Atualizar programação Mercado Livre Experience**.
+3. Clique em **Run workflow**.
+4. Aguarde o workflow terminar.
 
-O extrator não cria conteúdo: campos ausentes na fonte ficam vazios. Ele preserva data, horário, palco, título, descrição, empresas, palestrantes, temas, tags e imagens disponíveis.
+O arquivo `data/programacao.json` será atualizado e, se houver mudanças, o GitHub fará um commit automaticamente.
 
-## Recursos
+## Execução automática
 
-- Busca e filtros instantâneos.
-- Favoritas, assistidas e notas pessoais no armazenamento local.
-- Roteiro de favoritas, alerta de conflito e exportação CSV/ICS.
-- Página individual da palestra, contador para a próxima favorita, tema escuro e funcionamento offline após a primeira visita.
+O workflow também está configurado para rodar diariamente às **07:00 no horário de Brasília** (10:00 UTC).
 
-## Publicar
+## Execução local
 
-Hospede o conteúdo da pasta em qualquer servidor HTTPS estático. Para publicar uma atualização, substitua `data/programacao.json` e incremente a chave `CACHE` em `service-worker.js`.
+É necessário Python 3.
+
+```bash
+python scripts/extrator_programacao.py
+```
+
+O arquivo será salvo em:
+
+```text
+data/programacao.json
+```
+
+## Observação
+
+O extrator primeiro tenta descobrir os arquivos JavaScript atuais na página principal. O arquivo JS atualmente conhecido também é mantido como fallback:
+
+```text
+https://mercadolivreexperience.mercadolivre.com.br/_next/static/chunks/app/page-eba548846f7b2a93.js
+```
+
+A programação é extraída diretamente das estruturas `24/SET` e `25/SET` do JavaScript, sem depender do HTML renderizado da página.
