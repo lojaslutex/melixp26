@@ -2,7 +2,6 @@ name: Atualizar programação Mercado Livre Experience
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0 10 * * *"
 
@@ -39,7 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add data/programacao.json
           git commit -m "Atualiza programação Mercado Livre Experience"
           git push
