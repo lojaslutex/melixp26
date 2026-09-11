@@ -3,6 +3,7 @@ name: Atualizar programação Mercado Livre Experience
 on:
   workflow_dispatch:
   schedule:
+    # Todos os dias às 10:00 UTC (07:00 no horário de Brasília)
     - cron: "0 10 * * *"
 
 permissions:
@@ -21,27 +22,27 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Extrair programação
+      - name: Atualizar programação
         run: python scripts/extrator_programacao.py
 
       - name: Verificar alterações
-        id: changes
+        id: verificar
         run: |
           if git diff --quiet -- data/programacao.json; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "alterado=false" >> "$GITHUB_OUTPUT"
+            echo "Nenhuma alteração na programação."
           else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "alterado=true" >> "$GITHUB_OUTPUT"
+            echo "A programação foi alterada."
+            git diff --stat -- data/programacao.json
           fi
 
-      - name: Commit e push do programacao.json
-        if: steps.changes.outputs.changed == 'true'
+      - name: Commit e push
+        if: steps.verificar.outputs.alterado == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/programacao.json
-          git commit -m "Atualiza programação Mercado Livre Experience"
-          git push
 
-      - name: Nenhuma alteração
-        if: steps.changes.outputs.changed == 'false'
-        run: echo "A programação não sofreu alterações."
+          git add data/programacao.json
+          git commit -m "Atualiza programação MLXP26"
+          git push
