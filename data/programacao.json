@@ -1,2289 +1,1913 @@
-[
-  {
-    "id": "24-set-1100-o-vendedor-no-centro-da-estratégia:-as-novidades-que-vêm-pela-frente-para-impact",
-    "data": "24/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Palco Principal",
-    "titulo": "O Vendedor no Centro da Estratégia: as Novidades que Vêm pela Frente para Impactar Positivamente Seu Negócio",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Roberta Donato e Maurício Landi",
-        "empresa": "",
-        "cargo": ""
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Ferramentas Mercado Livre",
-      "Assessoria do Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1130-o-método-perini",
-    "data": "24/SET",
-    "hora_inicio": "11:30",
-    "hora_fim": "",
-    "horario_original": "11:30",
-    "palco": "Palco Principal",
-    "titulo": "O Método Perini",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Bruno Perini",
-        "empresa": "Mercado Livre",
-        "cargo": ""
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Crédito e Meios de Pagamento",
-      "Publicidade e Ads",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Consultoria Externa",
-      "Central de Vendedores",
-      "Precificação Fiscal e Tributário",
-      "Conciliação Financeira",
-      "Mercado Pago",
-      "Assistente - Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1220-4-passos-para-vender-no-instagram,-whatsapp-e-site-próprio",
-    "data": "24/SET",
-    "hora_inicio": "12:20",
-    "hora_fim": "",
-    "horario_original": "12:20",
-    "palco": "Talks Mercado Pago",
-    "titulo": "4 Passos para Vender no Instagram, WhatsApp e Site Próprio",
-    "descricao": "Aprenda como transformar seguidores em compradores usando as ferramentas certas: conteúdo que engaja, catálogos e links de pagamento no WhatsApp, bio livre e checkout no site próprio.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Matheus Rodrigues Barbosa",
-        "empresa": "Mercado Pago",
-        "cargo": "Gerente Sênior Marketing"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Social Commerce",
-      "Publicidade e Ads",
-      "Ferramentas Mercado Livre",
-      "Central de Vendedores",
-      "Central de Promoções",
-      "Minha Página",
-      "Afiliados",
-      "Assistente - Mercado Livre",
-      "Live"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1220-aumente-seguidores-e-construa-vendas-a-longo-prazo-com-mercado-ads",
-    "data": "24/SET",
-    "hora_inicio": "12:20",
-    "hora_fim": "",
-    "horario_original": "12:20",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Aumente Seguidores e Construa Vendas a Longo Prazo com Mercado Ads",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Luiza Castro",
-        "empresa": "Mercado Livre",
-        "cargo": "Especialista Mercado Ads"
-      },
-      {
-        "nome": "Lucas Schwichtemberg",
-        "empresa": "HimmelCorp",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1220-temporada-black:-a-sua-maior-oportunidade-de-vendas",
-    "data": "24/SET",
-    "hora_inicio": "12:20",
-    "hora_fim": "",
-    "horario_original": "12:20",
-    "palco": "Palco Principal",
-    "titulo": "Temporada Black: a Sua Maior Oportunidade de Vendas",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "André Castilho",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Luiza Gurgel",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Ads"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Operações",
-      "Gestão de Estoque",
-      "Precificação de Produto",
-      "Black Friday",
-      "Ferramentas Mercado Livre",
-      "Ads",
-      "Central de Vendedores",
-      "Central de Promoções",
-      "Catálogo",
-      "Full",
-      "Flex",
-      "Coletas",
-      "Envios",
-      "Clips",
-      "Minha Página",
-      "Afiliados",
-      "Live"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1220-minha-página:-potencialize-seu-negócio-com-seus-seguidores",
-    "data": "24/SET",
-    "hora_inicio": "12:20",
-    "hora_fim": "",
-    "horario_original": "12:20",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Minha Página: Potencialize Seu Negócio com Seus Seguidores",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Julia Zancaner",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Experiência do Vendedor"
-      },
-      {
-        "nome": "Thiago Franco",
-        "empresa": "ICOM",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Minha Página",
-      "Central de Promoções",
-      "Central de Vendedores",
-      "Ferramentas Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1220-como-otimizar-suas-promoções-e-maximizar-suas-vendas-com-a-central-de-promoções",
-    "data": "24/SET",
-    "hora_inicio": "12:20",
-    "hora_fim": "",
-    "horario_original": "12:20",
-    "palco": "Talks Assurant",
-    "titulo": "Como Otimizar Suas Promoções e Maximizar Suas Vendas com a Central de Promoções",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Vitor Laranjeira Caldini",
-        "empresa": "Mercado Livre",
-        "cargo": "Especialista Promoções"
-      },
-      {
-        "nome": "Mariana Coelho",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Promoções"
-      },
-      {
-        "nome": "Gabriel Bollico",
-        "empresa": "Ecommerce Puro",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1220-transporte-sustentável-que-fecha-a-conta:-como-parcerias-e-novas-tecnologias-est",
-    "data": "24/SET",
-    "hora_inicio": "12:20",
-    "hora_fim": "",
-    "horario_original": "12:20",
-    "palco": "Talks GolLog",
-    "titulo": "Transporte Sustentável que Fecha a Conta: Como Parcerias e Novas Tecnologias Estão Transformando a Logística no Brasil",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Rodrigo Brito",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Sustentabilidade Ambiental"
-      },
-      {
-        "nome": "Diego Gagnotto",
-        "empresa": "Ultragaz",
-        "cargo": "Gerente Geral Gases Renováveis"
-      },
-      {
-        "nome": "Lucas Zanon",
-        "empresa": "EVMOB",
-        "cargo": "C-Level / CEO Direção Geral"
-      },
-      {
-        "nome": "Frederico Rezeck",
-        "empresa": "Mercado Livre",
-        "cargo": "VP Transportes Brasil"
-      },
-      {
-        "nome": "Janaína Gasparetto Maroni",
-        "empresa": "Grupo Maroni",
-        "cargo": "Diretor(a) Jurídica e de Sustentabilidade"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Logística",
-      "Operações",
-      "Envios",
-      "Coletas",
-      "Full",
-      "Flex",
-      "Ferramentas Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1310-pet-trends:-tendências-que-vão-mudar-o-jogo-nas-vendas-online",
-    "data": "24/SET",
-    "hora_inicio": "13:10",
-    "hora_fim": "",
-    "horario_original": "13:10",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Pet Trends: Tendências que Vão Mudar o Jogo nas Vendas Online",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Magali Aquino",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Supermercado"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1310-ia-em-ação:-como-a-wap-multiplica-resultados-no-mercado-livre-em-tempo-real",
-    "data": "24/SET",
-    "hora_inicio": "13:10",
-    "hora_fim": "",
-    "horario_original": "13:10",
-    "palco": "Talks Mercado Ads",
-    "titulo": "IA em Ação: Como a WAP Multiplica Resultados no Mercado Livre em Tempo Real",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Roberta Pachere",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Construção, Ferramentas e Iluminação"
-      },
-      {
-        "nome": "Vinicius de Moraes",
-        "empresa": "WAP",
-        "cargo": "Gerente"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1310-mercado-pago-apresenta:-como-estruturar-o-seu-negócio-para-crescer-com-beca-mila",
-    "data": "24/SET",
-    "hora_inicio": "13:10",
-    "hora_fim": "",
-    "horario_original": "13:10",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Mercado Pago Apresenta: Como Estruturar o Seu Negócio para Crescer com Beca Milano",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Beca Milano",
-        "empresa": "Mercado Pago",
-        "cargo": "Empreendedor(a)"
-      }
-    ],
-    "tema": "Inspiracional",
-    "tags": [
-      "Tendências de Mercado",
-      "Crédito e Meios de Pagamento",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Assistente - Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1310-maior-operação-aérea-cargueira-do-país:-gollog,-mercado-livre-e-ponto-cargo-traz",
-    "data": "24/SET",
-    "hora_inicio": "13:10",
-    "hora_fim": "",
-    "horario_original": "13:10",
-    "palco": "Talks GolLog",
-    "titulo": "Maior Operação Aérea Cargueira do País: GolLog, Mercado Livre e Ponto Cargo Trazem o Case de Sucesso da IntelBras",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Ignacio Javier",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Comercial Meli Air"
-      }
-    ],
-    "tema": "Cases de sucesso",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1400-as-ferramentas-de-ia-que-já-fazem-diferença-no-seu-negócio",
-    "data": "24/SET",
-    "hora_inicio": "14:00",
-    "hora_fim": "",
-    "horario_original": "14:00",
-    "palco": "Palco Principal",
-    "titulo": "As Ferramentas de IA que Já Fazem Diferença no Seu Negócio",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Ana Mantovani",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Desenvolvimento de Sistemas e Produtos"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Inteligência Artificial",
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Case de Sucesso",
-      "Inspiracional",
-      "Tecnologia",
-      "Operações",
-      "Precificação de Produto",
-      "Assessoria do Mercado Livre",
-      "Ferramentas Mercado Livre",
-      "Ads",
-      "Central de Vendedores",
-      "Central de Promoções",
-      "Assistente - Mercado Livre",
-      "Assistente - Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1400-trilha-do-sucesso-off-to-on:-como-maximizar-oportunidades-e-integrar-canais-de-v",
-    "data": "24/SET",
-    "hora_inicio": "14:00",
-    "hora_fim": "",
-    "horario_original": "14:00",
-    "palco": "Talks GolLog",
-    "titulo": "Trilha do Sucesso Off-to-On: Como Maximizar Oportunidades e Integrar Canais de Venda do Setor de Construção e Ferramentas",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Rodrigo Ribeiro",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Construção, Ferramentas e Iluminação"
-      },
-      {
-        "nome": "Felipe Filgueiras",
-        "empresa": "Avant",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Juliano Isley",
-        "empresa": "Vonder",
-        "cargo": "Diretor(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1400-casacor-e-mercado-livre:-da-inspiração-à-realidade-do-seu-lar-e-do-seu-negócio",
-    "data": "24/SET",
-    "hora_inicio": "14:00",
-    "hora_fim": "",
-    "horario_original": "14:00",
-    "palco": "Arena Mercado Livre",
-    "titulo": "CasaCor e Mercado Livre: da Inspiração à Realidade do Seu Lar e do Seu Negócio",
-    "descricao": "A CasaCor, maior referência em curadoria de arquitetura e decoração das Américas, e o Mercado Livre se unem para revelar como as tendências que moldam o setor chegam ao consumidor e como o vendedor pode se antecipar a esse movimento. Um painel com Edward Pimenta e Lívia Pedreira, diretores da CasaCor, e Fausto Araujo, diretor de Casa e Decoração do Mercado Livre.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Fausto Araujo",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Marketplace"
-      },
-      {
-        "nome": "Livia Pedreira",
-        "empresa": "CASACOR",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Edward Pimenta",
-        "empresa": "CASACOR",
-        "cargo": "Diretor(a) Executivo(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Construção e Iluminação",
-      "Casa & Decoração",
-      "Ferramentas Mercado Livre",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Operações"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1400-para-quem-vende-no-marketplace:-preço-certo,-caixa-no-azul.",
-    "data": "24/SET",
-    "hora_inicio": "14:00",
-    "hora_fim": "",
-    "horario_original": "14:00",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Para Quem Vende no Marketplace: Preço Certo, Caixa no Azul.",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Guilherme Cadavez",
-        "empresa": "Mercado Pago",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Dhiego Rosa",
-        "empresa": "Escalada",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Crédito e Meios de Pagamento",
-      "Precificação Fiscal e Tributário",
-      "Tecnologia",
-      "Consultoria Externa",
-      "Operações",
-      "Precificação de Produto",
-      "Ferramentas Mercado Livre",
-      "Conciliação Financeira",
-      "Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1400-novos-lançamentos-que-permitem-personalizar-sua-estratégia-de-negócio",
-    "data": "24/SET",
-    "hora_inicio": "14:00",
-    "hora_fim": "",
-    "horario_original": "14:00",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Novos Lançamentos que Permitem Personalizar Sua Estratégia de Negócio",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Samara Morais",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Comercial Fashion"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1400-pessoas-e-tecnologia:-como-escalar-resultados-e-gerar-impacto-na-era-da-ia",
-    "data": "24/SET",
-    "hora_inicio": "14:00",
-    "hora_fim": "",
-    "horario_original": "14:00",
-    "palco": "Talks Assurant",
-    "titulo": "Pessoas e Tecnologia: Como Escalar Resultados e Gerar Impacto na Era da IA",
-    "descricao": "Como o Mercado Livre tornou realidade o desafio de ter um ecossistema AI‑first. Este painel desmistifica a inteligência artificial e mostra como ela deixou de ser um conceito distante para se tornar a chave da eficiência operacional e da produtividade da companhia.\n\nO público será convidado a descobrir como o Mercado Livre aplica IA para otimizar fluxos e capacitar seus funcionários para funções estratégicas. O painel trará uma discussão prática sobre como líderes podem deixar de fazer uma gestão focada apenas em “recursos” operacionais para investir em “mentes” apoiadas pela tecnologia.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Patricia Monteiro",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Pessoas"
-      },
-      {
-        "nome": "Daniel Sena",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior"
-      },
-      {
-        "nome": "Vinicius Rocha",
-        "empresa": "Grupo LinVin",
-        "cargo": "Diretor"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1450-influência-que-gera-receita:-venda-mais-com-afiliados",
-    "data": "24/SET",
-    "hora_inicio": "14:50",
-    "hora_fim": "",
-    "horario_original": "14:50",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Influência que Gera Receita: Venda Mais com Afiliados",
-    "descricao": "Amplie o alcance dos seus produtos com o Venda com Afiliados e só pague quando a venda acontecer. Saiba como ativar esse canal de aquisição, tornar seus produtos atrativos para criadores e afiliados e transformar influência em resultado real.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Rodrigo Freitas",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Social Commerce"
-      },
-      {
-        "nome": "Bruno Maciel",
-        "empresa": "Ecommerce Verso",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Social commerce",
-    "tags": [
-      "Social Commerce",
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Inspiracional",
-      "Live",
-      "Afiliados",
-      "Consultoria Externa"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1450-é-agora:-gaming,-mercado-livre-e-você",
-    "data": "24/SET",
-    "hora_inicio": "14:50",
-    "hora_fim": "",
-    "horario_original": "14:50",
-    "palco": "Talks Assurant",
-    "titulo": "É Agora: Gaming, Mercado Livre e Você",
-    "descricao": "Gonzalo Greco, Diretor de Consumer Electronics do Mercado Livre, apresenta o cenário atual do mercado gamer, bem como seus desafios, oportunidades e as principais alavancas comerciais para transformar o ML no principal destino gamer do País. \nDa escassez global de chips ao crescimento de 39% da categoria na plataforma, a palestra mostra como marcas e sellers podem usar o ecossistema do Mercado Livre para vender mais, com maior alcance e melhor experiência para o consumidor.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Gonzalo Greco",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Tecnologia"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1450-publicidade-com-ia-para-acelerar-o-seu-negócio",
-    "data": "24/SET",
-    "hora_inicio": "14:50",
-    "hora_fim": "",
-    "horario_original": "14:50",
-    "palco": "Palco Principal",
-    "titulo": "Publicidade com IA para Acelerar o Seu Negócio",
-    "descricao": "Descubra como a IA do Mercado Ads potencializa seus resultados por meio da publicidade digital, sem tirar você do controle: mais vendas, investimentos otimizados e estratégias personalizadas para o seu negócio.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Renata Herz",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Ads"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Inteligência Artificial",
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Precificação de Produto",
-      "Ads",
-      "Central de Promoções"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1450-do-clique-ao-topo:-revelando-os-segredos-do-seller-que-multiplicou-suas-vendas-c",
-    "data": "24/SET",
-    "hora_inicio": "14:50",
-    "hora_fim": "",
-    "horario_original": "14:50",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Do Clique ao Topo: Revelando os Segredos do Seller que Multiplicou Suas Vendas com Ads",
-    "descricao": "Nesta palestra, o seller Coutinho compartilha os bastidores de sua trajetória de crescimento no marketplace e revela as estratégias de Mercado Ads que o ajudaram a multiplicar suas vendas. Uma conversa prática sobre decisões, aprendizados e ações que fizeram a diferença na jornada do clique ao topo.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Caio Zamunaro",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Growth no Mercado Ads"
-      },
-      {
-        "nome": "Gilberty Gomes Coutinho",
-        "empresa": "Coutinho",
-        "cargo": "Fundador(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1450-prevenção-de-fraudes",
-    "data": "24/SET",
-    "hora_inicio": "14:50",
-    "hora_fim": "",
-    "horario_original": "14:50",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Prevenção de Fraudes",
-    "descricao": "Blinde suas vendas e proteja seu negócio no Mercado Livre. Esta palestra apresenta estratégias essenciais de segurança e proteção de dados para você aplicar no dia a dia e vender com total tranquilidade dentro do ecossistema.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Josefina Borghi",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Investigações Marketplace"
-      },
-      {
-        "nome": "André Santos",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Experiência do Vendedor"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Precificação Fiscal e Tributário",
-      "Prevenção a Fraude",
-      "Jurídico e Propriedade Intelectual"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1450-entenda-como-melhorar-sua-rentabilidade-no-full",
-    "data": "24/SET",
-    "hora_inicio": "14:50",
-    "hora_fim": "",
-    "horario_original": "14:50",
-    "palco": "Talks GolLog",
-    "titulo": "Entenda Como Melhorar Sua Rentabilidade no FULL",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Gabriel Moss",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Qualidade de Estoque"
-      }
-    ],
-    "tema": "Inteligência Artificial",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1540-supermercado-no-digital:-como-marcas-líderes-estão-transformando-presença-em-res",
-    "data": "24/SET",
-    "hora_inicio": "15:40",
-    "hora_fim": "",
-    "horario_original": "15:40",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Supermercado no Digital: Como Marcas Líderes Estão Transformando Presença em Resultado",
-    "descricao": "O e-commerce de bens de consumo cresce em ritmo acelerado, e marcas que entendem como operar com estratégia estão saindo na frente. Neste painel, três indústrias líderes em categorias distintas compartilham suas jornadas, desafios e as decisões que fizeram a diferença para escalar no Mercado Livre.\n\nYpê, Nespresso e Concha y Toro sobem ao palco para mostrar, na prática, que não existe um único caminho para o crescimento no digital. Cada uma com seu modelo, seu portfólio e sua estratégia, mas com um ponto em comum: execução consistente e uso inteligente das ferramentas da plataforma.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Cássia Teixeira",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Supermercado"
-      },
-      {
-        "nome": "Igor Prado",
-        "empresa": "Ypê",
-        "cargo": "Gerente"
-      },
-      {
-        "nome": "Juliana Suguino",
-        "empresa": "Nespresso",
-        "cargo": "Gerente"
-      },
-      {
-        "nome": "Renan Gothard",
-        "empresa": "Concha y Toro",
-        "cargo": "Gerente"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1540-o-futuro-da-venda-é-social:-a-estratégia-do-mercado-livre-para-o-social-commerce",
-    "data": "24/SET",
-    "hora_inicio": "15:40",
-    "hora_fim": "",
-    "horario_original": "15:40",
-    "palco": "Palco Principal",
-    "titulo": "O Futuro da Venda É Social: a Estratégia do Mercado Livre para o Social Commerce",
-    "descricao": "Social Commerce não é uma tendência, é uma transformação real na jornada de compra. Entenda como o ecossistema de vídeos, lives, afiliados e criadores do Mercado Livre está redefinindo a forma como consumidores descobrem e compram produtos, e por que entrar agora pode ser sua maior vantagem competitiva.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Renata Gerez",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Social Commerce"
-      }
-    ],
-    "tema": "Social commerce",
-    "tags": [
-      "Inteligência Artificial",
-      "Tendências de Mercado",
-      "Social Commerce",
-      "Publicidade e Ads",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Clips",
-      "Live",
-      "Afiliados"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1540-descubra-produtos-campeões:-como-usar-a-inteligência-do-mercado-livre-para-cresc",
-    "data": "24/SET",
-    "hora_inicio": "15:40",
-    "hora_fim": "",
-    "horario_original": "15:40",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Descubra Produtos Campeões: Como Usar a Inteligência do Mercado Livre para Crescer Mais Rápido",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Tercius Nascimento",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Estratégia de Sortimento"
-      },
-      {
-        "nome": "Barbara Chiaretti",
-        "empresa": "Mercado Livre",
-        "cargo": "Especialista Estratégia de Sortimento"
-      },
-      {
-        "nome": "Samira Santana",
-        "empresa": "Digital Growth",
-        "cargo": "Gerente de Marketing"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Inteligência Artificial",
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Ads",
-      "Ferramentas Mercado Livre",
-      "Assistente - Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1540-o-cliente-que-você-ignora-é-o-que-mais-dá-lucro-—-como-crescer-no-mercado-livre-",
-    "data": "24/SET",
-    "hora_inicio": "15:40",
-    "hora_fim": "",
-    "horario_original": "15:40",
-    "palco": "Talks Assurant",
-    "titulo": "O Cliente que Você Ignora É o que Mais Dá Lucro — Como Crescer no Mercado Livre Vendendo para Empresas",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Rodrigo Ribeiro",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente"
-      },
-      {
-        "nome": "Ricardo Santana",
-        "empresa": "Mercado Seller",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1540-empreender-para-crescer:-da-oportunidade-ao-negócio",
-    "data": "24/SET",
-    "hora_inicio": "15:40",
-    "hora_fim": "",
-    "horario_original": "15:40",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Empreender para Crescer: da Oportunidade ao Negócio",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Giovanni Marins Cardoso",
-        "empresa": "Mondial",
-        "cargo": "Fundador(a)"
-      },
-      {
-        "nome": "Gonzalo Greco",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Tecnologia"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Assessoria do Mercado Livre",
-      "Eletrodomésticos — Linha Branca",
-      "Eletroportáteis",
-      "Eletrônicos & Games"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1540-reputação-no-verde:-como-o-termômetro-se-tornou-seu-maior-motor-de-crescimento",
-    "data": "24/SET",
-    "hora_inicio": "15:40",
-    "hora_fim": "",
-    "horario_original": "15:40",
-    "palco": "Talks GolLog",
-    "titulo": "Reputação no Verde: Como o Termômetro Se Tornou Seu Maior Motor de Crescimento",
-    "descricao": "Reputação: o motor de crescimento do seu negócio no Mercado Livre.\n\nNesta sessão, vamos percorrer como funcionam os algoritmos de Reputação e Experiência de Compra, quais variáveis mais impactam a cor da conta e o desempenho das publicações, e quais ferramentas concretas estão disponíveis para melhorar e manter a performance, incluindo duas novidades deste ano: Autoremedies, o sistema que usa IA para corrigir publicações antes que gerem reclamações, e as Recomendações com IA, cards personalizados no dashboard que traduzem métricas em ações práticas.\n\nSe você quer entender como fazer sua reputação trabalhar a seu favor e não contra você, esta é a sessão.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Francisco Ruda",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior"
-      },
-      {
-        "nome": "Julia Zancaner",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Experiência do Vendedor"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1630-gigantes-do-b2b:-como-escalar-as-vendas-para-negócios-dentro-de-construção-e-ind",
-    "data": "24/SET",
-    "hora_inicio": "16:30",
-    "hora_fim": "",
-    "horario_original": "16:30",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Gigantes do B2B: Como Escalar as Vendas para Negócios Dentro de Construção e Indústria",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Cintia Feitosa de Oliveira",
-        "empresa": "Mercado Livre",
-        "cargo": "Especialista Construção, Ferramentas e Iluminação"
-      },
-      {
-        "nome": "Alexandre Leão",
-        "empresa": "Distrinox",
-        "cargo": "Diretor(a) Executivo(a)"
-      },
-      {
-        "nome": "Diogo Martins de Fausto",
-        "empresa": "Schneider Electric Brasil",
-        "cargo": "Diretor(a) Executivo(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1630-da-intuição-ao-algoritmo:-como-a-inteligência-artificial-do-mercado-livre-pode-t",
-    "data": "24/SET",
-    "hora_inicio": "16:30",
-    "hora_fim": "",
-    "horario_original": "16:30",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Da Intuição ao Algoritmo: Como a Inteligência Artificial do Mercado Livre Pode Transformar Sua Operação — do Primeiro Anúncio à Decisão Certa",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Fayson Marques Martins",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Mercado Pago"
-      },
-      {
-        "nome": "Catalina Paredes",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Produto"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1630-principais-impactos-da-reforma-tributária",
-    "data": "24/SET",
-    "hora_inicio": "16:30",
-    "hora_fim": "",
-    "horario_original": "16:30",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Principais Impactos da Reforma Tributária",
-    "descricao": "A maior transformação do sistema tributário brasileiro em décadas já começa a impactar as decisões de negócio. Nesta palestra, Liziane Cordeiro apresenta, de forma prática e objetiva, as principais mudanças com a chegada do IBS e da CBS e seus impactos para empreendedores de diferentes portes. Entre os temas estão o cronograma de transição, os efeitos para empresas do Simples Nacional, as diferenças entre operações B2B e B2C e os principais aspectos que devem ser considerados na definição da estratégia tributária do negócio.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Liziane Cordeiro",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior"
-      },
-      {
-        "nome": "Bruna Purchio Galletti",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Construção e Indústia"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Precificação Fiscal e Tributário",
-      "Jurídico e Propriedade Intelectual",
-      "Operações",
-      "Reforma Tributária",
-      "Conciliação Financeira"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1630-ética-e-responsabilidade-no-e-commerce:-como-as-regras-e-ferramentas-podem-impul",
-    "data": "24/SET",
-    "hora_inicio": "16:30",
-    "hora_fim": "",
-    "horario_original": "16:30",
-    "palco": "Talks GolLog",
-    "titulo": "Ética e Responsabilidade no E-commerce: Como as Regras e Ferramentas Podem Impulsionar as Suas Vendas no Mercado Livre",
-    "descricao": "Os novos hábitos de consumo exigem conformidade e reputação. Esta palestra conecta CDC, Conar e as ferramentas do Mercado Livre, ads e afiliados, mostrando como anunciar corretamente impulsiona vendas e mantém os anúncios ativos na plataforma.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Adriana Cardinali Straube",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Legal Commerce"
-      },
-      {
-        "nome": "Sandra Martinelli",
-        "empresa": "ABA",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1630-como-construir-uma-marca-sólida-com-o-mercado-livre",
-    "data": "24/SET",
-    "hora_inicio": "16:30",
-    "hora_fim": "",
-    "horario_original": "16:30",
-    "palco": "Talks Assurant",
-    "titulo": "Como Construir uma Marca Sólida com o Mercado Livre",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Diego Pudo",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Comunicação e Marketing"
-      },
-      {
-        "nome": "Alexandre Reis",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Saúde"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1630-mercado-pago-apresenta:-o-futuro-dos-pagamentos-chegou,-como-a-ia-impulsiona-o-s",
-    "data": "24/SET",
-    "hora_inicio": "16:30",
-    "hora_fim": "",
-    "horario_original": "16:30",
-    "palco": "Palco Principal",
-    "titulo": "Mercado Pago Apresenta: o Futuro dos Pagamentos Chegou, Como a IA Impulsiona o Seu Negócio",
-    "descricao": "Martha Gabriel apresenta um panorama das tendências que estão reorganizando o mundo dos negócios e mostra como a inteligência artificial vem ganhando espaço também nas instituições financeiras. O impacto chega direto à ponta: mais personalização, operações mais simples e menos tempo gasto com tarefas burocráticas, sobrando mais tempo para o empreendedor fazer o que só ele pode fazer, que é gerir e fazer crescer o próprio negócio.\n\nEntre o cenário global e a prática, Martha convida o público a refletir sobre o avanço da inteligência artificial e sobre como o empreendedor pode usá‑la a seu favor.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Martha Gabriel",
-        "empresa": "Convidado Mercado Pago",
-        "cargo": "Convidado(a) Especial"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Inteligência Artificial",
-      "Tendências de Mercado",
-      "Crédito e Meios de Pagamento",
-      "Publicidade e Ads",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Mercado Pago",
-      "Assistente - Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1720-vendedores-e-mercado-livre-apresentam:-o-futuro-que-construímos-juntos",
-    "data": "24/SET",
-    "hora_inicio": "17:20",
-    "hora_fim": "",
-    "horario_original": "17:20",
-    "palco": "Palco Principal",
-    "titulo": "Vendedores e Mercado Livre Apresentam: o Futuro que Construímos Juntos",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Gustavo Lopes",
-        "empresa": "EMPORIO DO CELULAR",
-        "cargo": "C-Level / CEO VENDEDOR"
-      },
-      {
-        "nome": "Ednilson Brandão",
-        "empresa": "CASAL DO ECOMMERCE",
-        "cargo": "C-Level / CEO VENDEDOR"
-      },
-      {
-        "nome": "Victor Amorim",
-        "empresa": "FIOLUX",
-        "cargo": "C-Level / CEO VENDEDOR"
-      },
-      {
-        "nome": "Bruna",
-        "empresa": "CASAL DO ECOMMERCE",
-        "cargo": "C-Level / CEO VENDEDOR"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Inspiracional",
-      "Case de Sucesso",
-      "Atendimento",
-      "Central de Vendedores"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "24-set-1810-exame-apresenta:-prêmio-mercado-livre",
-    "data": "24/SET",
-    "hora_inicio": "18:10",
-    "hora_fim": "",
-    "horario_original": "18:10",
-    "palco": "Palco Principal",
-    "titulo": "Exame Apresenta: Prêmio Mercado Livre",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "André Santos",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Mercado Livre"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1100-segredos-e-desafios-do-e-commerce-de-móveis:-um-painel-com-os-líderes-da-madeira",
-    "data": "25/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Segredos e Desafios do E-commerce de Móveis: um Painel com os Líderes da MadeiraMadeira",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Roberta Donato",
-        "empresa": "Mercado Livre",
-        "cargo": "Vice-Presidente"
-      },
-      {
-        "nome": "Fabio Fadel",
-        "empresa": "Madeira Madeira",
-        "cargo": "C-Level / COO"
-      },
-      {
-        "nome": "Robson Privado",
-        "empresa": "Madeira Madeira",
-        "cargo": "Co-fundador(a)"
-      }
-    ],
-    "tema": "Cases de sucesso",
-    "tags": [
-      "Casa & Decoração",
-      "Construção e Iluminação",
-      "Móveis e Colchões",
-      "Tendências de Mercado",
-      "Case de Sucesso",
-      "Inspiracional",
-      "Operações",
-      "Ferramentas Mercado Livre",
-      "Assessoria do Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1100-impulsione-seu-negócio-com-soluções-de-crédito-e-conta-negócio-do-mercado-pago",
-    "data": "25/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Impulsione Seu Negócio com Soluções de Crédito e Conta Negócio do Mercado Pago",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Luis Junqueira",
-        "empresa": "Mercado Pago",
-        "cargo": "Gerente Sênior"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Crédito e Meios de Pagamento",
-      "Operações",
-      "Conciliação Financeira",
-      "Mercado Pago",
-      "Assistente - Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1100-anúncios-de-catálogo:-conceitos,-dicas-e-novidades-para-destacar-seus-produtos-e",
-    "data": "25/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Anúncios de Catálogo: Conceitos, Dicas e Novidades para Destacar Seus Produtos e Multiplicar Sua Visibilidade",
-    "descricao": "Esta palestra apresenta o catálogo como uma ferramenta estratégica essencial para o sucesso dos vendedores no Mercado Livre, demonstrando como ele potencializa os processos de anúncio e influencia diretamente o desempenho na Buy Box como uma verdadeira alavanca de vendas. \n\nEntenda o que é o catálogo, como ele melhora a experiência de compra por meio de informações curadas e como facilita o discovery dos produtos. Além disso, conheça os benefícios para o vendedor no momento de anunciar e na conversão. A sessão inclui ainda uma introdução à Buy Box.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Júlia Zancaner",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Experiência do Vendedor"
-      },
-      {
-        "nome": "Gabriel Paiva",
-        "empresa": "Mamba Digital",
-        "cargo": "Gerente Educação"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1100-como-ganhar-tempo-e-aumentar-as-vendas-da-sua-operação-do-mercado-livre.",
-    "data": "25/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Talks GolLog",
-    "titulo": "Como Ganhar Tempo e Aumentar as Vendas da Sua Operação do Mercado Livre.",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Thiago Trincas",
-        "empresa": "Seconds",
-        "cargo": "C-Level / CEO Produto"
-      },
-      {
-        "nome": "Tatiana Inoue",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Produto"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1100-as-3-alavancas-de-escala-no-mercado-livre",
-    "data": "25/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Talks Assurant",
-    "titulo": "As 3 Alavancas de Escala no Mercado Livre",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Cauê Antunes",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Promoções"
-      },
-      {
-        "nome": "Dhiego Rosa",
-        "empresa": "Grupo Escalada",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1100-tendências-de-mercado---um-olhar-para-o-futuro-do-e-commerce",
-    "data": "25/SET",
-    "hora_inicio": "11:00",
-    "hora_fim": "",
-    "horario_original": "11:00",
-    "palco": "Palco Principal",
-    "titulo": "Tendências de Mercado - um Olhar para o Futuro do E-commerce",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "André Castilho",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor Sênior Staff Capabilities"
-      },
-      {
-        "nome": "Gleidys Salvanha",
-        "empresa": "Google",
-        "cargo": "Diretor(a)"
-      }
-    ],
-    "tema": "Tendências de mercado",
-    "tags": [
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Precificação Fiscal e Tributário",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Operações"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1150-pesos-e-medidas:-como-evitar-cobranças-indevidas-e-proteger-sua-margem",
-    "data": "25/SET",
-    "hora_inicio": "11:50",
-    "hora_fim": "",
-    "horario_original": "11:50",
-    "palco": "Talks GolLog",
-    "titulo": "Pesos e Medidas: Como Evitar Cobranças Indevidas e Proteger Sua Margem",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Otávio Vianna",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente de Operações Envios"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1150-da-câmera-ao-carrinho:-como-lives-e-clips-podem-impulsionar-suas-vendas",
-    "data": "25/SET",
-    "hora_inicio": "11:50",
-    "hora_fim": "",
-    "horario_original": "11:50",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Da Câmera ao Carrinho: Como Lives e Clips Podem Impulsionar Suas Vendas",
-    "descricao": "Vídeo deixou de ser comunicação e virou alavanca de vendas. Descubra como usar lives e vídeos de forma simples e estratégica para aumentar a descoberta dos seus produtos, gerar confiança e impulsionar conversão dentro do Mercado Livre.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Stefanie Thiene",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Social Commerce"
-      },
-      {
-        "nome": "Santiago Blanco",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Produto"
-      },
-      {
-        "nome": "Felipe Arsilo",
-        "empresa": "Auren Consultoria",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Social commerce",
-    "tags": [
-      "Tendências de Mercado",
-      "Social Commerce",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Clips",
-      "Afiliados",
-      "Live",
-      "Consultoria Externa"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1150-propriedade-intelectual-na-prática:-o-que-todo-vendedor-precisa-saber",
-    "data": "25/SET",
-    "hora_inicio": "11:50",
-    "hora_fim": "",
-    "horario_original": "11:50",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Propriedade Intelectual na Prática: o que Todo Vendedor Precisa Saber",
-    "descricao": "O objetivo é abordar o combate a venda de produtos irregulares e falsificados no Mercado Livre, auxiliando o vendedor a identificar se vende um produto regular e como seguir as normas do site.\n- Aumentar a conscientização sobre o brand protection program: o que é, como funciona, melhores práticas e outros tópicos relacionados ao programa. \n- Educar os vendedores sobre os riscos de infringir direitos de propriedade intelectual de terceiros.\n- Fornecer informações sobre o processo de criação de uma loja oficial e como registrar uma marca comercial através do IP Booster.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Bárbara Castro",
-        "empresa": "Mercado Livre",
-        "cargo": "Especialista Propriedade Intelectual"
-      },
-      {
-        "nome": "Victoria Siqueira",
-        "empresa": "Mercado Livre",
-        "cargo": "Supervisor(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Jurídico e Propriedade Intelectual",
-      "Ferramentas Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1150-central-de-vendedores,-integradores-ou-desenvolvimento-próprio?-qual-a-solução-p",
-    "data": "25/SET",
-    "hora_inicio": "11:50",
-    "hora_fim": "",
-    "horario_original": "11:50",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
-    "descricao": "Descubra como equilibrar custos e rapidez ao escolher entre ferramentas nativas, integradores ou o desenvolvimento de uma solução própria. Entenda como a inteligência artificial está democratizando automações e ajudando você a tomar a decisão ideal para o momento do seu negócio.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Tamires Lidueña",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente de TI Integradores"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1150-como-impulsionar-a-venda-de-vendedores-locais-chineses-no-mercado-livre",
-    "data": "25/SET",
-    "hora_inicio": "11:50",
-    "hora_fim": "",
-    "horario_original": "11:50",
-    "palco": "Talks Assurant",
-    "titulo": "Como Impulsionar a Venda de Vendedores Locais Chineses no Mercado Livre",
-    "descricao": "Palestra focada em explicar o Mercado Livre para players chineses que ainda não tiveram contato com a plataforma. O conteúdo cobrirá tópicos que vão desde a oportunidade do mercado brasileiro até o básico de como começar a operar no Mercado Livre, além de mostrar como contar com o suporte de um time que fala chinês e oferece uma experiência completa.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Yi Lin",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1240-de-onde-vem-e-para-onde-vai:-a-moda-brasileira-em-movimento",
-    "data": "25/SET",
-    "hora_inicio": "12:40",
-    "hora_fim": "",
-    "horario_original": "12:40",
-    "palco": "Arena Mercado Livre",
-    "titulo": "De Onde Vem e para Onde Vai: a Moda Brasileira em Movimento",
-    "descricao": "Com Amir Slama e Paulo Borges, ícones da moda nacional, Luiz Paulo Sollero, Diretor de Fashion no Mercado Livre, e mediação de Daniela Shinzato, este painel debate a força e o futuro da moda brasileira. Descubra tendências, o comportamento high-low e como o Mercado Livre se posiciona como o principal destino de moda no País.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Daniela Shinzato",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Moda"
-      },
-      {
-        "nome": "Paulo Borges",
-        "empresa": "SPFW",
-        "cargo": "Fundador(a)"
-      },
-      {
-        "nome": "Amir Slama",
-        "empresa": "Amir Slama",
-        "cargo": "Fundador(a)"
-      },
-      {
-        "nome": "Luiz Paulo Sollero",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Fashion"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Moda",
-      "Case de Sucesso",
-      "Inspiracional",
-      "Ferramentas Mercado Livre",
-      "Operações",
-      "Assessoria do Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1240-ofertas-de-crédito:-a-antecipação-de-recebíveis-e-o-cartão-de-crédito-pj",
-    "data": "25/SET",
-    "hora_inicio": "12:40",
-    "hora_fim": "",
-    "horario_original": "12:40",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Ofertas de Crédito: a Antecipação de Recebíveis e o Cartão de Crédito PJ",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Felipp Correa Rigonatti",
-        "empresa": "Mercado Pago",
-        "cargo": "Gerente"
-      },
-      {
-        "nome": "Samuel Bernucci",
-        "empresa": "Mercado Pago",
-        "cargo": "Gerente"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1240-midea-na-copa-2026:-uma-estratégia-de-branding-by-mercado-ads",
-    "data": "25/SET",
-    "hora_inicio": "12:40",
-    "hora_fim": "",
-    "horario_original": "12:40",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Midea na Copa 2026: uma Estratégia de Branding By Mercado Ads",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Desiree Do Carmo Caterini",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Ads"
-      },
-      {
-        "nome": "Barbara Miklacevicius",
-        "empresa": "Midea",
-        "cargo": "Gerente Sênior Marketing"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1240-convivência:-como-construir-o-mix-logístico-ideal-para-sua-operação",
-    "data": "25/SET",
-    "hora_inicio": "12:40",
-    "hora_fim": "",
-    "horario_original": "12:40",
-    "palco": "Talks GolLog",
-    "titulo": "Convivência: Como Construir o Mix Logístico Ideal para Sua Operação",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Karina Cataldo",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Operações de Venda e Estratégia em Envios"
-      },
-      {
-        "nome": "Rodrigo Garcia",
-        "empresa": "Petina Soluções",
-        "cargo": "Diretor(a)"
-      }
-    ],
-    "tema": "Inteligência Artificial",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1240-por-que-o-mercado-livre-cobra-difal?-entenda-os-tributos-nas-suas-vendas",
-    "data": "25/SET",
-    "hora_inicio": "12:40",
-    "hora_fim": "",
-    "horario_original": "12:40",
-    "palco": "Talks Assurant",
-    "titulo": "Por que o Mercado Livre Cobra DIFAL? Entenda os Tributos nas Suas Vendas",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Lisandra Sulzbach",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Planejamento Tributário"
-      },
-      {
-        "nome": "Gabriela Hares",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Planejamento Tributário"
-      }
-    ],
-    "tema": "Inteligência Artificial",
-    "tags": [
-      "Logística",
-      "Precificação Fiscal e Tributário",
-      "Precificação de Produto",
-      "Envios",
-      "Conciliação Financeira"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1330-o-novo-jogo-de-sports:-creators,-afiliados-e-live-commerce-como-motores-de-cresc",
-    "data": "25/SET",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Talks Assurant",
-    "titulo": "O Novo Jogo de Sports: Creators, Afiliados e Live Commerce Como Motores de Crescimento",
-    "descricao": "O novo jogo de Sports: creators, afiliados e live commerce como motores de crescimento.\n\nDescubra como estratégias de social commerce, por meio de creators e afiliados, se tornaram alavancas de alta performance na vertical e como replicar essas práticas na sua operação para ampliar alcance, gerar confiança e converter mais dentro da plataforma.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Juliana Bispo",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Esportes"
-      },
-      {
-        "nome": "Rodrigo Freitas",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Social Commerce"
-      },
-      {
-        "nome": "Jorge Monteiro",
-        "empresa": "Decathlon",
-        "cargo": "Diretor(a) Executivo(a)"
-      },
-      {
-        "nome": "Filipe Junqueira",
-        "empresa": "Odin Fit",
-        "cargo": "Gerente Comercial"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1330-produtos-estrela:-como-selecionar-o-catálogo-de-elite-para-vender-mais-no-full",
-    "data": "25/SET",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Talks GolLog",
-    "titulo": "Produtos Estrela: Como Selecionar o Catálogo de Elite para Vender Mais no Full",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Vitor Caldeira e Silva",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Planejamento de Inventário"
-      },
-      {
-        "nome": "Fabrício Delboni",
-        "empresa": "Ecomconsult",
-        "cargo": "C-Level / CEO"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1330-ads-na-prática:-estratégias-para-vender-mais-e-fidelizar-melhor",
-    "data": "25/SET",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Ads na Prática: Estratégias para Vender Mais e Fidelizar Melhor",
-    "descricao": "Como usar publicidade para crescer de forma sustentável no Mercado Livre?\nEsta palestra apresenta estratégias práticas de Mercado Ads, desde maximizar a visibilidade dos produtos até construir uma base de clientes fiéis, com foco em rentabilidade, automação e aproveitamento de datas especiais.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Joao Paullo Vieira De Almeida",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Operações LATAM do Mercado Ads"
-      },
-      {
-        "nome": "Eduardo Gama",
-        "empresa": "Conecta Ads",
-        "cargo": "Diretor(a) Operações"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Publicidade e Ads",
-      "Case de Sucesso",
-      "Consultoria Externa",
-      "Ads",
-      "Ferramentas Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1330-como-potencializar-as-vendas-ainda-em-2026-com-negociações-e-ia",
-    "data": "25/SET",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Como Potencializar as Vendas Ainda em 2026 com Negociações e IA",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Gabriel Bollico",
-        "empresa": "Ecommerce Puro",
-        "cargo": "C-Level / CEO"
-      },
-      {
-        "nome": "André Santos",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1330-do-anúncio-ao-caixa:-como-ganhar-mais-vendendo-no-mercado-livre",
-    "data": "25/SET",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Do Anúncio ao Caixa: Como Ganhar Mais Vendendo no Mercado Livre",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Rafael Barros",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Ads"
-      },
-      {
-        "nome": "Gabriel Paiva",
-        "empresa": "Mamba Digital",
-        "cargo": "Gerente"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1330-do-processo-criativo-ao-carrinho:-como-tendências-nascem-e-movimentam-o-consumo",
-    "data": "25/SET",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Palco Principal",
-    "titulo": "Do Processo Criativo ao Carrinho: Como Tendências Nascem e Movimentam o Consumo",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Roberta Donato",
-        "empresa": "Mercado Livre",
-        "cargo": "Vice-Presidente Marketplace"
-      },
-      {
-        "nome": "Anitta",
-        "empresa": "",
-        "cargo": "Empreendedor(a)"
-      }
-    ],
-    "tema": "Inspiracional",
-    "tags": [
-      "Inteligência Artificial",
-      "Tendências de Mercado",
-      "Social Commerce",
-      "Publicidade e Ads",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Ferramentas Mercado Livre",
-      "Live",
-      "Clips",
-      "Afiliados"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1420-sucesso-não-aceita-preguiça,-por-joão-adibe",
-    "data": "25/SET",
-    "hora_inicio": "14:20",
-    "hora_fim": "",
-    "horario_original": "14:20",
-    "palco": "Palco Principal",
-    "titulo": "Sucesso Não Aceita Preguiça, por João Adibe",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "João Adibe",
-        "empresa": "Mercado Livre",
-        "cargo": ""
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Inspiracional",
-      "Case de Sucesso"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1510-bastidores-do-crescimento:-cases-reais-da-categoria-de-entretenimento-(livros-e-",
-    "data": "25/SET",
-    "hora_inicio": "15:10",
-    "hora_fim": "",
-    "horario_original": "15:10",
-    "palco": "Talks GolLog",
-    "titulo": "Bastidores do Crescimento: Cases Reais da Categoria de Entretenimento (Livros e Instrumentos Musicais)",
-    "descricao": "Neste painel, marcas e vendedores de Livros e Instrumentos Musicais abrem os bastidores de suas estratégias: como estruturaram suas contas, como usaram o ecossistema do Mercado Livre para escalar vendas e como se posicionaram na plataforma para construir marca, não só volume. Uma conversa direta, com cases reais e aprendizados práticos de quem já encontrou o caminho.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Fernando Fantine",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Brinquedos e Bebês"
-      },
-      {
-        "nome": "Leandro Silva",
-        "empresa": "Tagima",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Endrew Mondoni Vieira",
-        "empresa": "Top Music",
-        "cargo": "C-Level / CEO"
-      },
-      {
-        "nome": "Luciana Borges",
-        "empresa": "Companhia das Letras",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Daniel Rodrigues",
-        "empresa": "Livraria Leitura",
-        "cargo": "Diretor(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1510-farma:-o-próximo-capítulo-da-saúde-digital",
-    "data": "25/SET",
-    "hora_inicio": "15:10",
-    "hora_fim": "",
-    "horario_original": "15:10",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Farma: o Próximo Capítulo da Saúde Digital",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Renata Mascarenhas",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a)"
-      },
-      {
-        "nome": "Fernando Rubio",
-        "empresa": "",
-        "cargo": "Vice-Presidente Mercado Livre"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1510-como-aumentar-conversão-com-preço-competitivo-usando-ferramentas-do-mercado-livr",
-    "data": "25/SET",
-    "hora_inicio": "15:10",
-    "hora_fim": "",
-    "horario_original": "15:10",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Como Aumentar Conversão com Preço Competitivo Usando Ferramentas do Mercado Livre",
-    "descricao": "Nesta palestra, revelamos como transformar preço competitivo em conversão real usando as ferramentas do Mercado Livre. Você vai entender como a percepção de preço por trás do desconto influencia a decisão de compra e quais ferramentas podem colocar seus anúncios sempre um passo à frente da concorrência. Spoiler: preço competitivo não é abrir mão de margem. É conquistar o cliente antes do concorrente.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Ana Carolina Fragal",
-        "empresa": "Mercado Livre",
-        "cargo": "Especialista Pricing"
-      },
-      {
-        "nome": "Helvio Nunes",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Pricing"
-      },
-      {
-        "nome": "Alex Moro",
-        "empresa": "Efeito Empreendedor",
-        "cargo": "Fundador(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1510-do-outro-lado-da-tela:-como-um-grande-seller-compra-no-mercado-livre-e-o-que-iss",
-    "data": "25/SET",
-    "hora_inicio": "15:10",
-    "hora_fim": "",
-    "horario_original": "15:10",
-    "palco": "Talks Assurant",
-    "titulo": "Do Outro Lado da Tela: Como um Grande Seller Compra no Mercado Livre e o que Isso Ensina Sobre Crescer no B2B",
-    "descricao": "Diego Santos, Diretor de Marketplace de Construction & Industry no Mercado Livre Brasil, apresenta como grandes empresas estão transformando suas compras com o Mercado Livre Negócios e o que isso revela sobre o futuro do abastecimento corporativo no Brasil e no mundo.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Jorge Franchella",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Executivo(a) Produto"
-      },
-      {
-        "nome": "Ana Catarina Lucci",
-        "empresa": "GMC",
-        "cargo": "Gerente Comercial"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1510-entrega-rápida,-venda-garantida:-o-protagonismo-da-logística",
-    "data": "25/SET",
-    "hora_inicio": "15:10",
-    "hora_fim": "",
-    "horario_original": "15:10",
-    "palco": "Palco Principal",
-    "titulo": "Entrega Rápida, Venda Garantida: o Protagonismo da Logística",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Luiz Vergueiro",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Operações"
-      },
-      {
-        "nome": "Frederico Rezeck",
-        "empresa": "Mercado Livre",
-        "cargo": "VP Transportes Brasil"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Tendências de Mercado",
-      "Logística",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Operações",
-      "Gestão de Estoque",
-      "Ferramentas Mercado Livre",
-      "Catálogo",
-      "Full",
-      "Flex",
-      "Coletas",
-      "Envios",
-      "Clips"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1510-mercado-pago-apresenta:-como-fazer-o-seu-negócio-crescer-no-digital",
-    "data": "25/SET",
-    "hora_inicio": "15:10",
-    "hora_fim": "",
-    "horario_original": "15:10",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Mercado Pago Apresenta: Como Fazer o Seu Negócio Crescer no Digital",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Amanda Holzer",
-        "empresa": ".Holzer",
-        "cargo": "Palestrante"
-      }
-    ],
-    "tema": "Tendências de mercado",
-    "tags": [
-      "Tendências de Mercado",
-      "Social Commerce",
-      "Crédito e Meios de Pagamento",
-      "Publicidade e Ads",
-      "Consultoria Externa",
-      "Case de Sucesso",
-      "Inspiracional",
-      "Clips",
-      "Live",
-      "Afiliados",
-      "Mercado Pago"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1600-do-primeiro-clique-ao-canal-estratégico:-como-grandes-marcas-de-beleza-constroem",
-    "data": "25/SET",
-    "hora_inicio": "16:00",
-    "hora_fim": "",
-    "horario_original": "16:00",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Do Primeiro Clique ao Canal Estratégico: Como Grandes Marcas de Beleza Constroem Presença e Escala no Mercado Livre",
-    "descricao": "Descubra como grandes marcas do setor de beleza transformaram o Mercado Livre em um pilar estratégico de crescimento. Neste painel, exploraremos a jornada de maturação digital, desde os desafios iniciais de entrada à estruturação de operações escaláveis. Aprenda como utilizar o ecossistema completo para crescer o seu negócio.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Anna Carolina Araripe",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Beleza"
-      },
-      {
-        "nome": "Melanie Frutig",
-        "empresa": "Estée Lauder Companies",
-        "cargo": "VP Consumer Marketing and Data"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Beleza e Cuidado Pessoal",
-      "Tendências de Mercado",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Ferramentas Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1600-embaixo-do-capô-do-b2b:-mercado-livre,-seller-e-o-mecânico-abrem-o-jogo",
-    "data": "25/SET",
-    "hora_inicio": "16:00",
-    "hora_fim": "",
-    "horario_original": "16:00",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Embaixo do Capô do B2B: Mercado Livre, Seller e o Mecânico Abrem o Jogo",
-    "descricao": "O B2B de autopeças é a maior avenida inexplorada do MeLi. Com cases reais de marca, seller e mecânico no mesmo palco, você sai com um modelo pronto para transformar profissionais de oficina em seus melhores clientes.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Daniel Tonietti",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Veículos e Autopartes"
-      },
-      {
-        "nome": "Sergio Santos",
-        "empresa": "SR Motors",
-        "cargo": "Empreendedor(a)"
-      },
-      {
-        "nome": "Leonardo Teodoro",
-        "empresa": "Volkswagen",
-        "cargo": "Supervisor(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1600-democratizando-o-acesso-à-saúde-no-brasil",
-    "data": "25/SET",
-    "hora_inicio": "16:00",
-    "hora_fim": "",
-    "horario_original": "16:00",
-    "palco": "Talks GolLog",
-    "titulo": "Democratizando o Acesso à Saúde no Brasil",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Alexandre Reis",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Saúde"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1600-gestão-eficiente-de-devoluções-2.0",
-    "data": "25/SET",
-    "hora_inicio": "16:00",
-    "hora_fim": "",
-    "horario_original": "16:00",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Gestão Eficiente de Devoluções 2.0",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Regi Cruz",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Envios"
-      },
-      {
-        "nome": "Gustavo Favoreto",
-        "empresa": "Base",
-        "cargo": ""
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1650-além-do-óbvio:-insights-sobre-brinquedos-e-bebês",
-    "data": "25/SET",
-    "hora_inicio": "16:50",
-    "hora_fim": "",
-    "horario_original": "16:50",
-    "palco": "Talks Mercado Pago",
-    "titulo": "Além do Óbvio: Insights Sobre Brinquedos e Bebês",
-    "descricao": "O mercado infantil cresce, se reinventa e surpreende. Entender seus movimentos pode ser a diferença entre uma vitrine parada e uma operação de alta performance.\nNesta palestra, Mercado Livre e Circana, empresa global de inteligência de mercado, unem dados exclusivos de varejo com visão estratégica para mapear o universo de Toys & Babies de ponta a ponta: dos produtos de alto ticket que aquecem o mercado de bebês às licenças que explodiram em vendas, passando pelo fenômeno kidult, pela ascensão do e-commerce e pelas tendências vindas dos EUA que ainda representam oportunidade no Brasil.\n\nFernando Fantine | Gerente Sênior, Mercado Livre\nAna Weber | Diretora, Retail Business Group, Circana",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Fernando Fantine",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Brinquedos e Bebês"
-      },
-      {
-        "nome": "Ana Weber",
-        "empresa": "Circana",
-        "cargo": "Diretor(a)"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1650-do-estoque-local-ao-consumidor-digital:-como-os-vendedores-de-eletrodomésticos-e",
-    "data": "25/SET",
-    "hora_inicio": "16:50",
-    "hora_fim": "",
-    "horario_original": "16:50",
-    "palco": "Arena Mercado Livre",
-    "titulo": "Do Estoque Local ao Consumidor Digital: Como os Vendedores de Eletrodomésticos Estão Crescendo no Mercado Livre",
-    "descricao": "O consumidor de eletrodomésticos está se digitalizando cada vez mais. Sellers de todos os portes estão aproveitando essa onda para crescer de forma expressiva no MeLi com produtos pesados. Veja as estratégias, os modelos logísticos e as ferramentas do ecossistema por trás desses resultados.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Roberta Pepe",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Home Eletronics"
-      },
-      {
-        "nome": "Cristiane Sens Bastos",
-        "empresa": "Mega Mamute",
-        "cargo": "C-Level / CEO"
-      },
-      {
-        "nome": "Wesley Alves",
-        "empresa": "Gazin",
-        "cargo": "Gerente E-commerce"
-      },
-      {
-        "nome": "Luis Felipe Moreirao",
-        "empresa": "Whirlpool",
-        "cargo": "Diretor(a) Geral D2C, Consumer Care e Produtos Digitais"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [
-      "Eletroportáteis",
-      "Eletrodomésticos — Linha Branca",
-      "Tendências de Mercado",
-      "Inspiracional",
-      "Case de Sucesso",
-      "Tecnologia",
-      "Ferramentas Mercado Livre"
-    ],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1650-do-pequeno-ao-grande:-como-enxugar-a-cadeia-e-democratizar-a-importação",
-    "data": "25/SET",
-    "hora_inicio": "16:50",
-    "hora_fim": "",
-    "horario_original": "16:50",
-    "palco": "Talks Assurant",
-    "titulo": "Do Pequeno ao Grande: Como Enxugar a Cadeia e Democratizar a Importação",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Adenir dos Santos Junior",
-        "empresa": "Global Connect Institute",
-        "cargo": "C-Level / CEO"
-      },
-      {
-        "nome": "Didie Barros",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Sênior Negócios Internacionais"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1650-quem-vende-produto-compete.-quem-constrói-marca-permanece.-como-transformar-vend",
-    "data": "25/SET",
-    "hora_inicio": "16:50",
-    "hora_fim": "",
-    "horario_original": "16:50",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Quem Vende Produto Compete. Quem Constrói Marca Permanece. Como Transformar Vendas em um Negócio Feito para Durar.",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Joel Cunha",
-        "empresa": "Conecta Ads",
-        "cargo": "C-Level / CEO"
-      },
-      {
-        "nome": "Mauricio Landi",
-        "empresa": "Mercado Livre",
-        "cargo": "Diretor(a) Desenvolvimento e Experiência do Vendedor"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "25-set-1650-entenda-quanto-custa-enviar-com-o-mercado-livre",
-    "data": "25/SET",
-    "hora_inicio": "16:50",
-    "hora_fim": "",
-    "horario_original": "16:50",
-    "palco": "Talks GolLog",
-    "titulo": "Entenda Quanto Custa Enviar com o Mercado Livre",
-    "descricao": "",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Cesar Augusto Lage Dos Santos",
-        "empresa": "Mercado Livre",
-        "cargo": "Gerente Preços"
-      }
-    ],
-    "tema": "Inteligência Artificial",
-    "tags": [],
-    "imagem": ""
-  }
-]
+{
+  "24/SET": [
+    {
+      "hora": "11:00",
+      "titulo": "O Vendedor no Centro da Estratégia: as Novidades que Vêm pela Frente para Impactar Positivamente Seu Negócio",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Roberta Donato e Maurício Landi",
+          "cargo": "",
+          "empresa": ""
+        }
+      ],
+      "tags": [
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Ferramentas Mercado Livre",
+        "Assessoria do Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:20",
+      "titulo": "4 Passos para Vender no Instagram, WhatsApp e Site Próprio",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Matheus Rodrigues Barbosa",
+          "cargo": "Gerente Sênior Marketing",
+          "empresa": "Mercado Pago"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Social Commerce",
+        "Publicidade e Ads",
+        "Ferramentas Mercado Livre",
+        "Central de Vendedores",
+        "Central de Promoções",
+        "Minha Página",
+        "Afiliados",
+        "Assistente - Mercado Livre",
+        "Live"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Líder de Marketing no Mercado Pago para Negócios, com mais de 10 anos de experiência em ambientes de marketing digital e fintechs.",
+      "bio_palestra": "Aprenda como transformar seguidores em compradores usando as ferramentas certas: conteúdo que engaja, catálogos e links de pagamento no WhatsApp, bio livre e checkout no site próprio."
+    },
+    {
+      "hora": "12:20",
+      "titulo": "Aumente Seguidores e Construa Vendas a Longo Prazo com Mercado Ads",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Luiza Castro",
+          "cargo": "Especialista Mercado Ads",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Lucas Schwichtemberg",
+          "cargo": "C-Level / CEO",
+          "empresa": "HimmelCorp"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Especialista em Retail Media no Mercado Livre, atua no desenvolvimento de soluções de publicidade que ajudam vendedores e marcas a crescer dentro do e‑commerce. Com uma trajetória que passa pelo varejo e pelo universo digital, acompanha de perto a evolução da publicidade em marketplaces e seus impactos na estratégia, na performance e na experiência de compra.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:00",
+      "titulo": "As Ferramentas de IA que Já Fazem Diferença no Seu Negócio",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Ana Mantovani",
+          "cargo": "Diretor(a) Desenvolvimento de Sistemas e Produtos",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Inteligência Artificial",
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Case de Sucesso",
+        "Inspiracional",
+        "Tecnologia",
+        "Operações",
+        "Precificação de Produto",
+        "Assessoria do Mercado Livre",
+        "Ferramentas Mercado Livre",
+        "Ads",
+        "Central de Vendedores",
+        "Central de Promoções",
+        "Assistente - Mercado Livre",
+        "Assistente - Mercado Pago"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:50",
+      "titulo": "Influência que Gera Receita: Venda Mais com Afiliados",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Rodrigo Freitas",
+          "cargo": "Gerente Sênior Social Commerce",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Bruno Maciel",
+          "cargo": "C-Level / CEO",
+          "empresa": "Ecommerce Verso"
+        }
+      ],
+      "tags": [
+        "Social Commerce",
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Inspiracional",
+        "Live",
+        "Afiliados",
+        "Consultoria Externa"
+      ],
+      "tema": "Social commerce",
+      "bio": "Executivo de Marketing com mais de 10 anos de experiência em liderança, com trajetória em multinacionais e empresas de diferentes setores como o automobilístico, bens de consumo, tecnologia, varejo e agronegócio. Com formação em Business Management, Marketing e Gestão de E‑commerce e experiência internacional, desenvolveu uma visão ampla de negócios e alta adaptação a diferentes mercados. Há mais de 5 anos no Mercado Livre, lidera e escala o programa de Afiliados e Criadores no Brasil, com foco em crescimento sustentável, performance de vendas e posicionamento de marca via social commerce.",
+      "bio_palestra": "Amplie o alcance dos seus produtos com o Venda com Afiliados e só pague quando a venda acontecer. Saiba como ativar esse canal de aquisição, tornar seus produtos atrativos para criadores e afiliados e transformar influência em resultado real."
+    },
+    {
+      "hora": "12:20",
+      "titulo": "Temporada Black: a Sua Maior Oportunidade de Vendas",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "André Castilho",
+          "cargo": "Diretor(a)",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Luiza Gurgel",
+          "cargo": "Diretor(a) Ads",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Operações",
+        "Gestão de Estoque",
+        "Precificação de Produto",
+        "Black Friday",
+        "Ferramentas Mercado Livre",
+        "Ads",
+        "Central de Vendedores",
+        "Central de Promoções",
+        "Catálogo",
+        "Full",
+        "Flex",
+        "Coletas",
+        "Envios",
+        "Clips",
+        "Minha Página",
+        "Afiliados",
+        "Live"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "11:30",
+      "titulo": "O Método Perini",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Bruno Perini",
+          "cargo": "",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Crédito e Meios de Pagamento",
+        "Publicidade e Ads",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Consultoria Externa",
+        "Central de Vendedores",
+        "Precificação Fiscal e Tributário",
+        "Conciliação Financeira",
+        "Mercado Pago",
+        "Assistente - Mercado Pago"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "18:10",
+      "titulo": "Exame Apresenta: Prêmio Mercado Livre",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "André Santos",
+          "cargo": "Gerente Mercado Livre",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Com mais de 18 anos de atuação no Mercado Livre, André Santos é uma das principais referências do e‑commerce brasileiro. Professor, palestrante e autor dos livros \"Você Vendeu\" e \"Seja um Influenciador!\", já capacitou mais de 100 mil empreendedores. Cocriador de iniciativas inovadoras como Mercado Livre Lojinha, Squad Conecta, Prêmio Mercado Livre, Multiplicadores e Geração Livre, destaca‑se pelo compromisso com o desenvolvimento e o fortalecimento da comunidade de vendedores e pela promoção de inclusão, inovação e crescimento sustentável para milhares de empreendedores.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:20",
+      "titulo": "Minha Página: Potencialize Seu Negócio com Seus Seguidores",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Julia Zancaner",
+          "cargo": "Gerente Experiência do Vendedor",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Thiago Franco",
+          "cargo": "C-Level / CEO",
+          "empresa": "ICOM"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Minha Página",
+        "Central de Promoções",
+        "Central de Vendedores",
+        "Ferramentas Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "17:20",
+      "titulo": "Vendedores e Mercado Livre Apresentam: o Futuro que Construímos Juntos",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Gustavo Lopes",
+          "cargo": "C-Level / CEO VENDEDOR",
+          "empresa": "EMPORIO DO CELULAR"
+        },
+        {
+          "nome": "Ednilson Brandão",
+          "cargo": "C-Level / CEO VENDEDOR",
+          "empresa": "CASAL DO ECOMMERCE"
+        },
+        {
+          "nome": "Victor Amorim",
+          "cargo": "C-Level / CEO VENDEDOR",
+          "empresa": "FIOLUX"
+        },
+        {
+          "nome": "Bruna",
+          "cargo": "C-Level / CEO VENDEDOR",
+          "empresa": "CASAL DO ECOMMERCE"
+        }
+      ],
+      "tags": [
+        "Inspiracional",
+        "Case de Sucesso",
+        "Atendimento",
+        "Central de Vendedores"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Com mais de 18 anos de atuação no Mercado Livre, André Santos é uma das principais referências do e‑commerce brasileiro. Professor, palestrante e autor dos livros \"Você Vendeu\" e \"Seja um Influenciador!\", já capacitou mais de 100 mil empreendedores. Cocriador de iniciativas inovadoras como Mercado Livre Lojinha, Squad Conecta, Prêmio Mercado Livre, Multiplicadores e Geração Livre, destaca‑se pelo compromisso com o desenvolvimento e o fortalecimento da comunidade de vendedores e pela promoção de inclusão, inovação e crescimento sustentável para milhares de empreendedores.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:50",
+      "titulo": "É Agora: Gaming, Mercado Livre e Você",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Gonzalo Greco",
+          "cargo": "Diretor(a) Tecnologia",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Gonzalo Greco é Diretor de Home Electronics & Technology no Mercado Livre Brasil. Com mais de 16 anos de experiência em vendas e marketing, atuou em empresas como Procter & Gamble e Amazon. No Mercado Livre, lidera iniciativas com foco em dados, tecnologia e inteligência artificial para aprimorar a experiência de compra. Acredita que vender online exige compreender o consumidor, antecipar tendências e inovar com consistência.",
+      "bio_palestra": "Gonzalo Greco, Diretor de Consumer Electronics do Mercado Livre, apresenta o cenário atual do mercado gamer, bem como seus desafios, oportunidades e as principais alavancas comerciais para transformar o ML no principal destino gamer do País. \nDa escassez global de chips ao crescimento de 39% da categoria na plataforma, a palestra mostra como marcas e sellers podem usar o ecossistema do Mercado Livre para vender mais, com maior alcance e melhor experiência para o consumidor."
+    },
+    {
+      "hora": "13:10",
+      "titulo": "Pet Trends: Tendências que Vão Mudar o Jogo nas Vendas Online",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Magali Aquino",
+          "cargo": "Gerente Sênior Supermercado",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Líder da vertical de Pet Shop no Mercado Livre Brasil, possui mais de 16 anos de experiência em bens de consumo, startups e e‑commerce. É mestre em Cadeia de Suprimentos pela FGV EAESP e pós‑graduada em Logística pelo MIT. Com passagens por Unilever, Avon, Grupo Big e Grupo Carrefour, vive diariamente a missão de democratizar o acesso ao comércio eletrônico e aos pagamentos na América Latina.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:00",
+      "titulo": "Trilha do Sucesso Off-to-On: Como Maximizar Oportunidades e Integrar Canais de Venda do Setor de Construção e Ferramentas",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Rodrigo Ribeiro",
+          "cargo": "Gerente Construção, Ferramentas e Iluminação",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Felipe Filgueiras",
+          "cargo": "Diretor(a)",
+          "empresa": "Avant"
+        },
+        {
+          "nome": "Juliano Isley",
+          "cargo": "Diretor(a)",
+          "empresa": "Vonder"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:30",
+      "titulo": "Gigantes do B2B: Como Escalar as Vendas para Negócios Dentro de Construção e Indústria",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Cintia Feitosa de Oliveira",
+          "cargo": "Especialista Construção, Ferramentas e Iluminação",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Alexandre Leão",
+          "cargo": "Diretor(a) Executivo(a)",
+          "empresa": "Distrinox"
+        },
+        {
+          "nome": "Diogo Martins de Fausto",
+          "cargo": "Diretor(a) Executivo(a)",
+          "empresa": "Schneider Electric Brasil"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:40",
+      "titulo": "Supermercado no Digital: Como Marcas Líderes Estão Transformando Presença em Resultado",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Cássia Teixeira",
+          "cargo": "Gerente Supermercado",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Igor Prado",
+          "cargo": "Gerente",
+          "empresa": "Ypê"
+        },
+        {
+          "nome": "Juliana Suguino",
+          "cargo": "Gerente",
+          "empresa": "Nespresso"
+        },
+        {
+          "nome": "Renan Gothard",
+          "cargo": "Gerente",
+          "empresa": "Concha y Toro"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Gerente de Farming na categoria de Supermercado, possui 17 anos de experiência em e‑commerce e 8 anos no Mercado Livre. Ao longo de sua trajetória, assumiu diversas categorias e hoje tem como uma de suas principais responsabilidades a articulação com as indústrias, conectando estratégias que impulsionam sellers, marcas e consumidores.",
+      "bio_palestra": "O e-commerce de bens de consumo cresce em ritmo acelerado, e marcas que entendem como operar com estratégia estão saindo na frente. Neste painel, três indústrias líderes em categorias distintas compartilham suas jornadas, desafios e as decisões que fizeram a diferença para escalar no Mercado Livre.\n\nYpê, Nespresso e Concha y Toro sobem ao palco para mostrar, na prática, que não existe um único caminho para o crescimento no digital. Cada uma com seu modelo, seu portfólio e sua estratégia, mas com um ponto em comum: execução consistente e uso inteligente das ferramentas da plataforma."
+    },
+    {
+      "hora": "14:00",
+      "titulo": "CasaCor e Mercado Livre: da Inspiração à Realidade do Seu Lar e do Seu Negócio",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Fausto Araujo",
+          "cargo": "Diretor(a) Marketplace",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Livia Pedreira",
+          "cargo": "Diretor(a)",
+          "empresa": "CASACOR"
+        },
+        {
+          "nome": "Edward Pimenta",
+          "cargo": "Diretor(a) Executivo(a)",
+          "empresa": "CASACOR"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Construção e Iluminação",
+        "Casa & Decoração",
+        "Ferramentas Mercado Livre",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Operações"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": "A CasaCor, maior referência em curadoria de arquitetura e decoração das Américas, e o Mercado Livre se unem para revelar como as tendências que moldam o setor chegam ao consumidor e como o vendedor pode se antecipar a esse movimento. Um painel com Edward Pimenta e Lívia Pedreira, diretores da CasaCor, e Fausto Araujo, diretor de Casa e Decoração do Mercado Livre."
+    },
+    {
+      "hora": "14:00",
+      "titulo": "Para Quem Vende no Marketplace: Preço Certo, Caixa no Azul.",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Guilherme Cadavez",
+          "cargo": "Diretor(a)",
+          "empresa": "Mercado Pago"
+        },
+        {
+          "nome": "Dhiego Rosa",
+          "cargo": "C-Level / CEO",
+          "empresa": "Escalada"
+        }
+      ],
+      "tags": [
+        "Crédito e Meios de Pagamento",
+        "Precificação Fiscal e Tributário",
+        "Tecnologia",
+        "Consultoria Externa",
+        "Operações",
+        "Precificação de Produto",
+        "Ferramentas Mercado Livre",
+        "Conciliação Financeira",
+        "Mercado Pago"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:30",
+      "titulo": "Da Intuição ao Algoritmo: Como a Inteligência Artificial do Mercado Livre Pode Transformar Sua Operação — do Primeiro Anúncio à Decisão Certa",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Fayson Marques Martins",
+          "cargo": "Gerente Mercado Pago",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Catalina Paredes",
+          "cargo": "Gerente Produto",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:50",
+      "titulo": "Publicidade com IA para Acelerar o Seu Negócio",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Renata Herz",
+          "cargo": "Diretor(a) Ads",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Inteligência Artificial",
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Precificação de Produto",
+        "Ads",
+        "Central de Promoções"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Renata é uma executiva com mais de 20 anos de experiência em comunicação e marketing, formada pela ESPM e com MBA pela FGV. Atuou por 12 anos no marketing de grandes multinacionais de bens de consumo e passou 6 anos em uma gigante global de tecnologia e varejo digital, desenvolvendo forte expertise em retail media e publicidade, incluindo experiência internacional no México. Atualmente, é Diretora de Agências de Mídia no Mercado Ads, onde impulsiona inovações e estratégias digitais para ajudar marcas a alavancarem seus negócios no e‑commerce.",
+      "bio_palestra": "Descubra como a IA do Mercado Ads potencializa seus resultados por meio da publicidade digital, sem tirar você do controle: mais vendas, investimentos otimizados e estratégias personalizadas para o seu negócio."
+    },
+    {
+      "hora": "14:50",
+      "titulo": "Do Clique ao Topo: Revelando os Segredos do Seller que Multiplicou Suas Vendas com Ads",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Caio Zamunaro",
+          "cargo": "Gerente Sênior Growth no Mercado Ads",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gilberty Gomes Coutinho",
+          "cargo": "Fundador(a)",
+          "empresa": "Coutinho"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Com mais de quinze anos de experiência em marketing, retail media, vendas e estratégia de negócios, Caio Zamunaro é Head of Growth and SMB Area da Mercado Ads no Brasil. Já ocupou posições de liderança em empresas como Amazon Brasil e Unlimitail, joint venture entre Carrefour e Publicis focada em retail media. É formado em Engenharia Mecânica pela USP e possui MBA pela Fuqua School of Business, da Duke University. Caio destaca‑se por sua atuação em growth e retail media, áreas em franca expansão no mercado de publicidade no Brasil e no mundo.",
+      "bio_palestra": "Nesta palestra, o seller Coutinho compartilha os bastidores de sua trajetória de crescimento no marketplace e revela as estratégias de Mercado Ads que o ajudaram a multiplicar suas vendas. Uma conversa prática sobre decisões, aprendizados e ações que fizeram a diferença na jornada do clique ao topo."
+    },
+    {
+      "hora": "15:40",
+      "titulo": "O Futuro da Venda É Social: a Estratégia do Mercado Livre para o Social Commerce",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Renata Gerez",
+          "cargo": "Diretor(a) Social Commerce",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Inteligência Artificial",
+        "Tendências de Mercado",
+        "Social Commerce",
+        "Publicidade e Ads",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Clips",
+        "Live",
+        "Afiliados"
+      ],
+      "tema": "Social commerce",
+      "bio": "Renata é Diretora de Social Commerce no Mercado Livre para a América Latina, liderando a construção da estratégia de afiliados, criadores e dos diferentes formatos de conteúdo para e‑commerce, como lives e vídeos. Possui mais de 15 anos de experiência em marketing, growth e e‑commerce, construindo canais de aquisição, conteúdo e influência que conectam criadores, marcas e vendedores para gerar performance no ecossistema digital.",
+      "bio_palestra": "Social Commerce não é uma tendência, é uma transformação real na jornada de compra. Entenda como o ecossistema de vídeos, lives, afiliados e criadores do Mercado Livre está redefinindo a forma como consumidores descobrem e compram produtos, e por que entrar agora pode ser sua maior vantagem competitiva."
+    },
+    {
+      "hora": "16:30",
+      "titulo": "Principais Impactos da Reforma Tributária",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Liziane Cordeiro",
+          "cargo": "Gerente Sênior",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Bruna Purchio Galletti",
+          "cargo": "Gerente Construção e Indústia",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Precificação Fiscal e Tributário",
+        "Jurídico e Propriedade Intelectual",
+        "Operações",
+        "Reforma Tributária",
+        "Conciliação Financeira"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Liziane dos Santos Cordeiro é Head de Reforma Tributária no Mercado Livre Brasil. Com mais de 20 anos de experiência em tributação, atuou como Head of Tax na Kimberly‑Clark, Tax Partner na área de tax accounting na PwC Brasil e Tax Manager de tributos indiretos na BDO. É advogada, contadora e especialista em tributação, com pós‑graduação e MBA em direito societário e tributário.",
+      "bio_palestra": "A maior transformação do sistema tributário brasileiro em décadas já começa a impactar as decisões de negócio. Nesta palestra, Liziane Cordeiro apresenta, de forma prática e objetiva, as principais mudanças com a chegada do IBS e da CBS e seus impactos para empreendedores de diferentes portes. Entre os temas estão o cronograma de transição, os efeitos para empresas do Simples Nacional, as diferenças entre operações B2B e B2C e os principais aspectos que devem ser considerados na definição da estratégia tributária do negócio."
+    },
+    {
+      "hora": "12:20",
+      "titulo": "Como Otimizar Suas Promoções e Maximizar Suas Vendas com a Central de Promoções",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Vitor Laranjeira Caldini",
+          "cargo": "Especialista Promoções",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Mariana Coelho",
+          "cargo": "Gerente Promoções",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gabriel Bollico",
+          "cargo": "C-Level / CEO",
+          "empresa": "Ecommerce Puro"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Engenheiro pós‑graduado em Dados e Analytics, atua há cinco anos com growth e incentivos à demanda. É apaixonado por negócios digitais e pelos desafios de ecossistemas de alto crescimento.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:40",
+      "titulo": "Descubra Produtos Campeões: Como Usar a Inteligência do Mercado Livre para Crescer Mais Rápido",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Tercius Nascimento",
+          "cargo": "Gerente Estratégia de Sortimento",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Barbara Chiaretti",
+          "cargo": "Especialista Estratégia de Sortimento",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Samira Santana",
+          "cargo": "Gerente de Marketing",
+          "empresa": "Digital Growth"
+        }
+      ],
+      "tags": [
+        "Inteligência Artificial",
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Ads",
+        "Ferramentas Mercado Livre",
+        "Assistente - Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Tercius Nascimento, gerente de estratégia de sortimento do Mercado Livre, lidera iniciativas voltadas à evolução de ferramentas, análises e estratégias que apoiam o crescimento dos vendedores na plataforma. Com experiência em planejamento estratégico, supply chain e e‑commerce, desenvolve soluções baseadas em dados que ajudam os vendedores a tomar decisões mais assertivas, aumentar sua competitividade e acelerar o crescimento de seus negócios.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:40",
+      "titulo": "O Cliente que Você Ignora É o que Mais Dá Lucro — Como Crescer no Mercado Livre Vendendo para Empresas",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Rodrigo Ribeiro",
+          "cargo": "Gerente",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Ricardo Santana",
+          "cargo": "C-Level / CEO",
+          "empresa": "Mercado Seller"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:00",
+      "titulo": "Novos Lançamentos que Permitem Personalizar Sua Estratégia de Negócio",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Samara Morais",
+          "cargo": "Gerente Comercial Fashion",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:00",
+      "titulo": "Pessoas e Tecnologia: Como Escalar Resultados e Gerar Impacto na Era da IA",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Patricia Monteiro",
+          "cargo": "Diretor(a) Pessoas",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Daniel Sena",
+          "cargo": "Gerente Sênior",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Vinicius Rocha",
+          "cargo": "Diretor",
+          "empresa": "Grupo LinVin"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Patricia Monteiro Araújo é Diretora de People no Brasil, responsável pela gestão de capital humano e pela cultura de empreendedorismo no Mercado Livre desde 2018. Atuou em empresas globais e startups nos segmentos de bens de consumo, saúde e venture capital, na América Latina, Europa e Estados Unidos. Sua trajetória inclui Johnson & Johnson, Unilever e Sadia. É graduada em Psicologia, com mestrado em Consultoria Organizacional pela Ashridge Executive Education, no Reino Unido, e formação executiva avançada pelo IESE Business School, em Nova York.",
+      "bio_palestra": "Como o Mercado Livre tornou realidade o desafio de ter um ecossistema AI‑first. Este painel desmistifica a inteligência artificial e mostra como ela deixou de ser um conceito distante para se tornar a chave da eficiência operacional e da produtividade da companhia.\n\nO público será convidado a descobrir como o Mercado Livre aplica IA para otimizar fluxos e capacitar seus funcionários para funções estratégicas. O painel trará uma discussão prática sobre como líderes podem deixar de fazer uma gestão focada apenas em “recursos” operacionais para investir em “mentes” apoiadas pela tecnologia."
+    },
+    {
+      "hora": "14:50",
+      "titulo": "Prevenção de Fraudes",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Josefina Borghi",
+          "cargo": "Gerente Investigações Marketplace",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "André Santos",
+          "cargo": "Gerente Experiência do Vendedor",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Precificação Fiscal e Tributário",
+        "Prevenção a Fraude",
+        "Jurídico e Propriedade Intelectual"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Investigadora com mais de uma década de experiência em casos complexos em escala global, com passagem pela INTERPOL na França e atuação no maior ecossistema de e‑commerce da América Latina. Lidera o time de Investigações Marketplace no Mercado Livre, com foco em inteligência de fraude, análise preditiva e proteção de usuários. É formada em Criminologia Forense pela Universidade de Londres, Ciências Forenses e possui certificações em segurança da informação.",
+      "bio_palestra": "Blinde suas vendas e proteja seu negócio no Mercado Livre. Esta palestra apresenta estratégias essenciais de segurança e proteção de dados para você aplicar no dia a dia e vender com total tranquilidade dentro do ecossistema."
+    },
+    {
+      "hora": "16:30",
+      "titulo": "Ética e Responsabilidade no E-commerce: Como as Regras e Ferramentas Podem Impulsionar as Suas Vendas no Mercado Livre",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Adriana Cardinali Straube",
+          "cargo": "Diretor(a) Legal Commerce",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Sandra Martinelli",
+          "cargo": "C-Level / CEO",
+          "empresa": "ABA"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Adriana Cardinali Straube é Diretora Jurídica do Mercado Livre. Conselheira na ABA, CENP e Conar. Graduada e mestre em Direito pela PUC‑SP e doutora pela USP. Foi Visiting Researcher e Visiting Fellow no King’s College London. Presidiu a Comissão de Concorrência e Regulação Econômica da OAB/SP (2019‑2021). Professora, palestrante e autora de livros e artigos jurídicos.",
+      "bio_palestra": "Os novos hábitos de consumo exigem conformidade e reputação. Esta palestra conecta CDC, Conar e as ferramentas do Mercado Livre, ads e afiliados, mostrando como anunciar corretamente impulsiona vendas e mantém os anúncios ativos na plataforma."
+    },
+    {
+      "hora": "13:10",
+      "titulo": "IA em Ação: Como a WAP Multiplica Resultados no Mercado Livre em Tempo Real",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Roberta Pachere",
+          "cargo": "Gerente Sênior Construção, Ferramentas e Iluminação",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Vinicius de Moraes",
+          "cargo": "Gerente",
+          "empresa": "WAP"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:30",
+      "titulo": "Como Construir uma Marca Sólida com o Mercado Livre",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Diego Pudo",
+          "cargo": "Gerente Comunicação e Marketing",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Alexandre Reis",
+          "cargo": "Gerente Sênior Saúde",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:40",
+      "titulo": "Empreender para Crescer: da Oportunidade ao Negócio",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Giovanni Marins Cardoso",
+          "cargo": "Fundador(a)",
+          "empresa": "Mondial"
+        },
+        {
+          "nome": "Gonzalo Greco",
+          "cargo": "Diretor(a) Tecnologia",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Assessoria do Mercado Livre",
+        "Eletrodomésticos — Linha Branca",
+        "Eletroportáteis",
+        "Eletrônicos & Games"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:40",
+      "titulo": "Reputação no Verde: Como o Termômetro Se Tornou Seu Maior Motor de Crescimento",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Francisco Ruda",
+          "cargo": "Gerente Sênior",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Julia Zancaner",
+          "cargo": "Gerente Experiência do Vendedor",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Com 12 anos de experiência profissional no Mercado Livre, lidera as equipes de Produto de Reputação, Moderações e Fakes. Também atuou na equipe de CX, contribuindo para a melhoria contínua da experiência de vendedores e compradores.\n\nSeu desafio atual é transformar a reputação na ferramenta mais eficaz para elevar a qualidade da oferta no Meli, protegendo compradores de experiências negativas e, ao mesmo tempo, oferecendo aos vendedores instrumentos efetivos para aprimorar sua operação e se diferenciar no marketplace.",
+      "bio_palestra": "Reputação: o motor de crescimento do seu negócio no Mercado Livre.\n\nNesta sessão, vamos percorrer como funcionam os algoritmos de Reputação e Experiência de Compra, quais variáveis mais impactam a cor da conta e o desempenho das publicações, e quais ferramentas concretas estão disponíveis para melhorar e manter a performance, incluindo duas novidades deste ano: Autoremedies, o sistema que usa IA para corrigir publicações antes que gerem reclamações, e as Recomendações com IA, cards personalizados no dashboard que traduzem métricas em ações práticas.\n\nSe você quer entender como fazer sua reputação trabalhar a seu favor e não contra você, esta é a sessão."
+    },
+    {
+      "hora": "13:10",
+      "titulo": "Mercado Pago Apresenta: Como Estruturar o Seu Negócio para Crescer com Beca Milano",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Beca Milano",
+          "cargo": "Empreendedor(a)",
+          "empresa": "Mercado Pago"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Crédito e Meios de Pagamento",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Assistente - Mercado Pago"
+      ],
+      "tema": "Inspiracional",
+      "bio": "Beca Milano é chef confeiteira, empreendedora e personalidade da televisão brasileira. \nFormada em Farmácia Bioquímica pela PUC Paraná, iniciou sua trajetória profissional movida pela paixão pela confeitaria. Seu talento e perfeccionismo a levaram ao reconhecimento nacional em 2017, quando integrou o elenco do reality Fábrica de Casamentos, do SBT. No mesmo ano, tornou‑se jurada do Bake Off Brasil – Mão na Massa, conquistando o público com avaliações criteriosas, sensíveis e inspiradoras.\nEm 2026, retomou ambos os programas como chef confeiteira, consolidando ainda mais sua trajetória de sucesso na TV.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:30",
+      "titulo": "Mercado Pago Apresenta: o Futuro dos Pagamentos Chegou, Como a IA Impulsiona o Seu Negócio",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Martha Gabriel",
+          "cargo": "Convidado(a) Especial",
+          "empresa": "Convidado Mercado Pago"
+        }
+      ],
+      "tags": [
+        "Inteligência Artificial",
+        "Tendências de Mercado",
+        "Crédito e Meios de Pagamento",
+        "Publicidade e Ads",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Mercado Pago",
+        "Assistente - Mercado Pago"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Martha Gabriel é um ícone multidisciplinar na América Latina nas áreas de negócios, tendências e inovação. Autora dos best‑sellers \"Liderando o Futuro\", \"Inteligência Artificial – do zero a superpoderes\" e \"Você, Eu e os Robôs\". Futurista pelo IFTF, é engenheira pela Unicamp, pós‑graduada em Marketing e Design, mestre e PhD em Artes, com formação executiva no MIT. Colunista do MIT Sloan Management Brasil e da MIT Technology Review Brasil, é professora convidada em MBAs e pós‑graduações nas principais escolas de negócios do país e faculty internacional da CrossKnowledge. Também é Top Voice LinkedIn. Palestrante keynote internacional premiada, acumula mais de 90 palestras no exterior e 10 TEDx. É embaixadora da Geek Girls LatAm no Brasil.",
+      "bio_palestra": "Martha Gabriel apresenta um panorama das tendências que estão reorganizando o mundo dos negócios e mostra como a inteligência artificial vem ganhando espaço também nas instituições financeiras. O impacto chega direto à ponta: mais personalização, operações mais simples e menos tempo gasto com tarefas burocráticas, sobrando mais tempo para o empreendedor fazer o que só ele pode fazer, que é gerir e fazer crescer o próprio negócio.\n\nEntre o cenário global e a prática, Martha convida o público a refletir sobre o avanço da inteligência artificial e sobre como o empreendedor pode usá‑la a seu favor."
+    },
+    {
+      "hora": "14:50",
+      "titulo": "Entenda Como Melhorar Sua Rentabilidade no FULL",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Gabriel Moss",
+          "cargo": "Gerente Sênior Qualidade de Estoque",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Inteligência Artificial",
+      "bio": "Gabriel Moss é Sr. Manager Global de Stock Quality no Mercado Livre e acumula mais de 10 anos de experiência em logística, fulfillment, supply chain e operações. À frente de iniciativas globais de qualidade de estoque, atua para transformar dados e desafios operacionais em soluções escaláveis que aumentam a eficiência do fulfillment, melhoram a saúde do inventário e elevam a experiência de vendedores e clientes. Na MeliXP, compartilha aprendizados práticos sobre como a qualidade de stock pode se tornar uma alavanca estratégica para crescimento e eficiência no marketplace.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:10",
+      "titulo": "Maior Operação Aérea Cargueira do País: GolLog, Mercado Livre e Ponto Cargo Trazem o Case de Sucesso da IntelBras",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Ignacio Javier",
+          "cargo": "Gerente Sênior Comercial Meli Air",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Cases de sucesso",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:20",
+      "titulo": "Transporte Sustentável que Fecha a Conta: Como Parcerias e Novas Tecnologias Estão Transformando a Logística no Brasil",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Rodrigo Brito",
+          "cargo": "Gerente Sênior Sustentabilidade Ambiental",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Diego Gagnotto",
+          "cargo": "Gerente Geral Gases Renováveis",
+          "empresa": "Ultragaz"
+        },
+        {
+          "nome": "Lucas Zanon",
+          "cargo": "C-Level / CEO Direção Geral",
+          "empresa": "EVMOB"
+        },
+        {
+          "nome": "Frederico Rezeck",
+          "cargo": "VP Transportes Brasil",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Janaína Gasparetto Maroni",
+          "cargo": "Diretor(a) Jurídica e de Sustentabilidade",
+          "empresa": "Grupo Maroni"
+        }
+      ],
+      "tags": [
+        "Logística",
+        "Operações",
+        "Envios",
+        "Coletas",
+        "Full",
+        "Flex",
+        "Ferramentas Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    }
+  ],
+  "25/SET": [
+    {
+      "hora": "11:50",
+      "titulo": "Pesos e Medidas: Como Evitar Cobranças Indevidas e Proteger Sua Margem",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Otávio Vianna",
+          "cargo": "Gerente de Operações Envios",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Otávio Vianna é Gerente de Logística no Mercado Livre e lidera a área responsável pela visão estratégica de pesos, medidas e preferências logísticas dos vendedores na América Latina. Engenheiro de Produção formado pela UFMG, possui mais de 10 anos de experiência em estratégia, inovação e logística. Em sua atuação, conecta tecnologia, produto e operação para assegurar a acuracidade dos dados, garantindo custos de envio justos e máxima eficiência para a operação dos vendedores.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "14:20",
+      "titulo": "Sucesso Não Aceita Preguiça, por João Adibe",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "João Adibe",
+          "cargo": "",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Inspiracional",
+        "Case de Sucesso"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:00",
+      "titulo": "Do Primeiro Clique ao Canal Estratégico: Como Grandes Marcas de Beleza Constroem Presença e Escala no Mercado Livre",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Anna Carolina Araripe",
+          "cargo": "Diretor(a) Beleza",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Melanie Frutig",
+          "cargo": "VP Consumer Marketing and Data",
+          "empresa": "Estée Lauder Companies"
+        }
+      ],
+      "tags": [
+        "Beleza e Cuidado Pessoal",
+        "Tendências de Mercado",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Ferramentas Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Anna tem mais de 10 anos de experiência em varejo e e‑commerce e, desde 2020, atua no Mercado Livre. Atualmente, é Diretora de Beleza, categoria de grande recorrência de compra na plataforma. Sua missão é desenvolver estratégias de crescimento para a categoria, com foco em inovação e tecnologia, planejamento estratégico e experiência do consumidor.",
+      "bio_palestra": "Descubra como grandes marcas do setor de beleza transformaram o Mercado Livre em um pilar estratégico de crescimento. Neste painel, exploraremos a jornada de maturação digital, desde os desafios iniciais de entrada à estruturação de operações escaláveis. Aprenda como utilizar o ecossistema completo para crescer o seu negócio."
+    },
+    {
+      "hora": "12:40",
+      "titulo": "De Onde Vem e para Onde Vai: a Moda Brasileira em Movimento",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Daniela Shinzato",
+          "cargo": "Gerente Sênior Moda",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Paulo Borges",
+          "cargo": "Fundador(a)",
+          "empresa": "SPFW"
+        },
+        {
+          "nome": "Amir Slama",
+          "cargo": "Fundador(a)",
+          "empresa": "Amir Slama"
+        },
+        {
+          "nome": "Luiz Paulo Sollero",
+          "cargo": "Diretor(a) Fashion",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Moda",
+        "Case de Sucesso",
+        "Inspiracional",
+        "Ferramentas Mercado Livre",
+        "Operações",
+        "Assessoria do Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Executiva com mais de 20 anos de experiência em posições comerciais, com atuação em diversos setores. Possui trajetória consolidada em vendas, estratégia comercial, trade marketing, e‑commerce e marketplaces, com vivência em mercados do Brasil e da América Latina. Especialista em desenvolver parcerias estratégicas e liderar equipes de alta performance, com foco em excelência na execução. Destaca‑se pela comunicação, visão inovadora e afinidade com tecnologia. Com histórico em planejamento organizacional e desenvolvimento de talentos, lidera atualmente a categoria de apparel no Mercado Livre.",
+      "bio_palestra": "Com Amir Slama e Paulo Borges, ícones da moda nacional, Luiz Paulo Sollero, Diretor de Fashion no Mercado Livre, e mediação de Daniela Shinzato, este painel debate a força e o futuro da moda brasileira. Descubra tendências, o comportamento high-low e como o Mercado Livre se posiciona como o principal destino de moda no País."
+    },
+    {
+      "hora": "11:00",
+      "titulo": "Segredos e Desafios do E-commerce de Móveis: um Painel com os Líderes da MadeiraMadeira",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Roberta Donato",
+          "cargo": "Vice-Presidente",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Fabio Fadel",
+          "cargo": "C-Level / COO",
+          "empresa": "Madeira Madeira"
+        },
+        {
+          "nome": "Robson Privado",
+          "cargo": "Co-fundador(a)",
+          "empresa": "Madeira Madeira"
+        }
+      ],
+      "tags": [
+        "Casa & Decoração",
+        "Construção e Iluminação",
+        "Móveis e Colchões",
+        "Tendências de Mercado",
+        "Case de Sucesso",
+        "Inspiracional",
+        "Operações",
+        "Ferramentas Mercado Livre",
+        "Assessoria do Mercado Livre"
+      ],
+      "tema": "Cases de sucesso",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:30",
+      "titulo": "O Novo Jogo de Sports: Creators, Afiliados e Live Commerce Como Motores de Crescimento",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Juliana Bispo",
+          "cargo": "Gerente Sênior Esportes",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Rodrigo Freitas",
+          "cargo": "Gerente Sênior Social Commerce",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Jorge Monteiro",
+          "cargo": "Diretor(a) Executivo(a)",
+          "empresa": "Decathlon"
+        },
+        {
+          "nome": "Filipe Junqueira",
+          "cargo": "Gerente Comercial",
+          "empresa": "Odin Fit"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Juliana Bispo é Head de Sports Marketplace no Mercado Livre, com 15 anos de experiência em varejo e e‑commerce. Formada em Liderança pela Stanford University e especialista em Transformação Digital, é referência em estratégias comerciais de alto impacto e lidera a expansão da categoria de Esportes no maior ecossistema digital da América Latina.",
+      "bio_palestra": "O novo jogo de Sports: creators, afiliados e live commerce como motores de crescimento.\n\nDescubra como estratégias de social commerce, por meio de creators e afiliados, se tornaram alavancas de alta performance na vertical e como replicar essas práticas na sua operação para ampliar alcance, gerar confiança e converter mais dentro da plataforma."
+    },
+    {
+      "hora": "16:50",
+      "titulo": "Além do Óbvio: Insights Sobre Brinquedos e Bebês",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Fernando Fantine",
+          "cargo": "Gerente Sênior Brinquedos e Bebês",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Ana Weber",
+          "cargo": "Diretor(a)",
+          "empresa": "Circana"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Fernando é engenheiro de formação e estrategista de negócios por carreira e vocação. Após 14 anos construindo negócios na indústria automotiva junto às principais montadoras do mundo, fez uma transição para o universo das empresas de tecnologia, atuando no e‑commerce com varejo e marketplace nos últimos cinco anos. É professor de Vendas e Estratégia e mentor de carreiras e negócios.",
+      "bio_palestra": "O mercado infantil cresce, se reinventa e surpreende. Entender seus movimentos pode ser a diferença entre uma vitrine parada e uma operação de alta performance.\nNesta palestra, Mercado Livre e Circana, empresa global de inteligência de mercado, unem dados exclusivos de varejo com visão estratégica para mapear o universo de Toys & Babies de ponta a ponta: dos produtos de alto ticket que aquecem o mercado de bebês às licenças que explodiram em vendas, passando pelo fenômeno kidult, pela ascensão do e-commerce e pelas tendências vindas dos EUA que ainda representam oportunidade no Brasil.\n\nFernando Fantine | Gerente Sênior, Mercado Livre\nAna Weber | Diretora, Retail Business Group, Circana"
+    },
+    {
+      "hora": "15:10",
+      "titulo": "Bastidores do Crescimento: Cases Reais da Categoria de Entretenimento (Livros e Instrumentos Musicais)",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Fernando Fantine",
+          "cargo": "Gerente Sênior Brinquedos e Bebês",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Leandro Silva",
+          "cargo": "Diretor(a)",
+          "empresa": "Tagima"
+        },
+        {
+          "nome": "Endrew Mondoni Vieira",
+          "cargo": "C-Level / CEO",
+          "empresa": "Top Music"
+        },
+        {
+          "nome": "Luciana Borges",
+          "cargo": "Diretor(a)",
+          "empresa": "Companhia das Letras"
+        },
+        {
+          "nome": "Daniel Rodrigues",
+          "cargo": "Diretor(a)",
+          "empresa": "Livraria Leitura"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Fernando é engenheiro de formação e estrategista de negócios por carreira e vocação. Após 14 anos construindo negócios na indústria automotiva junto às principais montadoras do mundo, fez uma transição para o universo das empresas de tecnologia, atuando no e‑commerce com varejo e marketplace nos últimos cinco anos. É professor de Vendas e Estratégia e mentor de carreiras e negócios.",
+      "bio_palestra": "Neste painel, marcas e vendedores de Livros e Instrumentos Musicais abrem os bastidores de suas estratégias: como estruturaram suas contas, como usaram o ecossistema do Mercado Livre para escalar vendas e como se posicionaram na plataforma para construir marca, não só volume. Uma conversa direta, com cases reais e aprendizados práticos de quem já encontrou o caminho."
+    },
+    {
+      "hora": "16:50",
+      "titulo": "Do Estoque Local ao Consumidor Digital: Como os Vendedores de Eletrodomésticos Estão Crescendo no Mercado Livre",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Roberta Pepe",
+          "cargo": "Gerente Sênior Home Eletronics",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Cristiane Sens Bastos",
+          "cargo": "C-Level / CEO",
+          "empresa": "Mega Mamute"
+        },
+        {
+          "nome": "Wesley Alves",
+          "cargo": "Gerente E-commerce",
+          "empresa": "Gazin"
+        },
+        {
+          "nome": "Luis Felipe Moreirao",
+          "cargo": "Diretor(a) Geral D2C, Consumer Care e Produtos Digitais",
+          "empresa": "Whirlpool"
+        }
+      ],
+      "tags": [
+        "Eletroportáteis",
+        "Eletrodomésticos — Linha Branca",
+        "Tendências de Mercado",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Ferramentas Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Líder de Home Electronics no Mercado Livre, é responsável pela estratégia e pelo crescimento de uma das verticais mais relevantes do marketplace. Formada em Administração pela FGV e com mais de 15 anos de experiência em marketplace, fintech e bens de consumo, construiu sua carreira em grandes empresas, sempre à frente das áreas de crescimento, estratégia comercial e desenvolvimento de negócios. Hoje, é reconhecida por sua atuação na construção e escala de negócios, gestão de P&L e desenvolvimento de parcerias estratégicas.",
+      "bio_palestra": "O consumidor de eletrodomésticos está se digitalizando cada vez mais. Sellers de todos os portes estão aproveitando essa onda para crescer de forma expressiva no MeLi com produtos pesados. Veja as estratégias, os modelos logísticos e as ferramentas do ecossistema por trás desses resultados."
+    },
+    {
+      "hora": "16:00",
+      "titulo": "Embaixo do Capô do B2B: Mercado Livre, Seller e o Mecânico Abrem o Jogo",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Daniel Tonietti",
+          "cargo": "Diretor(a) Veículos e Autopartes",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Sergio Santos",
+          "cargo": "Empreendedor(a)",
+          "empresa": "SR Motors"
+        },
+        {
+          "nome": "Leonardo Teodoro",
+          "cargo": "Supervisor(a)",
+          "empresa": "Volkswagen"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "No Mercado Livre, é diretor de Autopeças e Acessórios para Veículos e contribui para a transformação digital do ecossistema de compra desse segmento, historicamente concentrado no varejo físico. Anteriormente, passou mais de sete anos na Amazon Brasil, onde liderou a transformação da experiência de compra online de produtos de supermercado, chegando à posição de Category Leader de Groceries e adaptando programas de recorrência como Programe & Poupe e Mais por Menos ao mercado brasileiro.",
+      "bio_palestra": "O B2B de autopeças é a maior avenida inexplorada do MeLi. Com cases reais de marca, seller e mecânico no mesmo palco, você sai com um modelo pronto para transformar profissionais de oficina em seus melhores clientes."
+    },
+    {
+      "hora": "16:00",
+      "titulo": "Democratizando o Acesso à Saúde no Brasil",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Alexandre Reis",
+          "cargo": "Gerente Sênior Saúde",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Executivo com mais de 10 anos de experiência em desenvolvimento de categorias, marcas e marketplace, com trajetória em Avon, Sephora e Mercado Livre. Atua na construção de crescimento sustentável, combinando visão de longo prazo com execução de curto prazo, liderança cross‑functional e forte capacidade de transformar oportunidades complexas em resultados de negócio.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:10",
+      "titulo": "Farma: o Próximo Capítulo da Saúde Digital",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Renata Mascarenhas",
+          "cargo": "Diretor(a)",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Fernando Rubio",
+          "cargo": "Vice-Presidente Mercado Livre",
+          "empresa": ""
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Executivo com mais de 10 anos de experiência em desenvolvimento de categorias, marcas e marketplace, com trajetória em Avon, Sephora e Mercado Livre. Atua na construção de crescimento sustentável, combinando visão de longo prazo com execução de curto prazo, liderança cross‑functional e forte capacidade de transformar oportunidades complexas em resultados de negócio.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:30",
+      "titulo": "Produtos Estrela: Como Selecionar o Catálogo de Elite para Vender Mais no Full",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Vitor Caldeira e Silva",
+          "cargo": "Gerente Planejamento de Inventário",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Fabrício Delboni",
+          "cargo": "C-Level / CEO",
+          "empresa": "Ecomconsult"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:40",
+      "titulo": "Ofertas de Crédito: a Antecipação de Recebíveis e o Cartão de Crédito PJ",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Felipp Correa Rigonatti",
+          "cargo": "Gerente",
+          "empresa": "Mercado Pago"
+        },
+        {
+          "nome": "Samuel Bernucci",
+          "cargo": "Gerente",
+          "empresa": "Mercado Pago"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Gerente de Negócios de Cartões no Mercado Pago, possui mais de 10 anos de experiência no mercado de cartões de crédito e meios de pagamento.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "11:00",
+      "titulo": "Impulsione Seu Negócio com Soluções de Crédito e Conta Negócio do Mercado Pago",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Luis Junqueira",
+          "cargo": "Gerente Sênior",
+          "empresa": "Mercado Pago"
+        }
+      ],
+      "tags": [
+        "Crédito e Meios de Pagamento",
+        "Operações",
+        "Conciliação Financeira",
+        "Mercado Pago",
+        "Assistente - Mercado Pago"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:40",
+      "titulo": "Midea na Copa 2026: uma Estratégia de Branding By Mercado Ads",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Desiree Do Carmo Caterini",
+          "cargo": "Gerente Sênior Ads",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Barbara Miklacevicius",
+          "cargo": "Gerente Sênior Marketing",
+          "empresa": "Midea"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Com 18 anos de experiência em mídia digital, desenvolvimento de negócios e social commerce, Desirée Caterini é Head de Mercado Ads, liderando as frentes comerciais e estratégicas voltadas a grandes marcas e sellers dos segmentos de bens duráveis e Autos 0 km.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:30",
+      "titulo": "Ads na Prática: Estratégias para Vender Mais e Fidelizar Melhor",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Joao Paullo Vieira De Almeida",
+          "cargo": "Gerente Operações LATAM do Mercado Ads",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Eduardo Gama",
+          "cargo": "Diretor(a) Operações",
+          "empresa": "Conecta Ads"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Case de Sucesso",
+        "Consultoria Externa",
+        "Ads",
+        "Ferramentas Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Head de Operações LATAM do Mercado Ads, possui mais de 12 anos de experiência em estratégia e consultoria de negócios. No Mercado Livre há quase 2,5 anos, lidera as operações regionais de publicidade para a América Latina, com foco em go‑to‑market, adoção de produtos e crescimento escalável.",
+      "bio_palestra": "Como usar publicidade para crescer de forma sustentável no Mercado Livre?\nEsta palestra apresenta estratégias práticas de Mercado Ads, desde maximizar a visibilidade dos produtos até construir uma base de clientes fiéis, com foco em rentabilidade, automação e aproveitamento de datas especiais."
+    },
+    {
+      "hora": "11:50",
+      "titulo": "Da Câmera ao Carrinho: Como Lives e Clips Podem Impulsionar Suas Vendas",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Stefanie Thiene",
+          "cargo": "Gerente Social Commerce",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Santiago Blanco",
+          "cargo": "Gerente Produto",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Felipe Arsilo",
+          "cargo": "C-Level / CEO",
+          "empresa": "Auren Consultoria"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Social Commerce",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Clips",
+        "Afiliados",
+        "Live",
+        "Consultoria Externa"
+      ],
+      "tema": "Social commerce",
+      "bio": "Stefanie Thiene é Gerente de Social Commerce no Mercado Livre, onde lidera a estratégia regional de vídeos, lives e venda com afiliados na América Latina. Com mais de 15 anos de experiência em branding e marketing, atuou em empresas como Disney, Fox e Raia Drogasil, conectando comportamento do consumidor, estratégia de marca e inovação para criar novas formas de comunicação e venda no ambiente digital. É formada em Publicidade e Propaganda pela ESPM e em Psicologia pela Universidade Católica de Santos, onde também concluiu seu mestrado. Possui especializações em Inovação e Design Thinking e em Estratégia de Marketing Digital, além de pós-graduação em Neurociência e Comportamento.",
+      "bio_palestra": "Vídeo deixou de ser comunicação e virou alavanca de vendas. Descubra como usar lives e vídeos de forma simples e estratégica para aumentar a descoberta dos seus produtos, gerar confiança e impulsionar conversão dentro do Mercado Livre."
+    },
+    {
+      "hora": "11:50",
+      "titulo": "Propriedade Intelectual na Prática: o que Todo Vendedor Precisa Saber",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Bárbara Castro",
+          "cargo": "Especialista Propriedade Intelectual",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Victoria Siqueira",
+          "cargo": "Supervisor(a)",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Jurídico e Propriedade Intelectual",
+        "Ferramentas Mercado Livre"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Bárbara Castro é advogada in-house no Mercado Livre há 4 anos, graduada da equipe de Propriedade Intelectual no Mercado Livre, formada na Universidade Federal do Rio de Janeiro (UFRJ), pós-graduada em Propriedade Intelectual na Pontifícia Universidade Católica do Rio de Janeiro (PUC-RJ) e mestre em Regulamentação de Mídia e Plataformas de Streaming pela Fundação Rui Barbosa. Atualmente é Especialista da Área de Propriedade Intelectual do jurídico do Mercado Livre.",
+      "bio_palestra": "O objetivo é abordar o combate a venda de produtos irregulares e falsificados no Mercado Livre, auxiliando o vendedor a identificar se vende um produto regular e como seguir as normas do site.\n- Aumentar a conscientização sobre o brand protection program: o que é, como funciona, melhores práticas e outros tópicos relacionados ao programa. \n- Educar os vendedores sobre os riscos de infringir direitos de propriedade intelectual de terceiros.\n- Fornecer informações sobre o processo de criação de uma loja oficial e como registrar uma marca comercial através do IP Booster."
+    },
+    {
+      "hora": "15:10",
+      "titulo": "Como Aumentar Conversão com Preço Competitivo Usando Ferramentas do Mercado Livre",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Ana Carolina Fragal",
+          "cargo": "Especialista Pricing",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Helvio Nunes",
+          "cargo": "Gerente Sênior Pricing",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Alex Moro",
+          "cargo": "Fundador(a)",
+          "empresa": "Efeito Empreendedor"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Ana Fragal é Especialista de Pricing há quatro anos no Mercado Livre, atuando na frente estratégica de precificação, com foco em ferramentas e campanhas promocionais voltadas à competitividade de preços. Sua trajetória profissional foi construída na interseção entre inovação, dados, experiência do consumidor e estratégia, com passagens pelas áreas de indústria, varejo e tecnologia.",
+      "bio_palestra": "Nesta palestra, revelamos como transformar preço competitivo em conversão real usando as ferramentas do Mercado Livre. Você vai entender como a percepção de preço por trás do desconto influencia a decisão de compra e quais ferramentas podem colocar seus anúncios sempre um passo à frente da concorrência. Spoiler: preço competitivo não é abrir mão de margem. É conquistar o cliente antes do concorrente."
+    },
+    {
+      "hora": "15:10",
+      "titulo": "Do Outro Lado da Tela: Como um Grande Seller Compra no Mercado Livre e o que Isso Ensina Sobre Crescer no B2B",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Jorge Franchella",
+          "cargo": "Diretor(a) Executivo(a) Produto",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Ana Catarina Lucci",
+          "cargo": "Gerente Comercial",
+          "empresa": "GMC"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": "Diego Santos, Diretor de Marketplace de Construction & Industry no Mercado Livre Brasil, apresenta como grandes empresas estão transformando suas compras com o Mercado Livre Negócios e o que isso revela sobre o futuro do abastecimento corporativo no Brasil e no mundo."
+    },
+    {
+      "hora": "11:50",
+      "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Tamires Lidueña",
+          "cargo": "Gerente de TI Integradores",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Gerente de Integrações no Mercado Livre, com 16 anos de experiência em e-commerce e uma década de história no Mercado Livre. À frente da área de Open Platform, lidera a gestão de iniciativas para integradores, o programa de certificação e o suporte estratégico a grandes vendedores integrados.",
+      "bio_palestra": "Descubra como equilibrar custos e rapidez ao escolher entre ferramentas nativas, integradores ou o desenvolvimento de uma solução própria. Entenda como a inteligência artificial está democratizando automações e ajudando você a tomar a decisão ideal para o momento do seu negócio."
+    },
+    {
+      "hora": "11:00",
+      "titulo": "Anúncios de Catálogo: Conceitos, Dicas e Novidades para Destacar Seus Produtos e Multiplicar Sua Visibilidade",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Júlia Zancaner",
+          "cargo": "Gerente Experiência do Vendedor",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gabriel Paiva",
+          "cargo": "Gerente Educação",
+          "empresa": "Mamba Digital"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": "Esta palestra apresenta o catálogo como uma ferramenta estratégica essencial para o sucesso dos vendedores no Mercado Livre, demonstrando como ele potencializa os processos de anúncio e influencia diretamente o desempenho na Buy Box como uma verdadeira alavanca de vendas. \n\nEntenda o que é o catálogo, como ele melhora a experiência de compra por meio de informações curadas e como facilita o discovery dos produtos. Além disso, conheça os benefícios para o vendedor no momento de anunciar e na conversão. A sessão inclui ainda uma introdução à Buy Box."
+    },
+    {
+      "hora": "11:50",
+      "titulo": "Como Impulsionar a Venda de Vendedores Locais Chineses no Mercado Livre",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Yi Lin",
+          "cargo": "Gerente Sênior",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Yi Lin é especialista em e‑commerce na América Latina, com mais de 10 anos de experiência em crescimento de marketplaces globais e expansão internacional, com forte expertise no mercado brasileiro. Nos últimos sete anos, dedicou‑se a construir ecossistemas de vendedores, desenvolver estratégias e apoiar marcas globais e empresas chinesas a expandirem com sucesso no Brasil.",
+      "bio_palestra": "Palestra focada em explicar o Mercado Livre para players chineses que ainda não tiveram contato com a plataforma. O conteúdo cobrirá tópicos que vão desde a oportunidade do mercado brasileiro até o básico de como começar a operar no Mercado Livre, além de mostrar como contar com o suporte de um time que fala chinês e oferece uma experiência completa."
+    },
+    {
+      "hora": "11:00",
+      "titulo": "Como Ganhar Tempo e Aumentar as Vendas da Sua Operação do Mercado Livre.",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Thiago Trincas",
+          "cargo": "C-Level / CEO Produto",
+          "empresa": "Seconds"
+        },
+        {
+          "nome": "Tatiana Inoue",
+          "cargo": "Gerente Produto",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Thiago Trincas é CEO da Seconds, formado em Gestão de TI e especialista em Gestão Estratégica Empresarial. Atua no ecossistema de marketplaces, unindo tecnologia, dados e gestão para tornar operações mais eficientes, controladas e lucrativas.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:50",
+      "titulo": "Do Pequeno ao Grande: Como Enxugar a Cadeia e Democratizar a Importação",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Adenir dos Santos Junior",
+          "cargo": "C-Level / CEO",
+          "empresa": "Global Connect Institute"
+        },
+        {
+          "nome": "Didie Barros",
+          "cargo": "Gerente Sênior Negócios Internacionais",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Executivo internacional e Diplomata Civil da Jetrho International, com mais de 20 anos de experiência em mercados de consumo e comércio exterior. Presidente da Global Connect Institute e Sócio‑Presidente do Grupo ADM Import. Mestre em Administração pela FGV.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:30",
+      "titulo": "Como Potencializar as Vendas Ainda em 2026 com Negociações e IA",
+      "palco": "Talks Mercado Pago",
+      "palestrantes": [
+        {
+          "nome": "Gabriel Bollico",
+          "cargo": "C-Level / CEO",
+          "empresa": "Ecommerce Puro"
+        },
+        {
+          "nome": "André Santos",
+          "cargo": "Gerente",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "11:00",
+      "titulo": "As 3 Alavancas de Escala no Mercado Livre",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Cauê Antunes",
+          "cargo": "Gerente Sênior Promoções",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Dhiego Rosa",
+          "cargo": "C-Level / CEO",
+          "empresa": "Grupo Escalada"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:50",
+      "titulo": "Quem Vende Produto Compete. Quem Constrói Marca Permanece. Como Transformar Vendas em um Negócio Feito para Durar.",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Joel Cunha",
+          "cargo": "C-Level / CEO",
+          "empresa": "Conecta Ads"
+        },
+        {
+          "nome": "Mauricio Landi",
+          "cargo": "Diretor(a) Desenvolvimento e Experiência do Vendedor",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:00",
+      "titulo": "Gestão Eficiente de Devoluções 2.0",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Regi Cruz",
+          "cargo": "Gerente Envios",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gustavo Favoreto",
+          "cargo": "",
+          "empresa": "Base"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:30",
+      "titulo": "Do Anúncio ao Caixa: Como Ganhar Mais Vendendo no Mercado Livre",
+      "palco": "Talks Mercado Ads",
+      "palestrantes": [
+        {
+          "nome": "Rafael Barros",
+          "cargo": "Gerente Ads",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gabriel Paiva",
+          "cargo": "Gerente",
+          "empresa": "Mamba Digital"
+        }
+      ],
+      "tags": [],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Engenheiro com MBA Executivo pelo IESE Business School, Rafael tem mais de 10 anos de experiência em estratégia, desenvolvimento de negócios e liderança comercial. No Mercado Livre, atua como Manager de Mercado Ads para grandes marcas de Móveis & Decoração e Construção & Indústrias, com foco em crescimento, parcerias e expansão do Retail Media.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "11:00",
+      "titulo": "Tendências de Mercado - um Olhar para o Futuro do E-commerce",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "André Castilho",
+          "cargo": "Diretor Sênior Staff Capabilities",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gleidys Salvanha",
+          "cargo": "Diretor(a)",
+          "empresa": "Google"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Publicidade e Ads",
+        "Precificação Fiscal e Tributário",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Operações"
+      ],
+      "tema": "Tendências de mercado",
+      "bio": "André é Diretor Sênior de Marketplace no Mercado Livre, responsável por planejamento comercial, precificação, sortimento, promoções e mídia on‑site. Iniciou a carreira como desenvolvedor em uma startup de tecnologia e acumulou mais de 10 anos em consultoria estratégica, especializado em varejo, e‑commerce e serviços financeiros, liderando projetos para grandes empresas nacionais e internacionais em diversos segmentos. É engenheiro eletrônico pela UTFPR e mestre em administração pela UFRJ, com intercâmbio na Wharton School.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:10",
+      "titulo": "Entrega Rápida, Venda Garantida: o Protagonismo da Logística",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Luiz Vergueiro",
+          "cargo": "Diretor(a) Operações",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Frederico Rezeck",
+          "cargo": "VP Transportes Brasil",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Logística",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Operações",
+        "Gestão de Estoque",
+        "Ferramentas Mercado Livre",
+        "Catálogo",
+        "Full",
+        "Flex",
+        "Coletas",
+        "Envios",
+        "Clips"
+      ],
+      "tema": "Ecossistema Mercado Livre",
+      "bio": "Luiz Augusto Vergueiro é Diretor Sênior de Operações Logísticas do Mercado Livre, liderando o Mercado Envios Brasil desde 2018 e escalando a malha de fulfillment e transporte. Conselheiro de Supply Chain na Obramax e cofundador da ImLog, hub de educação em logística. Com 25 anos de carreira em manufatura, e‑commerce e transporte, atuou na Ambev, Unilever, Rhodia, Kanui, Olook e Infracommerce. Foi eleito Profissional de Logística do Ano pelo E-Commerce Brasil em 2015 e 2020 e recebeu o troféu E-commerce do MLOG Awards 2024 (MundoLogística). É Engenheiro de Produção Mecânica pela Mauá, com especialização em Administração pela FGV e formação executiva em Stanford. É Diretor de Logística da ABComm e professor de logística de e-commerce no MBA USP/Esalq.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:40",
+      "titulo": "Convivência: Como Construir o Mix Logístico Ideal para Sua Operação",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Karina Cataldo",
+          "cargo": "Gerente Sênior Operações de Venda e Estratégia em Envios",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Rodrigo Garcia",
+          "cargo": "Diretor(a)",
+          "empresa": "Petina Soluções"
+        }
+      ],
+      "tags": [],
+      "tema": "Inteligência Artificial",
+      "bio": "Karina Cataldo é Head de Sales Ops, Strategy & BI LATAM no Mercado Livre, onde lidera planejamento, performance e transformação digital para a vertical de Shipping em cinco países. Formada em Finanças pela FGV, com MBA pelo Ibmec, construiu sua carreira em planejamento estratégico e Sales Ops, passando por Ipiranga e iFood antes de chegar ao Meli. Hoje conecta dados, estratégia e pessoas para apoiar o crescimento sustentável da logística do Mercado Livre na América Latina.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "15:10",
+      "titulo": "Mercado Pago Apresenta: Como Fazer o Seu Negócio Crescer no Digital",
+      "palco": "Arena Mercado Livre",
+      "palestrantes": [
+        {
+          "nome": "Amanda Holzer",
+          "cargo": "Palestrante",
+          "empresa": ".Holzer"
+        }
+      ],
+      "tags": [
+        "Tendências de Mercado",
+        "Social Commerce",
+        "Crédito e Meios de Pagamento",
+        "Publicidade e Ads",
+        "Consultoria Externa",
+        "Case de Sucesso",
+        "Inspiracional",
+        "Clips",
+        "Live",
+        "Afiliados",
+        "Mercado Pago"
+      ],
+      "tema": "Tendências de mercado",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "13:30",
+      "titulo": "Do Processo Criativo ao Carrinho: Como Tendências Nascem e Movimentam o Consumo",
+      "palco": "Palco Principal",
+      "palestrantes": [
+        {
+          "nome": "Roberta Donato",
+          "cargo": "Vice-Presidente Marketplace",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Anitta",
+          "cargo": "Empreendedor(a)",
+          "empresa": ""
+        }
+      ],
+      "tags": [
+        "Inteligência Artificial",
+        "Tendências de Mercado",
+        "Social Commerce",
+        "Publicidade e Ads",
+        "Inspiracional",
+        "Case de Sucesso",
+        "Tecnologia",
+        "Ferramentas Mercado Livre",
+        "Live",
+        "Clips",
+        "Afiliados"
+      ],
+      "tema": "Inspiracional",
+      "bio": "Lidera a operação de Marketplace do Mercado Livre Brasil, sendo responsável por verticais como eletrônicos, tecnologia e autopeças, além das áreas de desenvolvimento de vendedores, planejamento estratégico, desenvolvimento de negócios e gestão comercial da plataforma. Está na companhia desde 2020 e construiu sua carreira em estratégia, operações e gestão comercial. Antes, atuou por quase 15 anos na Whirlpool, passando por marketing, logística, planejamento operacional e pós‑vendas. É formada em Administração de Empresas pelo Insper e possui mestrado em Economia e Finanças pela mesma instituição.",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "16:50",
+      "titulo": "Entenda Quanto Custa Enviar com o Mercado Livre",
+      "palco": "Talks GolLog",
+      "palestrantes": [
+        {
+          "nome": "Cesar Augusto Lage Dos Santos",
+          "cargo": "Gerente Preços",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [],
+      "tema": "Inteligência Artificial",
+      "bio": "",
+      "bio_palestra": ""
+    },
+    {
+      "hora": "12:40",
+      "titulo": "Por que o Mercado Livre Cobra DIFAL? Entenda os Tributos nas Suas Vendas",
+      "palco": "Talks Assurant",
+      "palestrantes": [
+        {
+          "nome": "Lisandra Sulzbach",
+          "cargo": "Gerente Sênior Planejamento Tributário",
+          "empresa": "Mercado Livre"
+        },
+        {
+          "nome": "Gabriela Hares",
+          "cargo": "Gerente Planejamento Tributário",
+          "empresa": "Mercado Livre"
+        }
+      ],
+      "tags": [
+        "Logística",
+        "Precificação Fiscal e Tributário",
+        "Precificação de Produto",
+        "Envios",
+        "Conciliação Financeira"
+      ],
+      "tema": "Inteligência Artificial",
+      "bio": "",
+      "bio_palestra": ""
+    }
+  ]
+}
