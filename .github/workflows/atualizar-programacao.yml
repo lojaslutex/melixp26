@@ -29,8 +29,10 @@ jobs:
         run: |
           if git diff --quiet -- data/programacao.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nenhuma alteração na programação."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff --stat -- data/programacao.json
           fi
 
       - name: Commit e push
@@ -39,5 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/programacao.json
-          git commit -m "Atualiza programação do MLXP26"
+          git commit -m "Atualiza programação MLXP26"
           git push
