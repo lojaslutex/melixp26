@@ -8,10 +8,16 @@ import tempfile
 import urllib.request
 
 URL = "https://mercadolivreexperience.mercadolivre.com.br/mlxp.json"
-OUTPUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                     "data", "programacao.json")
+OUTPUT = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "data",
+    "programacao.json"
+)
 
-EXPECTED_DAYS = ("24/SET", "25/SET")
+DIAS = {
+    "24/SET": "2026-09-24",
+    "25/SET": "2026-09-25",
+}
 
 
 def baixar_json():
@@ -24,51 +30,70 @@ def baixar_json():
         },
     )
     with urllib.request.urlopen(req, timeout=30) as response:
-        raw = response.read()
-    return json.loads(raw.decode("utf-8"))
+        return json.loads(response.read().decode("utf-8"))
 
 
-def validar(data):
-    if not isinstance(data, dict):
+def normalizar_evento(evento, data):
+    hora = evento.get("hora", "")
+    titulo = evento.get("titulo", "")
+    palco = evento.get("palco", "")
+
+    # Mantém o formato que o frontend do projeto espera:
+    # um ARRAY de talks, com hora_inicio/data/etc.
+    return {
+        "id": evento.get("id", ""),
+        "data": data,
+        "hora_inicio": hora,
+        "hora_fim": evento.get("hora_fim", ""),
+        "horario_original": evento.get("horario_original", hora),
+        "palco": palco,
+        "titulo": titulo,
+        "descricao": evento.get("descricao", evento.get("bio_palestra", "")),
+        "empresa": evento.get("empresa", ""),
+        "palestrantes": evento.get("palestrantes", []),
+        "tema": evento.get("tema", ""),
+        "tags": evento.get("tags", []),
+        "imagem": evento.get("imagem", ""),
+    }
+
+
+def validar(origem):
+    if not isinstance(origem, dict):
         raise ValueError("O mlxp.json não retornou um objeto JSON.")
 
-    for dia in EXPECTED_DAYS:
-        if dia not in data:
-            raise ValueError("Dia ausente no JSON oficial: " + dia)
-        if not isinstance(data[dia], list):
-            raise ValueError("O conteúdo de " + dia + " não é uma lista.")
+    talks = []
 
-    total = sum(len(data[dia]) for dia in EXPECTED_DAYS)
-    if total == 0:
-        raise ValueError("O JSON oficial não possui sessões.")
+    for chave, data in DIAS.items():
+        if chave not in origem:
+            raise ValueError("Dia ausente no JSON oficial: " + chave)
 
-    for dia in EXPECTED_DAYS:
-        if len(data[dia]) == 0:
-            raise ValueError("Nenhuma sessão encontrada para " + dia)
+        if not isinstance(origem[chave], list) or not origem[chave]:
+            raise ValueError("Nenhuma sessão encontrada para " + chave)
 
-        for i, sessao in enumerate(data[dia]):
-            if not isinstance(sessao, dict):
-                raise ValueError("Sessão inválida em %s, índice %d." % (dia, i))
+        for i, evento in enumerate(origem[chave]):
+            if not isinstance(evento, dict):
+                raise ValueError("Sessão inválida em %s, índice %d." % (chave, i))
 
-            # O site oficial usa "hora" diretamente.
-            hora = sessao.get("hora")
-            titulo = sessao.get("titulo")
-            palco = sessao.get("palco")
+            hora = evento.get("hora")
+            titulo = evento.get("titulo")
+            palco = evento.get("palco")
 
             if not isinstance(hora, str) or not hora.strip():
-                raise ValueError("Sessão sem 'hora' em %s, índice %d." % (dia, i))
+                raise ValueError("Sessão sem hora em %s, índice %d." % (chave, i))
             if not isinstance(titulo, str) or not titulo.strip():
-                raise ValueError("Sessão sem 'titulo' em %s, índice %d." % (dia, i))
+                raise ValueError("Sessão sem título em %s, índice %d." % (chave, i))
             if not isinstance(palco, str) or not palco.strip():
-                raise ValueError("Sessão sem 'palco' em %s, índice %d." % (dia, i))
+                raise ValueError("Sessão sem palco em %s, índice %d." % (chave, i))
 
-            # Evita publicar horários em formatos inesperados.
-            if len(hora.strip()) != 5 or hora[2] != ":":
-                raise ValueError(
-                    "Horário fora do formato HH:MM em %s: %r" % (dia, hora)
-                )
+            talks.append(normalizar_evento(evento, data))
 
-    return total
+    if not talks:
+        raise ValueError("Nenhuma palestra encontrada.")
+
+    # Ordenação simples por data + hora, sem converter para Date.
+    talks.sort(key=lambda x: (x["data"], x["hora_inicio"]))
+
+    return talks
 
 
 def salvar_atomico(data):
@@ -76,13 +101,19 @@ def salvar_atomico(data):
     if not os.path.isdir(pasta):
         os.makedirs(pasta)
 
-    fd, temporario = tempfile.mkstemp(prefix="programacao_", suffix=".json",
-                                      dir=pasta)
+    fd, temporario = tempfile.mkstemp(
+        prefix="programacao_",
+        suffix=".json",
+        dir=pasta
+    )
+
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             f.write("\n")
+
         os.replace(temporario, OUTPUT)
+
     except Exception:
         try:
             os.unlink(temporario)
@@ -95,19 +126,18 @@ def main():
     print("Baixando programação oficial:")
     print(URL)
 
-    data = baixar_json()
-    total = validar(data)
+    origem = baixar_json()
+    talks = validar(origem)
+    salvar_atomico(talks)
 
-    # IMPORTANTE:
-    # Não transforma, achata, renomeia ou converte os campos.
-    # O site oficial espera exatamente o objeto com 24/SET e 25/SET.
-    salvar_atomico(data)
+    qtd24 = len([x for x in talks if x["data"] == "2026-09-24"])
+    qtd25 = len([x for x in talks if x["data"] == "2026-09-25"])
 
     print("Programação atualizada com sucesso.")
-    print("24/SET: %d eventos" % len(data["24/SET"]))
-    print("25/SET: %d eventos" % len(data["25/SET"]))
-    print("Total: %d eventos" % total)
-    print("Arquivo: %s" % OUTPUT)
+    print("24/09:", qtd24, "eventos")
+    print("25/09:", qtd25, "eventos")
+    print("Total:", len(talks))
+    print("Arquivo:", OUTPUT)
 
 
 if __name__ == "__main__":
