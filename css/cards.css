@@ -1,204 +1,190 @@
-.timeline {
-    position: relative;
+.timeline{position:relative}
+
+.day-heading{
+  display:flex;
+  align-items:center;
+  gap:.8rem;
+  font-size:.82rem;
+  font-weight:850;
+  letter-spacing:.10em;
+  text-transform:uppercase;
+  color:#555d69;
+  margin:2rem 0 .8rem;
+}
+.day-heading:after{
+  content:"";
+  height:1px;
+  flex:1;
+  background:linear-gradient(90deg,#d9dce3,transparent);
 }
 
-.day-heading {
-    font-size: 1.05rem;
-    font-weight: 750;
-    margin: 1.5rem 0 .75rem;
+.talk-card{
+  position:relative;
+  border:1px solid var(--border)!important;
+  border-radius:18px!important;
+  margin-bottom:.75rem;
+  box-shadow:0 4px 18px rgba(20,28,45,.045);
+  overflow:hidden;
+  background:var(--card);
+  transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease;
+}
+.talk-card:hover{
+  transform:translateY(-2px);
+  box-shadow:var(--shadow-hover);
+  border-color:#d9dde6!important;
+}
+.talk-card:before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  width:4px;
+  background:var(--brand);
+}
+.talk-card.live:before{background:#dc3545}
+.talk-card.soon:before{background:#f59f00}
+
+.talk-card .card-body{padding:1.05rem 1.15rem}
+
+.talk-time{
+  min-width:66px;
+  padding-top:.1rem;
+  color:var(--brand-dark);
+  font-weight:850;
+  font-size:.88rem;
+  letter-spacing:-.01em;
 }
 
-.talk-card {
-    position: relative;
-    border: 0;
-    border-radius: 16px;
-    margin-bottom: .75rem;
-    box-shadow: 0 3px 12px #1020400d;
-    overflow: hidden;
+.badge-stage{
+  background:#fff9c9!important;
+  color:#36330e!important;
+  font-weight:750;
+  border:1px solid #f0dc18!important;
+  border-radius:99px;
+  padding:.34rem .62rem;
+  font-size:.68rem;
+  letter-spacing:.01em;
+  max-width:calc(100% - 40px);
 }
 
-.talk-card:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 4px;
-    background: #ffe600;
+.favorite-btn{
+  color:#a0a5ad;
+  transition:transform .15s ease,color .15s ease;
+}
+.favorite-btn:hover{color:#e0a800;transform:scale(1.08)}
+.favorite{color:#e0a800!important}
+
+.talk-title{
+  color:var(--ink);
+  font-size:1rem!important;
+  line-height:1.35;
+  letter-spacing:-.015em;
 }
 
-.talk-card.live:before {
-    background: #dc3545;
+.talk-description{
+  color:var(--muted);
+  font-size:.86rem;
+  line-height:1.5;
+  max-width:92ch;
 }
 
-.talk-card.soon:before {
-    background: #f59f00;
+.speaker-chip{
+  background:#f1f3f6;
+  color:#4f5967;
+  border-radius:99px;
+  padding:.28rem .58rem;
+  font-size:.72rem;
+  font-weight:600;
+  display:inline-block;
+  margin:.1rem .15rem .1rem 0;
 }
 
-.talk-time {
-    min-width: 64px;
-    color:#0d6efd;
-    font-weight: 750;
-    font-size: .9rem;
+.duration{
+  font-size:.75rem;
+  font-weight:650;
+  color:#7a818d;
 }
 
-.favorite {
-    color: #f0a000;
+.tag{
+  font-size:.67rem;
+  font-weight:650;
+  background:#f2f4f7;
+  border:1px solid #e7e9ee;
+  border-radius:99px;
+  padding:.24rem .5rem;
+  color:#68717f;
 }
 
-.tag {
-    font-size: .72rem;
-    background: #eef2f6;
-    border-radius: 20px;
-    padding: .2rem .45rem;
-    color: #526170;
+.talk-card .btn-outline-primary{
+  border-radius:99px;
+  padding:.34rem .7rem;
+  font-size:.73rem;
 }
 
-.watched {
-    opacity: .68;
+.watched{opacity:.62}
+.conflict{border-color:#f0ad4e!important}
+
+/* Lutex banner */
+.lutex-banner{
+  display:block;
+  position:relative;
+  overflow:hidden;
+  isolation:isolate;
+  min-height:176px;
+  margin:0 0 1.5rem;
+  border-radius:20px;
+  text-decoration:none;
+  color:#fff;
+  background:#766150;
+  box-shadow:0 10px 30px rgba(58,46,37,.10);
+  transition:transform .2s ease,box-shadow .2s ease;
 }
-
-.conflict {
-    border: 1px solid #f0ad4e;
+.lutex-banner:hover{
+  transform:translateY(-2px);
+  box-shadow:0 16px 38px rgba(58,46,37,.15);
 }
-
-
-/* ===========================
-   Banner Lutex
-=========================== */
-
-.lutex-banner {
-    display: block;
-    position: relative;
-    overflow: hidden;
-    isolation: isolate;
-
-    min-height: 176px;
-    margin: 0 0 1.5rem;
-
-    border-radius: 18px;
-    text-decoration: none;
-    color: #fff;
-
-    background: #766150;
-    box-shadow: 0 8px 24px #3a2e251f;
+.lutex-banner::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  background:linear-gradient(90deg,#fc6464 0%,#fc6464 20%,rgba(252,100,100,.85) 30%,rgba(252,100,100,.48) 43%,rgba(252,100,100,0) 58%);
 }
-
-/* Gradiente rosa */
-.lutex-banner::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-
-    background: linear-gradient(
-        90deg,
-        #FC6464 0%,
-        #FC6464 22%,
-        rgba(252,100,100,.88) 30%,
-        rgba(252,100,100,.55) 40%,
-        rgba(252,100,100,.20) 50%,
-        rgba(252,100,100,0) 100%
-    );
+.lutex-banner>img{
+  position:absolute;
+  inset:0;
+  z-index:-2;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center right;
 }
-
-/* SOMENTE a imagem de fundo */
-.lutex-banner > img {
-    position: absolute;
-    inset: 0;
-    z-index: -2;
-
-    width: 100%;
-    height: 100%;
-
-    object-fit: cover;
-    object-position: center right;
+.lutex-copy{
+  position:absolute;
+  top:50%;
+  left:32px;
+  transform:translateY(-50%);
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:flex-start;
+  gap:9px;
+  width:min(60%,340px);
 }
-
-
-/* Conteúdo */
-
-.lutex-copy {
-    position: absolute;
-    top: 50%;
-    left: 32px;
-    transform: translateY(-50%);
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-
-    gap: 10px;
-
-    width: min(60%, 340px);
-    padding: 0;
+.lutex-copy small{
+  font-size:.6rem;
+  font-weight:850;
+  letter-spacing:.15em;
+  color:#ffe6e6;
 }
-
-/* Texto superior */
-
-.lutex-copy small {
-    font-size: .62rem;
-    font-weight: 800;
-    letter-spacing: .15em;
-    color: #ffe6e6;
+.lutex-logo{
+  position:static;
+  display:block;
+  width:210px;
+  max-width:100%;
+  height:auto;
+  object-fit:contain;
 }
-
-/* Logo */
-
-.lutex-logo {
-    position: static;
-
-    display: block;
-
-    width: 220px;
-    max-width: 100%;
-    height: auto;
-
-    object-fit: contain;
-}
-
-/* Subtítulo */
-
-.lutex-copy b {
-    font-size: .95rem;
-    line-height: 1.35;
-    font-weight: 500;
-    color: #fff;
-}
-
-/* Caso ainda exista algum <strong> */
-
-.lutex-copy strong {
-    display: none;
-}
-
-/* Caso ainda exista o botão */
-
-.lutex-copy em {
-    display: none;
-}
-
-
-/* Mobile */
-
-@media (max-width:575px){
-
-    .lutex-banner{
-        min-height:160px;
-    }
-
-    .lutex-copy{
-        left:20px;
-        width:70%;
-    }
-
-    .lutex-logo{
-        width:170px;
-    }
-
-    .lutex-copy b{
-        font-size:.85rem;
-    }
-
-}
+.lutex-copy b{font-size:.92rem;line-height:1.35;font-weight:550;color:#fff}
+.lutex-copy strong,.lutex-copy em{display:none}

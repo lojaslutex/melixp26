@@ -1,13 +1,30 @@
 @media(max-width:575px){
   body{overflow-x:hidden}
-  .display-6{font-size:2rem}
-  .talk-card{max-width:100%}
-  .talk-card .card-body{padding:.9rem}
+  .container{padding-left:14px;padding-right:14px}
+  .app-header .container{padding-left:14px;padding-right:14px}
+  .brand strong{font-size:1rem}
+  .brand small{font-size:.45rem}
+  .app-header .btn{font-size:.74rem}
+  .app-header .btn-primary{padding:.4rem .58rem}
+  .hero{padding-top:1.7rem!important;padding-bottom:1rem!important}
+  .hero:before{margin-bottom:.9rem}
+  .display-6{font-size:1.85rem}
+  .next-card{font-size:.84rem}
+  main>section.card .card-body{padding:.75rem}
+  .talk-card{max-width:100%;border-radius:15px!important}
+  .talk-card .card-body{padding:.9rem .85rem}
   .talk-card .d-flex.gap-2{min-width:0}
   .talk-card .flex-grow-1{min-width:0;overflow-wrap:anywhere}
-  .talk-time{min-width:48px;font-size:.8rem}
+  .talk-time{min-width:50px;font-size:.76rem}
   .talk-title,.talk-description{overflow-wrap:anywhere;word-break:break-word}
-  .speaker-chip{font-size:.7rem;white-space:normal;overflow-wrap:anywhere}
+  .talk-title{font-size:.92rem!important}
+  .speaker-chip{font-size:.67rem;white-space:normal;overflow-wrap:anywhere}
   .talk-card .d-flex.align-items-center.gap-2{flex-wrap:wrap}
   .talk-card .d-flex.align-items-center.gap-2 .ms-auto{margin-left:0!important}
+  .talk-card .btn-outline-primary{width:100%;margin-top:.15rem}
+  .badge-stage{font-size:.62rem}
+  .lutex-banner{min-height:150px;border-radius:16px}
+  .lutex-copy{left:18px;width:70%;gap:7px}
+  .lutex-logo{width:155px}
+  .lutex-copy b{font-size:.78rem}
 }
