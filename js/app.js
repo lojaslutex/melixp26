@@ -1,30 +1,7 @@
 window.App={
   talks:[],
 
-  async load(){
-    const url='data/programacao.json?v='+Date.now();
-
-    const data=await fetch(url,{cache:'no-store'}).then(r=>{
-      if(!r.ok) throw Error('Não foi possível carregar a programação.');
-      return r.json();
-    });
-
-    if(!Array.isArray(data)){
-      throw Error('A programação carregada não é uma lista de palestras. Verifique data/programacao.json.');
-    }
-
-    this.talks=data;
-
-    this.talks.sort((a,b)=>
-      `${a.data}|${a.hora_inicio||'99:99'}|${a.palco}`
-      .localeCompare(
-        `${b.data}|${b.hora_inicio||'99:99'}|${b.palco}`,
-        'pt-BR'
-      )
-    );
-
-    return this.talks;
-  },
+  async load(){const data=await fetch('data/programacao.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Não foi possível carregar a programação.');return r.json()});if(!Array.isArray(data))throw Error('A programação carregada não é uma lista de palestras. Verifique data/programacao.json.');this.talks=data;this.talks.sort((a,b)=>`${a.data}|${a.hora_inicio||'99:99'}|${a.palco}`.localeCompare(`${b.data}|${b.hora_inicio||'99:99'}|${b.palco}`,'pt-BR'));return this.talks},
 
   render(talks,container=document.querySelector('#schedule')){
     if(!container)return;
