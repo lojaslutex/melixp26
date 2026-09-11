@@ -1,281 +1,317 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Extrator da programação do Mercado Livre Experience 2026.
+
+Fonte oficial utilizada pelo próprio site:
+https://mercadolivreexperience.mercadolivre.com.br/mlxp.json
+
+O script:
+- baixa o JSON oficial;
+- valida a estrutura;
+- valida as duas datas do evento;
+- normaliza os campos para o formato usado pelo GitHub Pages;
+- só grava o arquivo final se a validação for aprovada.
+
+Compatível com Python 3.x.
+"""
+
 import json
-import re
+import os
 import sys
-from pathlib import Path
-from urllib.parse import urljoin
-from urllib.request import Request, urlopen
+import urllib.request
+from datetime import datetime
 
-SITE_URL = "https://mercadolivreexperience.mercadolivre.com.br/"
-KNOWN_JS_URL = "https://mercadolivreexperience.mercadolivre.com.br/_next/static/chunks/app/page-eba548846f7b2a93.js"
-ROOT = Path(__file__).resolve().parents[1]
-OUTPUT_FILE = ROOT / "data" / "programacao.json"
+URL_ORIGINAL = "https://mercadolivreexperience.mercadolivre.com.br/mlxp.json"
+ARQUIVO_SAIDA = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "data",
+    "programacao.json",
+)
 
-
-def http_get(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140.0 Safari/537.36",
-        "Accept": "*/*",
-        "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-        "Referer": SITE_URL,
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache",
-    }
-    with urlopen(Request(url, headers=headers), timeout=60) as response:
-        return response.read().decode("utf-8", errors="replace")
+DATAS = ("24/SET", "25/SET")
 
 
-def discover_js_urls():
-    urls = []
-    html = http_get(SITE_URL)
+def baixar_json(url):
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (compatible; "
+                "MLXP26-Programacao/1.0; +https://github.com/lojaslutex/melixp26)"
+            ),
+            "Accept": "application/json,text/plain,*/*",
+            "Referer": "https://mercadolivreexperience.mercadolivre.com.br/",
+        },
+    )
 
-    # Extrai os scripts atuais do HTML. Isso evita depender do hash antigo do Next.js.
-    for match in re.findall(r'<script[^>]+src=["\']([^"\']+\.js[^"\']*)["\']', html, flags=re.I):
-        full = urljoin(SITE_URL, match)
-        if full not in urls:
-            urls.append(full)
+    with urllib.request.urlopen(req, timeout=30) as resposta:
+        conteudo = resposta.read()
 
-    # O chunk conhecido fica como fallback, caso o site mude temporariamente.
-    if KNOWN_JS_URL not in urls:
-        urls.append(KNOWN_JS_URL)
-    return urls
+    try:
+        texto = conteudo.decode("utf-8")
+    except UnicodeDecodeError:
+        texto = conteudo.decode("utf-8-sig")
 
-
-def extract_balanced_object(js, start):
-    level = 0
-    in_string = False
-    quote = ""
-    escaped = False
-    in_line_comment = False
-    in_block_comment = False
-
-    for i in range(start, len(js)):
-        c = js[i]
-        n = js[i + 1] if i + 1 < len(js) else ""
-
-        if in_line_comment:
-            if c == "\n":
-                in_line_comment = False
-            continue
-
-        if in_block_comment:
-            if c == "*" and n == "/":
-                in_block_comment = False
-            continue
-
-        if in_string:
-            if escaped:
-                escaped = False
-            elif c == "\\":
-                escaped = True
-            elif c == quote:
-                in_string = False
-            continue
-
-        if c == "/" and n == "/":
-            in_line_comment = True
-            continue
-        if c == "/" and n == "*":
-            in_block_comment = True
-            continue
-
-        if c in ('"', "'", "`"):
-            in_string = True
-            quote = c
-            continue
-
-        if c == "{":
-            level += 1
-        elif c == "}":
-            level -= 1
-            if level == 0:
-                return js[start:i + 1]
-
-    return None
+    return json.loads(texto)
 
 
-def js_object_to_python(text):
-    # Escapes hexadecimais usados pela minificação.
-    text = re.sub(r"\\x([0-9a-fA-F]{2})", lambda m: chr(int(m.group(1), 16)), text)
-
-    # Propriedades sem aspas: {hora:"12:20"} -> {"hora":"12:20"}
-    text = re.sub(r'([,{])\s*([A-Za-z_$][A-Za-z0-9_$-]*)\s*:', r'\1"\2":', text)
-
-    # Valores JS simples.
-    text = re.sub(r'\bundefined\b', 'null', text)
-    text = re.sub(r'\bNaN\b', 'null', text)
-
-    # Vírgulas finais permitidas pelo JavaScript.
-    text = re.sub(r',\s*([}\]])', r'\1', text)
-
-    return json.loads(text)
+def lista_segura(valor):
+    if isinstance(valor, list):
+        return valor
+    return []
 
 
-def extract_schedule_object(js):
-    """
-    Não depende mais de `let n=[...] ,l={...}`.
-    Procura qualquer objeto que contenha simultaneamente 24/SET e 25/SET.
-    Isso torna o extrator resistente às mudanças de minificação/nome de variável.
-    """
-    date_patterns = ['"24/SET"', "'24/SET'", '"25/SET"', "'25/SET'"]
-
-    positions = []
-    for pattern in date_patterns:
-        start = 0
-        while True:
-            pos = js.find(pattern, start)
-            if pos < 0:
-                break
-            positions.append(pos)
-            start = pos + len(pattern)
-
-    positions = sorted(set(positions))
-    if not positions:
-        raise ValueError("As datas 24/SET e 25/SET não foram encontradas no JavaScript.")
-
-    # Para cada ocorrência, tenta objetos iniciados antes dela.
-    for pos in positions:
-        cursor = pos
-        minimum = max(0, pos - 30000)
-        attempts = 0
-
-        while cursor >= minimum and attempts < 1000:
-            cursor = js.rfind("{", minimum, cursor + 1)
-            if cursor < 0:
-                break
-            attempts += 1
-
-            obj = extract_balanced_object(js, cursor)
-            if not obj:
-                continue
-
-            # Evita tentar converter objetos gigantes que claramente não são a agenda.
-            if '"24/SET"' not in obj and "'24/SET'" not in obj:
-                continue
-            if '"25/SET"' not in obj and "'25/SET'" not in obj:
-                continue
-
-            try:
-                data = js_object_to_python(obj)
-            except Exception:
-                continue
-
-            if isinstance(data, dict) and isinstance(data.get("24/SET"), list) and isinstance(data.get("25/SET"), list):
-                return data
-
-    raise ValueError("Não foi possível interpretar o objeto da programação no JavaScript atual.")
+def texto(valor, padrao=""):
+    if valor is None:
+        return padrao
+    if isinstance(valor, str):
+        return valor.strip()
+    return str(valor).strip()
 
 
-def convert_date(day):
-    return {"24/SET": "2026-09-24", "25/SET": "2026-09-25"}.get(day, "")
+def normalizar_palestrantes(valor):
+    resultado = []
+
+    for palestrante in lista_segura(valor):
+        if isinstance(palestrante, dict):
+            resultado.append({
+                "nome": texto(
+                    palestrante.get("nome")
+                    or palestrante.get("name")
+                ),
+                "empresa": texto(
+                    palestrante.get("empresa")
+                    or palestrante.get("company")
+                ),
+                "cargo": texto(
+                    palestrante.get("cargo")
+                    or palestrante.get("role")
+                    or palestrante.get("job")
+                ),
+            })
+        elif isinstance(palestrante, str):
+            resultado.append({
+                "nome": palestrante.strip(),
+                "empresa": "",
+                "cargo": "",
+            })
+
+    return resultado
 
 
-def normalize_speaker(speaker):
-    if not isinstance(speaker, dict):
-        return {"nome": "", "cargo": "", "empresa": "", "imagem": ""}
-    return {
-        "nome": speaker.get("nome", ""),
-        "cargo": speaker.get("cargo", ""),
-        "empresa": speaker.get("empresa", ""),
-        "imagem": speaker.get("imagem", ""),
-    }
+def normalizar_evento(evento, data):
+    if not isinstance(evento, dict):
+        return None
 
+    hora = texto(
+        evento.get("hora")
+        or evento.get("horario")
+        or evento.get("hora_inicio")
+    )
 
-def normalize_event(event, day, number):
-    if not isinstance(event, dict):
-        event = {}
-    speakers = event.get("palestrantes", [])
-    if not isinstance(speakers, list):
-        speakers = []
-    speakers = [normalize_speaker(s) for s in speakers]
+    titulo = texto(
+        evento.get("titulo")
+        or evento.get("title")
+        or evento.get("nome")
+    )
 
-    companies = []
-    for speaker in speakers:
-        company = speaker.get("empresa", "")
-        if company and company not in companies:
-            companies.append(company)
+    palco = texto(
+        evento.get("palco")
+        or evento.get("stage")
+    )
 
-    description = event.get("bio_palestra", "") or event.get("descricao", "") or event.get("bio", "")
-    tags = event.get("tags", [])
-    if not isinstance(tags, list):
-        tags = []
+    if not titulo or not hora:
+        return None
+
+    descricao = texto(
+        evento.get("descricao")
+        or evento.get("bio_palestra")
+        or evento.get("description")
+    )
+
+    palestrantes = normalizar_palestrantes(
+        evento.get("palestrantes")
+        or evento.get("speakers")
+    )
+
+    tags = []
+    for tag in lista_segura(evento.get("tags")):
+        if isinstance(tag, dict):
+            valor = texto(tag.get("nome") or tag.get("name"))
+        else:
+            valor = texto(tag)
+        if valor:
+            tags.append(valor)
+
+    # Mantém a ordem original e elimina duplicidades.
+    tags = list(dict.fromkeys(tags))
+
+    hora_inicio = hora
+    hora_fim = texto(
+        evento.get("hora_fim")
+        or evento.get("horario_fim")
+    )
+
+    horario_original = texto(
+        evento.get("horario_original")
+        or evento.get("horario")
+        or hora
+    )
+
+    imagem = texto(
+        evento.get("imagem")
+        or evento.get("image")
+    )
+
+    tema = texto(
+        evento.get("tema")
+        or evento.get("theme")
+    )
+
+    # O ID original é preservado quando existe.
+    evento_id = evento.get("id")
+    if evento_id is None or texto(evento_id) == "":
+        evento_id = "%s-%s-%s" % (
+            data.lower().replace("/", "-"),
+            hora.replace(":", ""),
+            titulo.lower().replace(" ", "-")[:80],
+        )
 
     return {
-        "id": "mlxp-2026-%03d" % number,
-        "data": convert_date(day),
-        "hora_inicio": event.get("hora", ""),
-        "hora_fim": "",
-        "horario_original": event.get("hora", ""),
-        "palco": event.get("palco", ""),
-        "titulo": event.get("titulo", ""),
-        "descricao": description,
-        "empresa": ", ".join(companies),
-        "palestrantes": speakers,
-        "tema": event.get("tema", ""),
+        "id": evento_id,
+        "data": data,
+        "hora_inicio": hora_inicio,
+        "hora_fim": hora_fim,
+        "horario_original": horario_original,
+        "palco": palco,
+        "titulo": titulo,
+        "descricao": descricao,
+        "empresa": texto(evento.get("empresa")),
+        "palestrantes": palestrantes,
+        "tema": tema,
         "tags": tags,
-        "imagem": event.get("imagem", ""),
+        "imagem": imagem,
     }
+
+
+def extrair_eventos(dados):
+    if not isinstance(dados, dict):
+        raise ValueError("O mlxp.json não retornou um objeto JSON.")
+
+    eventos_por_data = {}
+
+    for data in DATAS:
+        valor = dados.get(data)
+
+        if valor is None:
+            # Aceita também chaves equivalentes em minúsculas.
+            for chave, item in dados.items():
+                if texto(chave).upper() == data:
+                    valor = item
+                    break
+
+        if not isinstance(valor, list):
+            raise ValueError(
+                "A chave %s não contém uma lista de eventos." % data
+            )
+
+        eventos = []
+        for evento in valor:
+            normalizado = normalizar_evento(evento, data)
+            if normalizado:
+                eventos.append(normalizado)
+
+        eventos_por_data[data] = eventos
+
+    return eventos_por_data
+
+
+def validar(eventos_por_data):
+    contagens = {
+        data: len(eventos_por_data.get(data, []))
+        for data in DATAS
+    }
+
+    print("Eventos encontrados:")
+    for data in DATAS:
+        print("  %s: %d" % (data, contagens[data]))
+
+    if any(contagens[data] == 0 for data in DATAS):
+        raise ValueError(
+            "Validação interrompida: uma das datas não possui eventos."
+        )
+
+    total = sum(contagens.values())
+
+    # Proteção contra uma resposta inesperada ou parcial.
+    # O site atualmente possui uma programação substancial nos dois dias.
+    if total < 10:
+        raise ValueError(
+            "Validação interrompida: apenas %d eventos encontrados." % total
+        )
+
+    return total
+
+
+def gerar_saida(eventos_por_data):
+    # Mantém a estrutura simples: lista única, ordenada por data/hora.
+    eventos = []
+
+    for data in DATAS:
+        eventos.extend(eventos_por_data[data])
+
+    def chave(evento):
+        hora = texto(evento.get("hora_inicio"))
+        try:
+            hora_ordem = datetime.strptime(hora, "%H:%M")
+        except ValueError:
+            hora_ordem = datetime.strptime("23:59", "%H:%M")
+        return (DATAS.index(evento["data"]), hora_ordem)
+
+    eventos.sort(key=chave)
+    return eventos
+
+
+def salvar_com_seguranca(eventos):
+    diretorio = os.path.dirname(ARQUIVO_SAIDA)
+    if not os.path.isdir(diretorio):
+        os.makedirs(diretorio)
+
+    temporario = ARQUIVO_SAIDA + ".tmp"
+
+    with open(temporario, "w", encoding="utf-8") as arquivo:
+        json.dump(
+            eventos,
+            arquivo,
+            ensure_ascii=False,
+            indent=2,
+        )
+        arquivo.write("\n")
+
+    os.replace(temporario, ARQUIVO_SAIDA)
 
 
 def main():
-    print("=" * 60)
-    print("EXTRATOR MERCADO LIVRE EXPERIENCE")
-    print("=" * 60)
+    print("Baixando programação oficial:")
+    print(URL_ORIGINAL)
 
-    js = None
-    source_url = None
+    try:
+        dados = baixar_json(URL_ORIGINAL)
+        eventos_por_data = extrair_eventos(dados)
+        total = validar(eventos_por_data)
+        eventos = gerar_saida(eventos_por_data)
 
-    for url in discover_js_urls():
-        print("Testando:", url)
-        try:
-            candidate = http_get(url)
-            # O chunk correto deve conter os dois dias.
-            if "24/SET" in candidate and "25/SET" in candidate:
-                js = candidate
-                source_url = url
-                break
-        except Exception as exc:
-            print("  Falhou:", exc)
+        salvar_com_seguranca(eventos)
 
-    if js is None:
-        raise RuntimeError("Não encontrei um JavaScript contendo 24/SET e 25/SET.")
+        print("Total: %d eventos." % total)
+        print("Arquivo atualizado: %s" % ARQUIVO_SAIDA)
 
-    print("Fonte encontrada:", source_url)
-    print("Tamanho do JS:", len(js), "bytes")
-
-    schedule = extract_schedule_object(js)
-
-    output = []
-    counter = 1
-    for day in ("24/SET", "25/SET"):
-        events = schedule.get(day, [])
-        if not isinstance(events, list):
-            raise RuntimeError("A programação de %s não é uma lista." % day)
-        print("%s: %d eventos" % (day, len(events)))
-        for event in events:
-            output.append(normalize_event(event, day, counter))
-            counter += 1
-
-    if not output:
-        raise RuntimeError("Nenhum evento encontrado.")
-
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    temp_file = OUTPUT_FILE.with_suffix(".json.tmp")
-    with open(temp_file, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-        f.write("\n")
-    temp_file.replace(OUTPUT_FILE)
-
-    print("Total de eventos:", len(output))
-    print("Arquivo atualizado:", OUTPUT_FILE)
-    print("Concluído com sucesso.")
+    except Exception as erro:
+        print("ERRO: %s" % erro, file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as exc:
-        print("ERRO:", exc)
-        sys.exit(1)
+    main()
