@@ -305,3 +305,22 @@ main>section.card{
   .day-heading{position:relative;top:auto}
   .hero{padding-top:2rem!important}
 }
+
+.event-location-link {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dashed currentColor;
+  transition: opacity .2s ease, transform .2s ease;
+}
+
+.event-location-link:hover {
+  opacity: .75;
+  transform: translateY(-1px);
+}
+
+.event-location-link i {
+  font-size: .85em;
+}
