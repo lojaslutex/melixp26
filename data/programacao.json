@@ -106,12 +106,12 @@
     "palestrantes": [
       {
         "nome": "André Castilho",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Mercado Livre"
       },
       {
         "nome": "Luiza Gurgel",
-        "cargo": "Diretor(a) Ads",
+        "cargo": "Diretora Ads",
         "empresa": "Mercado Livre"
       }
     ],
@@ -205,7 +205,7 @@
       },
       {
         "nome": "Janaína Gasparetto Maroni",
-        "cargo": "Diretor(a) Jurídica e de Sustentabilidade",
+        "cargo": "Diretora Jurídica e de Sustentabilidade",
         "empresa": "Grupo Maroni"
       }
     ],
@@ -292,7 +292,7 @@
     "palestrantes": [
       {
         "nome": "Beca Milano",
-        "cargo": "Empreendedor(a)",
+        "cargo": "Empreendedor",
         "empresa": "Mercado Pago"
       }
     ],
@@ -387,17 +387,17 @@
     "palestrantes": [
       {
         "nome": "Fausto Araujo",
-        "cargo": "Diretor(a) Marketplace",
+        "cargo": "Diretor Marketplace",
         "empresa": "Mercado Livre"
       },
       {
         "nome": "Livia Pedreira",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretora",
         "empresa": "CASACOR"
       },
       {
         "nome": "Edward Pimenta",
-        "cargo": "Diretor(a) Executivo(a)",
+        "cargo": "Diretor Executivo",
         "empresa": "CASACOR"
       }
     ],
@@ -426,7 +426,7 @@
     "palestrantes": [
       {
         "nome": "Ana Mantovani",
-        "cargo": "Diretor(a) Desenvolvimento de Sistemas e Produtos",
+        "cargo": "Diretora Desenvolvimento de Sistemas e Produtos",
         "empresa": "Mercado Livre"
       }
     ],
@@ -463,7 +463,7 @@
     "palestrantes": [
       {
         "nome": "Patricia Monteiro",
-        "cargo": "Diretor(a) Pessoas",
+        "cargo": "Diretora Pessoas",
         "empresa": "Mercado Livre"
       },
       {
@@ -499,12 +499,12 @@
       },
       {
         "nome": "Felipe Filgueiras",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Avant"
       },
       {
         "nome": "Juliano Isley",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Vonder"
       }
     ],
@@ -546,7 +546,7 @@
     "palestrantes": [
       {
         "nome": "Guilherme Cadavez",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Mercado Pago"
       },
       {
@@ -616,7 +616,7 @@
     "palestrantes": [
       {
         "nome": "Renata Herz",
-        "cargo": "Diretor(a) Ads",
+        "cargo": "Diretora Ads",
         "empresa": "Mercado Livre"
       }
     ],
@@ -646,7 +646,7 @@
     "palestrantes": [
       {
         "nome": "Gonzalo Greco",
-        "cargo": "Diretor(a) Tecnologia",
+        "cargo": "Diretor Tecnologia",
         "empresa": "Mercado Livre"
       }
     ],
@@ -693,7 +693,7 @@
       },
       {
         "nome": "Gilberty Gomes Coutinho",
-        "cargo": "Fundador(a)",
+        "cargo": "Fundador",
         "empresa": "Coutinho"
       }
     ],
@@ -744,12 +744,12 @@
     "palestrantes": [
       {
         "nome": "Giovanni Marins Cardoso",
-        "cargo": "Fundador(a)",
+        "cargo": "Fundador",
         "empresa": "Mondial"
       },
       {
         "nome": "Gonzalo Greco",
-        "cargo": "Diretor(a) Tecnologia",
+        "cargo": "Diretor Tecnologia",
         "empresa": "Mercado Livre"
       }
     ],
@@ -779,7 +779,7 @@
     "palestrantes": [
       {
         "nome": "Renata Gerez",
-        "cargo": "Diretor(a) Social Commerce",
+        "cargo": "Diretora Social Commerce",
         "empresa": "Mercado Livre"
       }
     ],
@@ -969,7 +969,7 @@
     "palestrantes": [
       {
         "nome": "Martha Gabriel",
-        "cargo": "Convidado(a) Especial",
+        "cargo": "Convidada Especial",
         "empresa": "Convidado Mercado Pago"
       }
     ],
@@ -1026,7 +1026,7 @@
     "palestrantes": [
       {
         "nome": "Adriana Cardinali Straube",
-        "cargo": "Diretor(a) Legal Commerce",
+        "cargo": "Diretora Legal Commerce",
         "empresa": "Mercado Livre"
       },
       {
@@ -1057,12 +1057,12 @@
       },
       {
         "nome": "Alexandre Leão",
-        "cargo": "Diretor(a) Executivo(a)",
+        "cargo": "Diretor Executivo",
         "empresa": "Distrinox"
       },
       {
         "nome": "Diogo Martins de Fausto",
-        "cargo": "Diretor(a) Executivo(a)",
+        "cargo": "Diretor Executivo",
         "empresa": "Schneider Electric Brasil"
       }
     ],
@@ -1181,7 +1181,7 @@
       },
       {
         "nome": "Robson Privado",
-        "cargo": "Co-fundador(a)",
+        "cargo": "Co-fundador",
         "empresa": "Madeira Madeira"
       }
     ],
@@ -1217,7 +1217,7 @@
       },
       {
         "nome": "Gleidys Salvanha",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretora",
         "empresa": "Google"
       }
     ],
@@ -1460,7 +1460,7 @@
       },
       {
         "nome": "Victoria Siqueira",
-        "cargo": "Supervisor(a)",
+        "cargo": "Supervisora",
         "empresa": "Mercado Livre"
       }
     ],
@@ -1489,17 +1489,17 @@
       },
       {
         "nome": "Paulo Borges",
-        "cargo": "Fundador(a)",
+        "cargo": "Fundador",
         "empresa": "SPFW"
       },
       {
         "nome": "Amir Slama",
-        "cargo": "Fundador(a)",
+        "cargo": "Fundador",
         "empresa": "Amir Slama"
       },
       {
         "nome": "Luiz Paulo Sollero",
-        "cargo": "Diretor(a) Fashion",
+        "cargo": "Diretor Fashion",
         "empresa": "Mercado Livre"
       }
     ],
@@ -1565,7 +1565,7 @@
       },
       {
         "nome": "Rodrigo Garcia",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Petina Soluções"
       }
     ],
@@ -1643,7 +1643,7 @@
       },
       {
         "nome": "Eduardo Gama",
-        "cargo": "Diretor(a) Operações",
+        "cargo": "Diretor Operações",
         "empresa": "Conecta Ads"
       }
     ],
@@ -1676,7 +1676,7 @@
       },
       {
         "nome": "Anitta",
-        "cargo": "Empreendedor(a)",
+        "cargo": "Empreendedora",
         "empresa": ""
       }
     ],
@@ -1719,7 +1719,7 @@
       },
       {
         "nome": "Jorge Monteiro",
-        "cargo": "Diretor(a) Executivo(a)",
+        "cargo": "Diretor Executivo",
         "empresa": "Decathlon"
       },
       {
@@ -1881,7 +1881,7 @@
     "palestrantes": [
       {
         "nome": "Luiz Vergueiro",
-        "cargo": "Diretor(a) Operações",
+        "cargo": "Diretor Operações",
         "empresa": "Mercado Livre"
       },
       {
@@ -1922,7 +1922,7 @@
     "palestrantes": [
       {
         "nome": "Jorge Franchella",
-        "cargo": "Diretor(a) Executivo(a) Produto",
+        "cargo": "Diretor Executivo Produto",
         "empresa": "Mercado Livre"
       },
       {
@@ -1953,7 +1953,7 @@
       },
       {
         "nome": "Leandro Silva",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Tagima"
       },
       {
@@ -1963,12 +1963,12 @@
       },
       {
         "nome": "Luciana Borges",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretora",
         "empresa": "Companhia das Letras"
       },
       {
         "nome": "Daniel Rodrigues",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretor",
         "empresa": "Livraria Leitura"
       }
     ],
@@ -1989,7 +1989,7 @@
     "palestrantes": [
       {
         "nome": "Renata Mascarenhas",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretora",
         "empresa": "Mercado Livre"
       },
       {
@@ -2025,7 +2025,7 @@
       },
       {
         "nome": "Alex Moro",
-        "cargo": "Fundador(a)",
+        "cargo": "Fundador",
         "empresa": "Efeito Empreendedor"
       }
     ],
@@ -2046,7 +2046,7 @@
     "palestrantes": [
       {
         "nome": "Anna Carolina Araripe",
-        "cargo": "Diretor(a) Beleza",
+        "cargo": "Diretora Beleza",
         "empresa": "Mercado Livre"
       },
       {
@@ -2125,17 +2125,17 @@
     "palestrantes": [
       {
         "nome": "Daniel Tonietti",
-        "cargo": "Diretor(a) Veículos e Autopartes",
+        "cargo": "Diretor Veículos e Autopartes",
         "empresa": "Mercado Livre"
       },
       {
         "nome": "Sergio Santos",
-        "cargo": "Empreendedor(a)",
+        "cargo": "Empreendedor",
         "empresa": "SR Motors"
       },
       {
         "nome": "Leonardo Teodoro",
-        "cargo": "Supervisor(a)",
+        "cargo": "Supervisor",
         "empresa": "Volkswagen"
       }
     ],
@@ -2171,7 +2171,7 @@
       },
       {
         "nome": "Luis Felipe Moreirao",
-        "cargo": "Diretor(a) Geral D2C, Consumer Care e Produtos Digitais",
+        "cargo": "Diretor Geral D2C, Consumer Care e Produtos Digitais",
         "empresa": "Whirlpool"
       }
     ],
@@ -2252,7 +2252,7 @@
       },
       {
         "nome": "Mauricio Landi",
-        "cargo": "Diretor(a) Desenvolvimento e Experiência do Vendedor",
+        "cargo": "Diretor Desenvolvimento e Experiência do Vendedor",
         "empresa": "Mercado Livre"
       }
     ],
@@ -2278,7 +2278,7 @@
       },
       {
         "nome": "Ana Weber",
-        "cargo": "Diretor(a)",
+        "cargo": "Diretora",
         "empresa": "Circana"
       }
     ],
