@@ -149,7 +149,7 @@
     "horario_original": "12:20",
     "palco": "Talks Assurant",
     "titulo": "Como Otimizar Suas Promoções e Maximizar Suas Vendas com a Central de Promoções",
-    "descricao": "",
+    "descricao": "A Central de Promoções está com muitas oportunidades para potencializar visitas e conversões, além de oferecer uma nova experiência. Conheça como a Central pode ajudar a planejar, priorizar e executar suas estratégias de descontos para aproveitar ao máximo o nosso calendário promocional e fornecer o desconto certo aos compradores!",
     "empresa": "",
     "palestrantes": [
       {
@@ -292,7 +292,7 @@
     "palestrantes": [
       {
         "nome": "Beca Milano",
-        "cargo": "Empreendedor",
+        "cargo": "Empreendedora",
         "empresa": "Mercado Pago"
       }
     ],
@@ -397,7 +397,7 @@
       },
       {
         "nome": "Edward Pimenta",
-        "cargo": "Diretor Executivo",
+        "cargo": "Diretor",
         "empresa": "CASACOR"
       }
     ],
@@ -489,7 +489,7 @@
     "horario_original": "14:00",
     "palco": "Talks GolLog",
     "titulo": "Trilha do Sucesso Off-to-On: Como Maximizar Oportunidades e Integrar Canais de Venda do Setor de Construção e Ferramentas",
-    "descricao": "",
+    "descricao": "Marcas tradicionais podem se profissionalizar no digital sem conflitar com o varejo físico. Veja como definir o sortimento ideal, capacitar equipes, criar conteúdo técnico e usar Clips e Afiliados. Uma trilha prática para fazer com que o digital complemente o físico.",
     "empresa": "",
     "palestrantes": [
       {
@@ -520,7 +520,7 @@
     "horario_original": "14:00",
     "palco": "Talks Mercado Ads",
     "titulo": "Novos Lançamentos que Permitem Personalizar Sua Estratégia de Negócio",
-    "descricao": "",
+    "descricao": "Imagine oferecer o mesmo produto com diferentes opções de parcelas, preço ou frete grátis — tudo em um único anúncio, sem duplicar cadastros. Ou ainda definir estratégias de venda específicas para cada variante do seu produto, com controle total sobre preço, estoque e envio pelo Full. Essas são as Opções de Venda e as Variantes, dois novos lançamentos do Mercado Livre. Nesta palestra, descubra como essas ferramentas permitem personalizar sua estratégia comercial produto a produto e transformar a forma como você gerencia e vende no Mercado Livre.",
     "empresa": "",
     "palestrantes": [
       {
@@ -541,7 +541,7 @@
     "horario_original": "14:00",
     "palco": "Talks Mercado Pago",
     "titulo": "Para Quem Vende no Marketplace: Preço Certo, Caixa no Azul.",
-    "descricao": "",
+    "descricao": "Preço certo, caixa no azul. Nesta palestra, você vai entender, sem planilha complicada e sem precisar virar contador, como montar o preço dos seus produtos considerando todos os custos, quanto realmente sobra em cada venda e por que lucro não é a mesma coisa que dinheiro em caixa. Uma conversa prática e direta para você decidir com clareza e crescer com segurança.",
     "empresa": "",
     "palestrantes": [
       {
@@ -662,7 +662,7 @@
     "horario_original": "14:50",
     "palco": "Talks GolLog",
     "titulo": "Entenda Como Melhorar Sua Rentabilidade no FULL",
-    "descricao": "",
+    "descricao": "Masterclass sobre rentabilidade por ocupação de espaço no Full: entenda como manter um bom Índice de Performance do Full reduz custos extras para vendedores avançados, transformando a gestão de inventário em vantagem competitiva.",
     "empresa": "",
     "palestrantes": [
       {
@@ -719,7 +719,7 @@
       },
       {
         "nome": "André Santos",
-        "cargo": "Gerente Experiência do Vendedor",
+        "cargo": "Embaixador Experiência do Vendedor",
         "empresa": "Mercado Livre"
       }
     ],
@@ -744,12 +744,12 @@
     "palestrantes": [
       {
         "nome": "Giovanni Marins Cardoso",
-        "cargo": "Fundador",
-        "empresa": "Mondial"
+        "cargo": "Co-fundador",
+        "empresa": "Grupo MK"
       },
       {
         "nome": "Gonzalo Greco",
-        "cargo": "Diretor Tecnologia",
+        "cargo": "Diretor Comercial",
         "empresa": "Mercado Livre"
       }
     ],
@@ -1047,7 +1047,7 @@
     "horario_original": "16:30",
     "palco": "Talks Mercado Ads",
     "titulo": "Gigantes do B2B: Como Escalar as Vendas para Negócios Dentro de Construção e Indústria",
-    "descricao": "",
+    "descricao": "Descubra como escalar vendas B2B no Mercado Livre: selecione produtos com potencial corporativo, precifique para o atacado, aumente a recorrência e supere barreiras fiscais. Saia inspirado e pronto para usar promoções, dados e Envios a favor da sua operação de grandes volumes.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1057,12 +1057,12 @@
       },
       {
         "nome": "Alexandre Leão",
-        "cargo": "Diretor Executivo",
+        "cargo": "Diretor",
         "empresa": "Distrinox"
       },
       {
         "nome": "Diogo Martins de Fausto",
-        "cargo": "Diretor Executivo",
+        "cargo": "Diretor",
         "empresa": "Schneider Electric Brasil"
       }
     ],
@@ -1078,7 +1078,7 @@
     "horario_original": "16:30",
     "palco": "Talks Mercado Pago",
     "titulo": "Da Intuição ao Algoritmo: Como a Inteligência Artificial do Mercado Livre Pode Transformar Sua Operação — do Primeiro Anúncio à Decisão Certa",
-    "descricao": "",
+    "descricao": "Imagine contar com um especialista do Mercado Livre disponível 24 horas por dia para responder suas dúvidas, identificar oportunidades e orientar as melhores decisões para o seu negócio. Esse é o Assistente de Vendedores. Nesta palestra, descubra como essa nova experiência de IA se conecta a outras soluções inteligentes da plataforma para transformar a forma como você vende no Mercado Livre.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1104,28 +1104,28 @@
     "horario_original": "17:20",
     "palco": "Palco Principal",
     "titulo": "Vendedores e Mercado Livre Apresentam: o Futuro que Construímos Juntos",
-    "descricao": "",
+    "descricao": "O protagonismo é dividido com o vendedor desde o título. A história é contada a partir desses dois pontos de vista complementares. Já a palavra “construímos” é conjugada da mesma forma no presente e no pretérito do indicativo. Assim, representa tanto um futuro que está sendo construído quanto os muitos futuros que foram construídos ao longo da jornada.",
     "empresa": "",
     "palestrantes": [
       {
         "nome": "Gustavo Lopes",
         "cargo": "C-Level / CEO VENDEDOR",
-        "empresa": "EMPORIO DO CELULAR"
+        "empresa": "Empório do Celular"
       },
       {
         "nome": "Ednilson Brandão",
         "cargo": "C-Level / CEO VENDEDOR",
-        "empresa": "CASAL DO ECOMMERCE"
+        "empresa": "Quality SP"
       },
       {
-        "nome": "Victor Amorim",
+        "nome": "Vitor Amorim",
         "cargo": "C-Level / CEO VENDEDOR",
-        "empresa": "FIOLUX"
+        "empresa": "Fiolux"
       },
       {
-        "nome": "Bruna",
+        "nome": "Bruna Ravi",
         "cargo": "C-Level / CEO VENDEDOR",
-        "empresa": "CASAL DO ECOMMERCE"
+        "empresa": "Casal do E-commerce"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
@@ -1212,7 +1212,7 @@
     "palestrantes": [
       {
         "nome": "André Castilho",
-        "cargo": "Diretor Sênior Staff Capabilities",
+        "cargo": "Diretor Staff Capabilities",
         "empresa": "Mercado Livre"
       },
       {
@@ -1408,7 +1408,7 @@
     "horario_original": "11:50",
     "palco": "Talks GolLog",
     "titulo": "Pesos e Medidas: Como Evitar Cobranças Indevidas e Proteger Sua Margem",
-    "descricao": "",
+    "descricao": "Compreenda a diferença entre peso real e peso cubado e seu impacto direto nos custos de frete, eliminando cobranças excedentes causadas por cadastros incorretos das dimensões.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1429,7 +1429,7 @@
     "horario_original": "11:50",
     "palco": "Talks Mercado Ads",
     "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
-    "descricao": "Descubra como equilibrar custos e rapidez ao escolher entre ferramentas nativas, integradores ou o desenvolvimento de uma solução própria. Entenda como a inteligência artificial está democratizando automações e ajudando você a tomar a decisão ideal para o momento do seu negócio.",
+    "descricao": "Descubra como reconhecer quando usar as ferramentas disponíveis na Central de Vendedores, Integradores Certificados ou quando criar a própria solução, considerando o alcance e os desafios de cada escolha.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1523,7 +1523,7 @@
     "horario_original": "12:40",
     "palco": "Talks Assurant",
     "titulo": "Por que o Mercado Livre Cobra DIFAL? Entenda os Tributos nas Suas Vendas",
-    "descricao": "",
+    "descricao": "A palestra apresenta, de forma prática e acessível, os principais aspectos tributários que impactam os vendedores do Mercado Livre, com foco especial no DIFAL nas vendas interestaduais. O conteúdo explica quando esses tributos são aplicáveis, como funcionam os fluxos fiscais das vendas no marketplace e quais cuidados os vendedores devem adotar para evitar cobranças inesperadas, problemas no trânsito das mercadorias e impactos no fluxo de caixa. A proposta é tornar o tema tributário mais simples e previsível, integrando-o à gestão do negócio.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1555,7 +1555,7 @@
     "horario_original": "12:40",
     "palco": "Talks GolLog",
     "titulo": "Convivência: Como Construir o Mix Logístico Ideal para Sua Operação",
-    "descricao": "",
+    "descricao": "Aprenda como operar Full, Flex e Coleta simultaneamente para garantir cobertura total de entrega com o menor custo por região, profissionalizando sua operação logística.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1581,7 +1581,7 @@
     "horario_original": "12:40",
     "palco": "Talks Mercado Ads",
     "titulo": "Midea na Copa 2026: uma Estratégia de Branding By Mercado Ads",
-    "descricao": "",
+    "descricao": "Neste painel, Mercado Ads e Midea apresentam como uma estratégia full funnel, integrada dentro e fora do ecossistema do Mercado Livre, ajudou a ampliar alcance, relevância e resultados ao longo de toda a jornada do consumidor. Uma conversa sobre parceria, inovação e o uso inteligente de dados e soluções de mídia para transformar a conexão com a audiência em impacto para o negócio.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1613,7 +1613,7 @@
       {
         "nome": "Felipp Correa Rigonatti",
         "cargo": "Gerente",
-        "empresa": "Mercado Pago"
+        "empresa": "Mercado Livre"
       },
       {
         "nome": "Samuel Bernucci",
@@ -1719,7 +1719,7 @@
       },
       {
         "nome": "Jorge Monteiro",
-        "cargo": "Diretor Executivo",
+        "cargo": "Diretor",
         "empresa": "Decathlon"
       },
       {
@@ -1740,7 +1740,7 @@
     "horario_original": "13:30",
     "palco": "Talks GolLog",
     "titulo": "Produtos Estrela: Como Selecionar o Catálogo de Elite para Vender Mais no Full",
-    "descricao": "",
+    "descricao": "Vendedores avançados aprendem a identificar os SKUs de alta rotação para reposição prioritária no Full, aplicando a metodologia Modelo Estrela para maximizar o GMV com uma seleção estratégica e orientada a dados.",
     "empresa": "",
     "palestrantes": [
       {
@@ -1850,6 +1850,11 @@
         "nome": "Amanda Holzer",
         "cargo": "Palestrante",
         "empresa": ".Holzer"
+      },
+      {
+        "nome": "Anele Bragante",
+        "cargo": "Membro do Team Conecta",
+        "empresa": ""
       }
     ],
     "tema": "Tendências de mercado",
@@ -1922,7 +1927,7 @@
     "palestrantes": [
       {
         "nome": "Jorge Franchella",
-        "cargo": "Diretor Executivo Produto",
+        "cargo": "Diretor Produto",
         "empresa": "Mercado Livre"
       },
       {
@@ -1989,7 +1994,7 @@
     "palestrantes": [
       {
         "nome": "Renata Mascarenhas",
-        "cargo": "Diretora",
+        "cargo": "Diretora Farma",
         "empresa": "Mercado Livre"
       },
       {
@@ -2087,13 +2092,13 @@
     "imagem": ""
   },
   {
-    "id": "talk-40f70aebd5c1",
+    "id": "talk-d84d422796c6",
     "data": "2026-09-25",
     "hora_inicio": "16:00",
     "hora_fim": "",
     "horario_original": "16:00",
     "palco": "Talks Mercado Ads",
-    "titulo": "Gestão Eficiente de Devoluções 2.0",
+    "titulo": "Gestão Eficiente de Devoluções",
     "descricao": "",
     "empresa": "",
     "palestrantes": [
@@ -2171,7 +2176,7 @@
       },
       {
         "nome": "Luis Felipe Moreirao",
-        "cargo": "Diretor Geral D2C, Consumer Care e Produtos Digitais",
+        "cargo": "Diretor D2C, Consumer Care e Produtos Digitais",
         "empresa": "Whirlpool"
       }
     ],
@@ -2221,7 +2226,7 @@
     "horario_original": "16:50",
     "palco": "Talks GolLog",
     "titulo": "Entenda Quanto Custa Enviar com o Mercado Livre",
-    "descricao": "",
+    "descricao": "Entenda como funcionam os custos de envio no Mercado Livre, incluindo comissão por venda, tarifa por peso e reputação, além dos serviços logísticos (Full, Flex, Agência e Coleta). O conteúdo também aborda os três pilares da conversão no e-commerce: velocidade, frete grátis e confiança.",
     "empresa": "",
     "palestrantes": [
       {
