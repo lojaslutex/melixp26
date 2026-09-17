@@ -1,5 +1,41 @@
 [
   {
+    "id": "talk-bdc467581a31",
+    "data": "2026-09-24",
+    "hora_inicio": "10:30",
+    "hora_fim": "",
+    "horario_original": "10:30",
+    "palco": "Palco Principal",
+    "titulo": "Mercado Livre e Mercado Pago: o Ecossistema que Mais Entrega",
+    "descricao": "",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Fernando Yunes",
+        "cargo": "Vice-Presidente",
+        "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "André Chaves",
+        "cargo": "Vice-Presidente",
+        "empresa": "Mercado Pago"
+      }
+    ],
+    "tema": "Ecossistema Mercado Livre",
+    "tags": [
+      "Tendências de Mercado",
+      "Crédito e Meios de Pagamento",
+      "Inspiracional",
+      "Case de Sucesso",
+      "Tecnologia",
+      "Operações",
+      "Ferramentas Mercado Livre",
+      "Central de Vendedores",
+      "Mercado Pago"
+    ],
+    "imagem": ""
+  },
+  {
     "id": "talk-0f899e3951c0",
     "data": "2026-09-24",
     "hora_inicio": "11:00",
@@ -11,9 +47,14 @@
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Roberta Donato e Maurício Landi",
+        "nome": "Roberta Donato",
         "cargo": "",
-        "empresa": ""
+        "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "Maurício Landi",
+        "cargo": "",
+        "empresa": "Mercado Livre"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
@@ -248,34 +289,29 @@
     "imagem": ""
   },
   {
-    "id": "talk-e63018258800",
+    "id": "talk-ba88219a3fc7",
     "data": "2026-09-24",
     "hora_inicio": "12:20",
     "hora_fim": "",
     "horario_original": "12:20",
     "palco": "Talks Mercado Pago",
-    "titulo": "4 Passos para Vender no Instagram, WhatsApp e Site Próprio",
-    "descricao": "Aprenda como transformar seguidores em compradores usando as ferramentas certas: conteúdo que engaja, catálogos e links de pagamento no WhatsApp, bio livre e checkout no site próprio.",
+    "titulo": "Impulsione Seu Negócio com Soluções de Crédito e Conta Negócio do Mercado Pago",
+    "descricao": "",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Matheus Rodrigues Barbosa",
-        "cargo": "Gerente Sênior Marketing",
+        "nome": "Luis Junqueira",
+        "cargo": "Gerente Sênior",
         "empresa": "Mercado Pago"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
     "tags": [
-      "Tendências de Mercado",
-      "Social Commerce",
-      "Publicidade e Ads",
-      "Ferramentas Mercado Livre",
-      "Central de Vendedores",
-      "Central de Promoções",
-      "Minha Página",
-      "Afiliados",
-      "Assistente - Mercado Livre",
-      "Live"
+      "Crédito e Meios de Pagamento",
+      "Operações",
+      "Conciliação Financeira",
+      "Mercado Pago",
+      "Assistente - Mercado Pago"
     ],
     "imagem": ""
   },
@@ -307,6 +343,32 @@
     "imagem": ""
   },
   {
+    "id": "talk-89eb1117b525",
+    "data": "2026-09-24",
+    "hora_inicio": "13:10",
+    "hora_fim": "",
+    "horario_original": "13:10",
+    "palco": "Talks Assurant",
+    "titulo": "O Funil Perfeito: Como Transformar Processos em Vendas Previsíveis no Mercado Livre",
+    "descricao": "",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Diogo Serra",
+        "cargo": "C-Level / CEO",
+        "empresa": "Seller360"
+      },
+      {
+        "nome": "Emerson Faccioli",
+        "cargo": "C-Level / CEO",
+        "empresa": "ECF Consultoria"
+      }
+    ],
+    "tema": "Inteligência Artificial",
+    "tags": [],
+    "imagem": ""
+  },
+  {
     "id": "talk-6697f795a4ad",
     "data": "2026-09-24",
     "hora_inicio": "13:10",
@@ -321,6 +383,21 @@
         "nome": "Ignacio Javier",
         "cargo": "Gerente Sênior Comercial Meli Air",
         "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "Patrícia Bello",
+        "cargo": "Diretora",
+        "empresa": "GOLLOG"
+      },
+      {
+        "nome": "Ana Paula Amorim Vinholy",
+        "cargo": "Vice-Presidente",
+        "empresa": "Pronto Cargo do Brasil"
+      },
+      {
+        "nome": "Ado Rafael Feijó Evangelista",
+        "cargo": "Diretor Supply Chain",
+        "empresa": "Intelbras"
       }
     ],
     "tema": "Cases de sucesso",
@@ -340,7 +417,7 @@
     "palestrantes": [
       {
         "nome": "Roberta Pachere",
-        "cargo": "Gerente Sênior Construção, Ferramentas e Iluminação",
+        "cargo": "Gerente Construção, Ferramentas e Iluminação",
         "empresa": "Mercado Livre"
       },
       {
@@ -988,29 +1065,46 @@
     "imagem": ""
   },
   {
-    "id": "talk-e432e50547de",
+    "id": "talk-1576b6373dc3",
     "data": "2026-09-24",
     "hora_inicio": "16:30",
     "hora_fim": "",
     "horario_original": "16:30",
     "palco": "Talks Assurant",
-    "titulo": "Como Construir uma Marca Sólida com o Mercado Livre",
-    "descricao": "",
+    "titulo": "O Novo Jogo de Sports: Creators, Afiliados e Live Commerce Como Motores de Crescimento",
+    "descricao": "O novo jogo de Sports: creators, afiliados e live commerce como motores de crescimento.\n\nDescubra como estratégias de social commerce, por meio de creators e afiliados, se tornaram alavancas de alta performance na vertical e como replicar essas práticas na sua operação para ampliar alcance, gerar confiança e converter mais dentro da plataforma.",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Diego Pudo",
-        "cargo": "Gerente Comunicação e Marketing",
+        "nome": "Juliana Bispo",
+        "cargo": "Gerente Sênior Esportes",
         "empresa": "Mercado Livre"
       },
       {
-        "nome": "Alexandre Reis",
-        "cargo": "Gerente Sênior Saúde",
+        "nome": "Rodrigo Freitas",
+        "cargo": "Gerente Sênior Social Commerce",
         "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "Jorge Monteiro",
+        "cargo": "Diretor",
+        "empresa": "Decathlon"
+      },
+      {
+        "nome": "Filipe Junqueira",
+        "cargo": "Gerente Comercial",
+        "empresa": "Odin Fit"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
-    "tags": [],
+    "tags": [
+      "Tendências de Mercado",
+      "Social Commerce",
+      "Case de Sucesso",
+      "Assessoria do Mercado Livre",
+      "Afiliados",
+      "Esporte"
+    ],
     "imagem": ""
   },
   {
@@ -1107,6 +1201,11 @@
     "descricao": "O protagonismo é dividido com o vendedor desde o título. A história é contada a partir desses dois pontos de vista complementares. Já a palavra “construímos” é conjugada da mesma forma no presente e no pretérito do indicativo. Assim, representa tanto um futuro que está sendo construído quanto os muitos futuros que foram construídos ao longo da jornada.",
     "empresa": "",
     "palestrantes": [
+      {
+        "nome": "André Santos",
+        "cargo": "Embaixador",
+        "empresa": "Mercado Livre"
+      },
       {
         "nome": "Gustavo Lopes",
         "cargo": "C-Level / CEO VENDEDOR",
@@ -1246,7 +1345,7 @@
     "palestrantes": [
       {
         "nome": "Cauê Antunes",
-        "cargo": "Gerente Sênior Promoções",
+        "cargo": "Gerente Sênior de Promoções e Benefícios",
         "empresa": "Mercado Livre"
       },
       {
@@ -1286,25 +1385,25 @@
     "imagem": ""
   },
   {
-    "id": "talk-3ac64c972418",
+    "id": "talk-fbe0c1bfabba",
     "data": "2026-09-25",
     "hora_inicio": "11:00",
     "hora_fim": "",
     "horario_original": "11:00",
     "palco": "Talks Mercado Ads",
-    "titulo": "Anúncios de Catálogo: Conceitos, Dicas e Novidades para Destacar Seus Produtos e Multiplicar Sua Visibilidade",
-    "descricao": "Esta palestra apresenta o catálogo como uma ferramenta estratégica essencial para o sucesso dos vendedores no Mercado Livre, demonstrando como ele potencializa os processos de anúncio e influencia diretamente o desempenho na Buy Box como uma verdadeira alavanca de vendas. \n\nEntenda o que é o catálogo, como ele melhora a experiência de compra por meio de informações curadas e como facilita o discovery dos produtos. Além disso, conheça os benefícios para o vendedor no momento de anunciar e na conversão. A sessão inclui ainda uma introdução à Buy Box.",
+    "titulo": "Farma: o Próximo Capítulo da Saúde Digital",
+    "descricao": "",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Júlia Zancaner",
-        "cargo": "Gerente Experiência do Vendedor",
+        "nome": "Renata Mascarenhas",
+        "cargo": "Diretora Farma",
         "empresa": "Mercado Livre"
       },
       {
-        "nome": "Gabriel Paiva",
-        "cargo": "Gerente Educação",
-        "empresa": "Mamba Digital"
+        "nome": "Fernando Rubio",
+        "cargo": "Vice-Presidente Mercado Livre",
+        "empresa": ""
       }
     ],
     "tema": "Ecossistema Mercado Livre",
@@ -1312,29 +1411,34 @@
     "imagem": ""
   },
   {
-    "id": "talk-61767e1f2dfd",
+    "id": "talk-98890afafca6",
     "data": "2026-09-25",
     "hora_inicio": "11:00",
     "hora_fim": "",
     "horario_original": "11:00",
     "palco": "Talks Mercado Pago",
-    "titulo": "Impulsione Seu Negócio com Soluções de Crédito e Conta Negócio do Mercado Pago",
-    "descricao": "",
+    "titulo": "4 Passos para Vender no Instagram, WhatsApp e Site Próprio",
+    "descricao": "Aprenda como transformar seguidores em compradores usando as ferramentas certas: conteúdo que engaja, catálogos e links de pagamento no WhatsApp, bio livre e checkout no site próprio.",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Luis Junqueira",
-        "cargo": "Gerente Sênior",
+        "nome": "Matheus Rodrigues Barbosa",
+        "cargo": "Gerente Sênior Marketing",
         "empresa": "Mercado Pago"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
     "tags": [
-      "Crédito e Meios de Pagamento",
-      "Operações",
-      "Conciliação Financeira",
-      "Mercado Pago",
-      "Assistente - Mercado Pago"
+      "Tendências de Mercado",
+      "Social Commerce",
+      "Publicidade e Ads",
+      "Ferramentas Mercado Livre",
+      "Central de Vendedores",
+      "Central de Promoções",
+      "Minha Página",
+      "Afiliados",
+      "Assistente - Mercado Livre",
+      "Live"
     ],
     "imagem": ""
   },
@@ -1414,27 +1518,6 @@
       {
         "nome": "Otávio Vianna",
         "cargo": "Gerente de Operações Envios",
-        "empresa": "Mercado Livre"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
-    "id": "talk-7ca21b2ba414",
-    "data": "2026-09-25",
-    "hora_inicio": "11:50",
-    "hora_fim": "",
-    "horario_original": "11:50",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
-    "descricao": "Descubra como reconhecer quando usar as ferramentas disponíveis na Central de Vendedores, Integradores Certificados ou quando criar a própria solução, considerando o alcance e os desafios de cada escolha.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Tamires Lidueña",
-        "cargo": "Gerente de TI Integradores",
         "empresa": "Mercado Livre"
       }
     ],
@@ -1697,35 +1780,25 @@
     "imagem": ""
   },
   {
-    "id": "talk-f2b055f0f324",
+    "id": "talk-8daed89ac9bd",
     "data": "2026-09-25",
     "hora_inicio": "13:30",
     "hora_fim": "",
     "horario_original": "13:30",
     "palco": "Talks Assurant",
-    "titulo": "O Novo Jogo de Sports: Creators, Afiliados e Live Commerce Como Motores de Crescimento",
-    "descricao": "O novo jogo de Sports: creators, afiliados e live commerce como motores de crescimento.\n\nDescubra como estratégias de social commerce, por meio de creators e afiliados, se tornaram alavancas de alta performance na vertical e como replicar essas práticas na sua operação para ampliar alcance, gerar confiança e converter mais dentro da plataforma.",
+    "titulo": "Como Construir uma Marca Sólida com o Mercado Livre",
+    "descricao": "",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Juliana Bispo",
-        "cargo": "Gerente Sênior Esportes",
+        "nome": "Diego Pudo",
+        "cargo": "Gerente Comunicação e Marketing",
+        "empresa": "Soldiers"
+      },
+      {
+        "nome": "Alexandre Reis",
+        "cargo": "Gerente Sênior Saúde",
         "empresa": "Mercado Livre"
-      },
-      {
-        "nome": "Rodrigo Freitas",
-        "cargo": "Gerente Sênior Social Commerce",
-        "empresa": "Mercado Livre"
-      },
-      {
-        "nome": "Jorge Monteiro",
-        "cargo": "Diretor",
-        "empresa": "Decathlon"
-      },
-      {
-        "nome": "Filipe Junqueira",
-        "cargo": "Gerente Comercial",
-        "empresa": "Odin Fit"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
@@ -1759,6 +1832,27 @@
     "imagem": ""
   },
   {
+    "id": "talk-e7d3958ce25c",
+    "data": "2026-09-25",
+    "hora_inicio": "13:30",
+    "hora_fim": "",
+    "horario_original": "13:30",
+    "palco": "Talks Mercado Ads",
+    "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
+    "descricao": "Descubra como reconhecer quando usar as ferramentas disponíveis na Central de Vendedores, Integradores Certificados ou quando criar a própria solução, considerando o alcance e os desafios de cada escolha.",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Tamires Lidueña",
+        "cargo": "Gerente de TI Integradores",
+        "empresa": "Mercado Livre"
+      }
+    ],
+    "tema": "Ecossistema Mercado Livre",
+    "tags": [],
+    "imagem": ""
+  },
+  {
     "id": "talk-58d7e7585840",
     "data": "2026-09-25",
     "hora_inicio": "13:30",
@@ -1785,13 +1879,13 @@
     "imagem": ""
   },
   {
-    "id": "talk-946991356752",
+    "id": "talk-f139a946c33c",
     "data": "2026-09-25",
     "hora_inicio": "13:30",
     "hora_fim": "",
     "horario_original": "13:30",
     "palco": "Talks Mercado Pago",
-    "titulo": "Como Potencializar as Vendas Ainda em 2026 com Negociações e IA",
+    "titulo": "Como Se Preparar para Vender Muito na Black Friday com Bons Produtos e IA",
     "descricao": "",
     "empresa": "",
     "palestrantes": [
@@ -1982,25 +2076,25 @@
     "imagem": ""
   },
   {
-    "id": "talk-2ed9d621c782",
+    "id": "talk-783da56bf70b",
     "data": "2026-09-25",
     "hora_inicio": "15:10",
     "hora_fim": "",
     "horario_original": "15:10",
     "palco": "Talks Mercado Ads",
-    "titulo": "Farma: o Próximo Capítulo da Saúde Digital",
-    "descricao": "",
+    "titulo": "Anúncios de Catálogo: Conceitos, Dicas e Novidades para Destacar Seus Produtos e Multiplicar Sua Visibilidade",
+    "descricao": "Esta palestra apresenta o catálogo como uma ferramenta estratégica essencial para o sucesso dos vendedores no Mercado Livre, demonstrando como ele potencializa os processos de anúncio e influencia diretamente o desempenho na Buy Box como uma verdadeira alavanca de vendas. \n\nEntenda o que é o catálogo, como ele melhora a experiência de compra por meio de informações curadas e como facilita o discovery dos produtos. Além disso, conheça os benefícios para o vendedor no momento de anunciar e na conversão. A sessão inclui ainda uma introdução à Buy Box.",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Renata Mascarenhas",
-        "cargo": "Diretora Farma",
+        "nome": "Júlia Zancaner",
+        "cargo": "Gerente Experiência do Vendedor",
         "empresa": "Mercado Livre"
       },
       {
-        "nome": "Fernando Rubio",
-        "cargo": "Vice-Presidente Mercado Livre",
-        "empresa": ""
+        "nome": "Gabriel Paiva",
+        "cargo": "Gerente Educação",
+        "empresa": "Mamba Digital"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
@@ -2068,6 +2162,74 @@
       "Case de Sucesso",
       "Ferramentas Mercado Livre"
     ],
+    "imagem": ""
+  },
+  {
+    "id": "talk-d051558e0a27",
+    "data": "2026-09-25",
+    "hora_inicio": "16:00",
+    "hora_fim": "",
+    "horario_original": "16:00",
+    "palco": "Palco Principal",
+    "titulo": "Mercado Pago Apresenta: Finanças para Empreender: o que Todo Negócio Precisa Saber",
+    "descricao": "Uma palestra prática e acessível sobre os fundamentos financeiros que ajudam a construir um negócio mais saudável. O conteúdo mostra como organizar melhor as finanças, tomar decisões com mais clareza e entender por que separar as contas pessoais das contas da empresa é um dos primeiros passos para crescer de forma sustentável, trazendo a Conta Negócio do Mercado Pago como exemplo dessa organização.",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Gil do Vigor",
+        "cargo": "Convidado Especial",
+        "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "Marcos Mion",
+        "cargo": "Convidado Especial",
+        "empresa": ""
+      }
+    ],
+    "tema": "Inspiracional",
+    "tags": [
+      "Tendências de Mercado",
+      "Crédito e Meios de Pagamento",
+      "Publicidade e Ads",
+      "Inspiracional",
+      "Case de Sucesso",
+      "Precificação de Produto",
+      "Tecnologia",
+      "Operações",
+      "Reforma Tributária",
+      "Precificação Fiscal e Tributário"
+    ],
+    "imagem": ""
+  },
+  {
+    "id": "talk-f84824550596",
+    "data": "2026-09-25",
+    "hora_inicio": "16:00",
+    "hora_fim": "",
+    "horario_original": "16:00",
+    "palco": "Talks Assurant",
+    "titulo": "O Futuro do Varejo com Seguros Integrados: Como Mercado Livre e Assurant Estão Transformando a Experiência do Cliente",
+    "descricao": "",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Gillian Barbosa",
+        "cargo": "Gerente Seguros",
+        "empresa": "Mercado Pago"
+      },
+      {
+        "nome": "Vladimir Freneda",
+        "cargo": "C-Level / CEO",
+        "empresa": "Assurant Brasil"
+      },
+      {
+        "nome": "Paulo Florêncio",
+        "cargo": "Jornalista e Consultor de Comunicação Corporativa",
+        "empresa": "Agência de PR Vital"
+      }
+    ],
+    "tema": "Inteligência Artificial",
+    "tags": [],
     "imagem": ""
   },
   {
@@ -2140,7 +2302,7 @@
       },
       {
         "nome": "Leonardo Teodoro",
-        "cargo": "Supervisor",
+        "cargo": "Supervisor Comercial da Volkswagen",
         "empresa": "Volkswagen"
       }
     ],
@@ -2189,6 +2351,41 @@
       "Case de Sucesso",
       "Tecnologia",
       "Ferramentas Mercado Livre"
+    ],
+    "imagem": ""
+  },
+  {
+    "id": "talk-a5534024d398",
+    "data": "2026-09-25",
+    "hora_inicio": "16:50",
+    "hora_fim": "",
+    "horario_original": "16:50",
+    "palco": "Palco Principal",
+    "titulo": "Do Conteúdo à Venda — Como Influência, Marca Pessoal e Afiliação Estão Redefinindo o Jeito de Empreender no Digital",
+    "descricao": "Renata Gerez, Diretora de Social Commerce do Mercado Livre, media uma conversa com Jade Picon e grandes nomes da afiliação digital sobre como influência se transforma em resultado real de vendas e o que faz um produto se destacar numa campanha de afiliação.",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Renata Gerez",
+        "cargo": "Diretora Social Commerce",
+        "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "Jade Picon",
+        "cargo": "Influenciadora",
+        "empresa": ""
+      }
+    ],
+    "tema": "Mercado feminino",
+    "tags": [
+      "Tendências de Mercado",
+      "Social Commerce",
+      "Publicidade e Ads",
+      "Inspiracional",
+      "Case de Sucesso",
+      "Clips",
+      "Afiliados",
+      "Live"
     ],
     "imagem": ""
   },
@@ -2256,7 +2453,7 @@
         "empresa": "Conecta Ads"
       },
       {
-        "nome": "Mauricio Landi",
+        "nome": "Maurício Landi",
         "cargo": "Diretor Desenvolvimento e Experiência do Vendedor",
         "empresa": "Mercado Livre"
       }
@@ -2288,6 +2485,27 @@
       }
     ],
     "tema": "Ecossistema Mercado Livre",
+    "tags": [],
+    "imagem": ""
+  },
+  {
+    "id": "talk-c04fe5dee8cb",
+    "data": "2026-09-25",
+    "hora_inicio": "17:40",
+    "hora_fim": "",
+    "horario_original": "17:40",
+    "palco": "Palco Principal",
+    "titulo": "Superação que Vale Ouro",
+    "descricao": "",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Daniel Dias",
+        "cargo": "",
+        "empresa": "Mercado Livre"
+      }
+    ],
+    "tema": "Inspiracional",
     "tags": [],
     "imagem": ""
   }
