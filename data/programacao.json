@@ -820,11 +820,6 @@
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Giovanni Marins Cardoso",
-        "cargo": "Co-fundador",
-        "empresa": "Grupo MK"
-      },
-      {
         "nome": "Gonzalo Greco",
         "cargo": "Diretor Comercial",
         "empresa": "Mercado Livre"
@@ -1657,25 +1652,20 @@
     "imagem": ""
   },
   {
-    "id": "talk-35343137e148",
+    "id": "talk-3bda3307b211",
     "data": "2026-09-25",
     "hora_inicio": "12:40",
     "hora_fim": "",
     "horario_original": "12:40",
     "palco": "Talks Mercado Ads",
-    "titulo": "Midea na Copa 2026: uma Estratégia de Branding By Mercado Ads",
-    "descricao": "Neste painel, Mercado Ads e Midea apresentam como uma estratégia full funnel, integrada dentro e fora do ecossistema do Mercado Livre, ajudou a ampliar alcance, relevância e resultados ao longo de toda a jornada do consumidor. Uma conversa sobre parceria, inovação e o uso inteligente de dados e soluções de mídia para transformar a conexão com a audiência em impacto para o negócio.",
+    "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
+    "descricao": "Descubra como reconhecer quando usar as ferramentas disponíveis na Central de Vendedores, Integradores Certificados ou quando criar a própria solução, considerando o alcance e os desafios de cada escolha.",
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Desiree Do Carmo Caterini",
-        "cargo": "Gerente Sênior Ads",
+        "nome": "Tamires Lidueña",
+        "cargo": "Gerente de TI Integradores",
         "empresa": "Mercado Livre"
-      },
-      {
-        "nome": "Barbara Miklacevicius",
-        "cargo": "Gerente Sênior Marketing",
-        "empresa": "Midea"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
@@ -1791,11 +1781,6 @@
     "empresa": "",
     "palestrantes": [
       {
-        "nome": "Diego Pudo",
-        "cargo": "Gerente Comunicação e Marketing",
-        "empresa": "Soldiers"
-      },
-      {
         "nome": "Alexandre Reis",
         "cargo": "Gerente Sênior Saúde",
         "empresa": "Mercado Livre"
@@ -1832,27 +1817,6 @@
     "imagem": ""
   },
   {
-    "id": "talk-e7d3958ce25c",
-    "data": "2026-09-25",
-    "hora_inicio": "13:30",
-    "hora_fim": "",
-    "horario_original": "13:30",
-    "palco": "Talks Mercado Ads",
-    "titulo": "Central de Vendedores, Integradores ou Desenvolvimento Próprio? Qual a Solução Perfeita para o Meu Negócio?",
-    "descricao": "Descubra como reconhecer quando usar as ferramentas disponíveis na Central de Vendedores, Integradores Certificados ou quando criar a própria solução, considerando o alcance e os desafios de cada escolha.",
-    "empresa": "",
-    "palestrantes": [
-      {
-        "nome": "Tamires Lidueña",
-        "cargo": "Gerente de TI Integradores",
-        "empresa": "Mercado Livre"
-      }
-    ],
-    "tema": "Ecossistema Mercado Livre",
-    "tags": [],
-    "imagem": ""
-  },
-  {
     "id": "talk-58d7e7585840",
     "data": "2026-09-25",
     "hora_inicio": "13:30",
@@ -1872,6 +1836,32 @@
         "nome": "Gabriel Paiva",
         "cargo": "Gerente",
         "empresa": "Mamba Digital"
+      }
+    ],
+    "tema": "Ecossistema Mercado Livre",
+    "tags": [],
+    "imagem": ""
+  },
+  {
+    "id": "talk-8331909eb490",
+    "data": "2026-09-25",
+    "hora_inicio": "13:30",
+    "hora_fim": "",
+    "horario_original": "13:30",
+    "palco": "Talks Mercado Ads",
+    "titulo": "Midea na Copa 2026: uma Estratégia de Branding By Mercado Ads",
+    "descricao": "Neste painel, Mercado Ads e Midea apresentam como uma estratégia full funnel, integrada dentro e fora do ecossistema do Mercado Livre, ajudou a ampliar alcance, relevância e resultados ao longo de toda a jornada do consumidor. Uma conversa sobre parceria, inovação e o uso inteligente de dados e soluções de mídia para transformar a conexão com a audiência em impacto para o negócio.",
+    "empresa": "",
+    "palestrantes": [
+      {
+        "nome": "Desiree Do Carmo Caterini",
+        "cargo": "Gerente Sênior Ads",
+        "empresa": "Mercado Livre"
+      },
+      {
+        "nome": "Barbara Miklacevicius",
+        "cargo": "Gerente Sênior Marketing",
+        "empresa": "Midea"
       }
     ],
     "tema": "Ecossistema Mercado Livre",
