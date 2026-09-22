@@ -14,8 +14,13 @@ def make_id(x):
     return "talk-"+hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
 
 req=urllib.request.Request(SOURCE_URL,headers={"User-Agent":"Mozilla/5.0 (MELIXP26 updater)"})
-with urllib.request.urlopen(req,timeout=30) as r:
-    src=json.loads(r.read().decode("utf-8"))
+with urllib.request.urlopen(req, timeout=30) as r:
+    raw = r.read()
+
+try:
+    src = json.loads(raw.decode("utf-8-sig"))
+except json.JSONDecodeError as e:
+    raise RuntimeError(f"A fonte oficial não retornou um JSON válido: {e}") from e
 
 if not isinstance(src,dict):
     raise RuntimeError("A fonte oficial não retornou o formato esperado.")
